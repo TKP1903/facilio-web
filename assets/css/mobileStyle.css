@@ -1,0 +1,243 @@
+
+@media screen and (max-width: 1024px){ 
+	.fc-mobile-col-change{
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		flex-direction: column-reverse;
+		margin-right: 0;
+		margin-left: 0;
+	}
+	.futureproof-campaign-line1,.futureproof-campaign-line2, .futureproof-campaign-line3, .futureproof-campaign-line4{
+		display: none;
+	}
+	.futureproof-campaign-header{
+		height: auto !important;
+		padding-bottom: 100px !important;
+	}
+	.futureproof-campaign-header-content{
+		padding-top: 100px !important;
+	}
+	.fc-mobile-futureproof-campaign-second-section{
+		padding-top: 0 !important;
+		padding-bottom: 50px !important;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.future-proof-campaign-invo-block{
+		padding-bottom: 0 !important;
+	}
+	.future-proof-fourth-block{
+		padding-top: 50px !important;
+	}
+	
+	.futureproof-campaign-third-section .text-center, .futureproof-campaign-second-section .text-center, .future-proof-fifth-sec .text-center{
+		padding-top: 50px;
+	}
+	.future-proof-campaign-f22 br{
+		display: none;
+	}
+}
+@media screen and (max-width: 768px){ 
+
+}
+@media screen and (max-width: 600px){ 
+	.fc-mobile-br-remove br{
+		display: none !important;
+	}
+	.reachAddressrR {
+		width: 100%;
+		padding-left: 20px;
+		float: left;
+	}
+	.futureproof-campaign-header-btn{
+		padding: 18px 22px !important;
+	}
+	.futureproof-blue-banner h4 {
+		font-size: 28px !important;
+		line-height: 35px !important;
+	}
+	.fc-mobile-image80{
+		width: 80% !important; 
+	}
+	.future-proof-fourth-cont-mobile{
+		padding-top: 0 !important;
+	}
+	.futureproof-blue-banner .mobile-demo-pink-btn{
+		top: 50px !important;
+	}
+	.futureproof-campaign-first-section-desc{
+		padding-top: 50px !important;
+	}
+	.futureproof-campaign-h2 {
+		font-size: 22px !important;
+		line-height: 33px !important;
+	}
+	.futureproof-campaign-h2 br, .futureproof-campaign-first-section-desc br, .futureproof-campaign-second-section-desc br, .future-proof-campaign-invo-desc br, .futureproof-campaign-header-content .futureproof-campaign-header-desc br, .futureproof-campaign-header-content .futureproof-campaign-header-h1 br, .future-proof-campaign-f32 br{
+		display: none;
+	}
+	.fc-mobile-futureproof-campaign-second-section{
+		padding-top: 50px !important;
+		padding-bottom: 50px !important;
+	}
+	.futureproof-campaign-first-section{
+		padding-top: 50px !important;
+	}
+	.future-proof-campaign-f32{
+		font-size: 24px !important;
+		line-height: 32px !important;
+	}
+	.futureproof-campaign-second-section-desc {
+		font-size: 18px !important;
+		line-height: 25px !important;
+	}
+	.futureproof-campaign-first-section-desc {
+		font-size: 15px !important;
+		line-height: 25px !important;
+	}
+	.futureproof-campaign-second-section-mobile{
+		padding-top: 40px !important;
+    	padding-bottom: 40px !important;
+	}
+	.futureproof-campaign-third-section img{
+		width: 80% !important;
+	}
+	.futureproof-campaign-first-section-desc, .future-proof-campaign-invo-desc, .futureproof-campaign-header-content .futureproof-campaign-header-desc, .futureproof-campaign-header-content .futureproof-campaign-header-h1, .future-proof-fifth-sec, .futureproof-campaign-second-section, .futureproof-campaign-third-section .row{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.future-proof-campaign-invo-block h4 {
+		font-size: 28px !important;
+	}
+	.future-proof-campaign-f22 {
+		font-size: 15px !important;
+	}
+	.futureproof-campaign-header-content .futureproof-campaign-header-h1 {
+		font-size: 30px !important;
+		line-height: 42px !important;
+	}
+	.futureproof-campaign-header-content .futureproof-campaign-header-desc{
+		font-size: 15px !important;
+		line-height: 22px !important;
+	}
+	.futureproof-campaign-link-txt {
+		font-size: 20px !important;
+	}
+	.reachmob {
+		width: 100%;
+		padding-left: 20px;
+		float: left;
+	}
+	.container > .navbar-header {
+		margin: 0px;
+	}
+	.active .nav-dots{
+		display: none !important;
+	}
+	.myPage .nav > li > a {
+		padding: 10px;
+		padding-top: 20px;
+		padding-left: 20px;
+		font-size: 1rem;
+		font-family: ProximaNovaRgRegular;
+	}
+	.navbar-nav > li.demo {
+		width: 50%;
+		margin: auto;
+		text-align: center;
+	}
+	.navbar-nav > li.demo .getStart-btn {
+		padding-left: 25px !important;
+		padding-right: 25px !important;
+		margin-top: 50px !important;
+	}
+	.enquireFormSect {
+		width: 270px;
+		left: auto !important;
+		right: 10% !important;
+
+	}
+	.fc-mobile-third-sixth-sec{
+		padding: 0 0 40px !important;
+	}
+	.down .navbar-fixed-top {
+	padding-bottom: 0px;
+	background: #fff;
+	z-index: 11;
+	}
+	div#bs-example-navbar-collapse-1{
+	padding-bottom: 10px;
+	border-bottom: 1px solid #e7e7e7;
+	}
+	div#enquireForm::before {
+		display: none;
+	}
+	.reachSubAddressHead {
+	font-size: 1rem;
+	}
+	.addressContent {
+		font-size: 11px;
+		white-space: nowrap;
+	}
+	img.img-responsive.center-block {
+		width: 100% !important;
+		position: absolute;
+	}
+	.slideInUp {
+		margin-top: 9.8437% !important;
+	}
+	.screen2 {
+		margin-left: auto !important;
+	}
+	.fc-futureproof-fourth-mobile{
+		padding-top: 0 !important;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.futureproof-campaign-first-section{
+		padding-bottom: 50px !important;
+	}
+	.futureproof-campaign-second-section-desc span{
+		padding-right: 5px !important;
+	}
+}
+
+@media screen and (max-width: 400px)
+{
+.futureproof-campaign-header-content .futureproof-campaign-header-h1 {
+    font-size: 26px !important;
+	line-height: 38px !important;
+}
+.futureproof-campaign-h2 {
+    font-size: 20px !important;
+    line-height: 33px !important;
+}
+}
+@media screen and (max-width: 769px) and (min-width: 600px) { 
+	h3.reachHead {
+		font-size: 1.25rem !important;
+	}
+	.reachAddressHead {
+		font-size: 1.5rem ;
+
+	}
+	.reachSubAddressHead {
+		font-size: 1rem;
+	}
+	.reachSubAddressHead {
+	font-size: 0.8rem;
+	line-height: 15px;
+	}
+	.addressContent {
+		font-size: 10px;
+		white-space: nowrap;
+	}
+}
+@media screen and (min-width: 1100px) { 
+
+}
+/*@media (min-width: 768px) {
+	.enquireFormSect {
+		right: 10% !important;
+	}
+}*/

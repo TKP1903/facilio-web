@@ -1,0 +1,5481 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather:300,400,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+.fc-mobile-viewable {
+  display: none;
+}
+.white-nav {
+  background-color: #ffffff !important;
+}
+
+.width-cafm-center {
+  max-width: 720px !important;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fc-a-hide {
+  opacity: 0;
+}
+
+/****fc-other-features****/
+
+.fc-other-feature {
+  background-color: #f4fafd;
+  padding: 75px 0px;
+  margin-bottom: 80px;
+}
+
+.fc-o-ft-list {
+  padding: 10px 20px;
+}
+
+.fc-other-feature a {
+  text-decoration: none;
+}
+
+.fc-other-feature h3 {
+  font-size: 40px;
+  font-family: merriweather;
+  font-weight: 300;
+  padding: 10px 30px;
+  margin-top: 0px;
+  color: #181b3b;
+  line-height: 50px;
+}
+
+.fc-explore-wrap {
+  position: relative;
+}
+
+.fc-explore-2 {
+  padding: 100px 0px;
+}
+
+.fc-see-all {
+  margin-top: -10px;
+  margin-left: -23px;
+  font-family: "ProximaNovaRgRegular", Arial, Helvetica Neue, sans-serif;
+  color: #9aceff;
+  cursor: pointer;
+  font-size: 18px;
+  color: #ff3184;
+}
+
+.fc-violet-wrap {
+  box-shadow: 0 10px 103px 0 rgba(83, 86, 92, 0.08);
+  background-color: #ffffff;
+  padding: 70px 50px;
+}
+
+.fc-gray-wrap {
+  background-color: #f6f7f7;
+  padding: 70px 50px 60px;
+}
+
+.fc-violet-wrap h3 {
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 35px;
+  max-width: 700px;
+  width: 100%;
+  line-height: 50px;
+  margin: 0 auto;
+  font-weight: 300;
+  color: #181b3b;
+  text-align: left;
+}
+
+.dots-mid-svg {
+  position: absolute;
+  top: 60px;
+  max-width: 120px;
+  width: 100%;
+}
+
+.fc-less-pad img {
+  margin-top: 10px;
+  padding: 12px 0px;
+  max-width: 5500px;
+  width: 100%;
+}
+
+.fc-of-subhead {
+  margin-left: 42px;
+  font-size: 17px;
+  font-family: "ProximaNovaSemibold", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  text-align: left;
+  color: #181b3b;
+  margin-bottom: 5px;
+}
+
+.fc-of-sub-txt {
+  font-size: 15px;
+  max-width: 280px;
+  text-align: left;
+  color: #181b3b;
+  margin-left: 42px;
+  text-transform: initial;
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.fc-of-wrap {
+  padding: 20px 15px;
+  cursor: pointer;
+}
+
+.fc-of-wrap:hover .fc-of-subhead {
+  color: #5342b9;
+}
+
+.fc-of-wrap:hover {
+  background-color: #efefff;
+  border-radius: 3px;
+  transition: 0.6s;
+}
+
+.fc-feature-logos {
+  max-width: 800px;
+  width: 100%;
+  padding: 20px;
+}
+
+/****fc-other-features****/
+
+.workplace-section,
+.property-section,
+.sustainability-section,
+.fdd-section,
+.iot-section,
+.platform-section,
+.maintenance-section,
+.bms-section {
+  margin-top: 0px;
+  padding: 180px 10px;
+  height: auto;
+  display: flex;
+  position: relative;
+  background-image: linear-gradient(to bottom, #ffffff, #fafafa);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ebook-horizontal {
+  position: absolute;
+  bottom: 10px;
+  right: 180px;
+}
+
+.fc-ebook-detail {
+  padding: 200px 0px;
+}
+
+.fc-ebookwhole-wrap {
+  position: relative;
+}
+
+.fc-ebook-thumbnail {
+  background: linear-gradient(-45deg, #bebebe, #7a7a7a, #e6e6e6, #cef3ea);
+  border-radius: 30px;
+}
+
+.fc-left-details {
+  padding: 0px 7px;
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.fc-right-details {
+  padding: 0px 7px;
+  max-width: 450px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.fc-left-ebook-list {
+  list-style-type: none;
+  list-style-position: inside;
+  margin-left: -40px;
+}
+
+.fc-left-details h3 {
+  font-size: 20px;
+  margin-top: 0px;
+  line-height: 30px;
+  color: #181b3b;
+  font-family: "ProximaNovasemiBold", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  max-width: 400px;
+}
+
+.fc-left-details h4 {
+  padding-top: 20px;
+  color: rgba(24, 27, 59, 0.6);
+  font-size: 18px;
+  line-height: 28px;
+  font-family: "ProximaNovasemiBold", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.fc-left-details ul li {
+  font-family: ProximaNovaRgRegular;
+  line-height: 30px;
+  position: relative;
+  padding: 25px 30px;
+  font-size: 18px;
+  border-bottom: solid 1px #97979717;
+  color: #14132e;
+}
+
+.fc-left-details ul li:last-child {
+  border-bottom: none;
+}
+
+.fc-left-details ul li:before {
+  content: "";
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  margin-top: 4px;
+  margin-left: -35px;
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  background: url("/images/svg/ebook-check.svg") center/contain no-repeat;
+}
+
+/* .fc-left-details ul li span {
+    margin-left: 40px;
+} */
+
+.fc-right-ebook-list {
+  list-style-type: none;
+  list-style-position: inside;
+  margin-left: 0px;
+}
+
+.fc-right-details h3 {
+  font-size: 30px;
+  margin-top: 0px;
+  line-height: 40px;
+  position: relative;
+  padding-bottom: 40px;
+  color: #181b3b;
+  font-family: Merriweather, ProximaNovaRgRegular;
+  max-width: 400px;
+}
+
+.fc-right-details h4 {
+  font-size: 20px;
+  margin-top: 20px;
+  font-family: "ProximaNovasemiBold";
+  color: #181b3b;
+  line-height: 1.4;
+}
+
+.fc-right-details ul li {
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 30px;
+  position: relative;
+  padding: 15px 0px;
+  font-size: 18px;
+  color: #14132e;
+}
+
+.fc-right-details h3:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0;
+  bottom: 18px;
+  height: 3px;
+  background: #ff3184;
+  transition: width 0.3s;
+  width: 10%;
+  transition: width 0.3s;
+}
+
+.fc-right-details ul li:before {
+  content: "";
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  margin-top: 12px;
+  margin-left: -35px;
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  background: url("/images/svg/ebook-disc.svg") center/contain no-repeat;
+}
+
+.fc-border-ebook-right {
+  border-right: solid 1px #97979745;
+}
+
+.fc-ebook-tick {
+  position: absolute;
+  left: 0px;
+}
+
+.fc-ebook-thumbnail img {
+  max-width: 450px;
+  width: 100%;
+  border-radius: 20px;
+}
+
+.fc-ebook-desc {
+  padding-top: 100px;
+  padding-left: 50px;
+}
+
+.fc-ebook-desc span {
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  text-transform: uppercase;
+  line-height: 25px;
+  font-size: 16px;
+  color: #ee4085;
+}
+
+.fc-ebook-desc h3 {
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 45px;
+  max-width: 450px;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  /* line-height: 1.11; */
+  color: #181b3b;
+}
+
+.fc-ebook-button {
+  font-size: 16px;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: #ffffff;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  background-color: #36b76a;
+  padding: 20px 25px;
+  cursor: pointer;
+  text-transform: uppercase;
+  position: relative;
+  top: 50px;
+}
+
+a.demo-footer-button,
+a.fc-ebook-button {
+  text-decoration: none;
+}
+
+a.demo-footer-button:hover {
+  box-shadow: 0 22px 29px 0 rgba(4, 8, 98, 0.21);
+  background-color: #ff3184;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a.fc-ebook-button:hover {
+  color: #ffffff;
+  background-color: #2c9d5a;
+  box-shadow: 0 5px 57px 0 rgba(83, 86, 92, 0.08);
+}
+
+.fc-border-ebook-right {
+  border-right: solid 1px #97979745;
+}
+
+.fc-ebook-tick {
+  position: absolute;
+  left: 0px;
+}
+
+.fc-ebook-desc p {
+  font-size: 22px;
+  line-height: 40px;
+  color: #181b3b;
+  padding-top: 10px;
+  max-width: 450px;
+  width: 100%;
+  font-family: ProximaNovaRgRegular;
+}
+
+.integration-section {
+  margin-top: 0px;
+  padding: 200px 10px;
+  display: flex;
+  position: relative;
+  background-image: linear-gradient(to bottom, #ffffff, #fafafa);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.solution-section-2 {
+  background: url("/images/solutions/solution-banner-2.png");
+  min-height: 590px;
+  margin-top: 75px;
+  width: 100%;
+  padding: 100px 0px;
+  background-color: #eefdff;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.solution-section-1 {
+  background: url("/images/solutions/solution-banner-1.png");
+  min-height: 590px;
+  margin-top: 75px;
+  widows: 100%;
+  padding: 100px 0px;
+  background-color: #fceff4;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.rebuild-banner {
+  background: url("/images/rebuild/rebuild-banner.png");
+  min-height: 590px;
+  margin-top: 75px;
+  widows: 100%;
+  padding: 55px 0px;
+  background-color: #483a9e;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.solution-section-3 {
+  background: url("/images/solutions/solution-banner-3.png");
+  min-height: 590px;
+  margin-top: 75px;
+  padding: 100px 0px;
+  widows: 100%;
+  background-color: #fbf2ff;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.solution-section-4 {
+  background: url("/images/solutions/solution-banner-4.png");
+  min-height: 590px;
+  margin-top: 75px;
+  widows: 100%;
+  padding: 100px 0px;
+  background-color: #eefdff;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.workplace-section:before {
+  content: "";
+  width: 630px;
+  height: 630px;
+  background-image: url("/images/cross-banner/png/workplace.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.bms-section:before {
+  content: "";
+  width: 630px;
+  height: 630px;
+  background-image: url("/images/cross-banner/ebms.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.integration-section:before {
+  content: "";
+  width: 600px;
+  height: 600px;
+  background-image: url("/images/ebms.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.property-section:before {
+  content: "";
+  width: 630px;
+  height: 630px;
+  background-image: url("/images/cross-banner/property.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.maintenance-section:before {
+  content: "";
+  width: 630px;
+  height: 630px;
+  background-image: url("/images/cross-banner/maintenance.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.sustainability-section:before {
+  content: "";
+  width: 630px;
+  height: 630px;
+  background-image: url("/images/cross-banner/sustain-section.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.fc-cs-banner:before {
+  content: "";
+  width: 541px;
+  height: 735px;
+  background-image: url("/images/onboard/onboard-banner.png");
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  position: absolute;
+  right: 0;
+  top: 75px;
+  z-index: 0;
+}
+
+.fdd-section:before {
+  content: "";
+  width: 630px;
+  height: 630px;
+  background-image: url("/images/cross-banner/fdd.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.iot-section:before {
+  content: "";
+  width: 630px;
+  height: 630px;
+  background-image: url("/images/cross-banner/iot-edge.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.platform-section:before {
+  content: "";
+  width: 630px;
+  height: 630px;
+  background-image: url("/images/cross-banner/Platform.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.mc-all-features-sec:before {
+  content: "";
+  width: 630px;
+  height: 630px;
+  background-image: url("/images/cross-banner/all-feature.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.cafmBanner-heading,
+.workplace-heading {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cafmBanner-section {
+  background: url("/images/svg/cafmBanner2.svg");
+  min-height: 100vh;
+  margin-top: 75px;
+  widows: 100%;
+  background-color: #e8e4ff;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.fc-events-sec {
+  background: url("/images/svg/events-banner.svg");
+  min-height: 350px;
+  margin-top: 75px;
+  widows: 100%;
+  background-color: #e8e4ff;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.fc-ebookwhole-wrap {
+  position: relative;
+}
+
+.fc-ebook-card {
+  box-shadow: 8px 26px 37px 10px rgba(81, 64, 114, 0.13);
+  background-color: #ffffff;
+  padding: 15px;
+  position: absolute;
+  border-radius: 30px;
+  top: 65px;
+  left: 100px;
+  max-width: 450px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fc-ebook-wrap {
+  max-width: 450px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.fc-vertical-dots {
+  position: absolute;
+  top: 180px;
+  left: 0px;
+  z-index: 0;
+}
+
+.fc-vertical-small-dots {
+  position: absolute;
+  top: 152px;
+  left: 0px;
+  z-index: 0;
+}
+.fc-event-interviews {
+  padding: 50px 0px;
+  background-color: rgba(234, 239, 253, 0.34);
+}
+
+.fc-past-table {
+  border: solid 0.9px #e6ecf3;
+  background-color: #ffffff;
+  max-width: 1200px !important;
+  width: 100%;
+}
+
+.fc-past-table tr {
+  padding: 20px;
+}
+
+.fc-past-table tr td {
+  padding: 20px 30px;
+}
+
+.fc-past-table img {
+  max-width: 150px;
+  width: 100%;
+}
+
+.fc-events-area {
+  padding: 60px 0px;
+}
+
+.fc-events-webinar {
+  padding: 100px 0px;
+}
+
+.fc-events-webinar a {
+  text-decoration: none;
+}
+
+.fc-webinar-card:hover {
+  transition: 0.4s;
+  transform: translateY(-10px);
+  box-shadow: 0 12px 18px rgba(161, 166, 181, 0.2);
+}
+
+.fc-events-pink {
+  margin: 25px 30px 0px 30px;
+  padding: 5px 10px 10px;
+  background-color: #ff3184;
+}
+
+.fc-webinar-img {
+  max-width: 490px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fc-events-pink h4 {
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 22px;
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  padding: 0px 15px 20px;
+  color: #ffffff !important;
+  text-transform: uppercase;
+}
+
+.fc-webinar-img {
+  margin-top: -25px;
+  padding: 0px 15px;
+}
+
+.fc-webinar-down {
+  margin-top: 30px;
+  border-top: solid 1px #e6ecf3;
+  padding: 35px 30px;
+}
+
+.fc-events-pink span {
+  text-transform: initial !important;
+}
+
+.fc-events-sec p,
+.fc-webinar-down p {
+  font-size: 18px;
+  line-height: 1.56;
+  color: #181b3b;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-webinar-down p {
+  font-weight: 500;
+  margin-top: 20px;
+  font-family: "ProximaNovasemiBold" !important;
+  letter-spacing: 0.5px;
+}
+
+.fc-events-sec h1 {
+  text-align: center;
+  padding: 120px 0px 0px;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 45px;
+  line-height: 1.11;
+  color: #181b3b;
+}
+
+.fc-event-interviews h3,
+.fc-events-webinar h3 {
+  font-size: 35px;
+  line-height: 1.2;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #000000;
+}
+
+.fc-webinar-down h4 {
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #181b3b;
+  line-height: 32px;
+  font-size: 24px;
+  text-decoration: uppercase;
+}
+
+.fc-event-interviews p,
+.fc-events-webinar p {
+  color: #000000;
+  font-size: 20px;
+  font-family: ProximaNovaRgRegular;
+  line-height: 1.45;
+  text-align: left;
+}
+
+.fc-events-sec p {
+  color: #181b3b;
+  font-size: 22px;
+  font-family: ProximaNovaRgRegular;
+  line-height: 1.45;
+  text-align: center;
+}
+
+.cafmBanner-heading h1 {
+  padding: 180px 0px 0px 0px;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 60px;
+  margin-bottom: 10px !important;
+  text-align: center;
+  color: #351166;
+}
+
+.workplace-headings,
+.overview-page-headings {
+  width: 100%;
+  margin-left: -15px;
+}
+
+.overview-page-headings {
+  padding: 0px 25px;
+}
+
+.workplace-headings h1 {
+  padding: 130px 0px 0px -10px;
+  max-width: 600px;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 55px;
+  margin-bottom: 10px !important;
+  text-align: left;
+  color: #181b3b;
+}
+
+.overview-page-headings h1 {
+  padding: 130px 0px 0px -10px;
+  max-width: 560px;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 42px;
+  margin-bottom: 10px !important;
+  text-align: left;
+  color: #181b3b;
+}
+
+.workplace-headings p {
+  max-width: 500px;
+  width: 100%;
+  margin-top: 25px;
+  margin-bottom: 40px;
+  font-size: 28px;
+  line-height: 1.51;
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 400;
+  text-align: left;
+  color: #181b3b;
+}
+
+.overview-page-headings p {
+  max-width: 500px;
+  width: 100%;
+  margin-top: 25px;
+  margin-bottom: 40px;
+  font-size: 19px;
+  line-height: 1.65;
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 400;
+  text-align: left;
+  color: #181b3b;
+}
+
+.widget-heading h1 {
+  padding: 130px 0px 0px 0px;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 55px;
+  max-width: 500px;
+  margin-bottom: 10px !important;
+  text-align: left;
+  color: #181b3b;
+}
+
+.widget-heading p {
+  max-width: 400px;
+  width: 100%;
+  margin-top: 10px;
+  font-size: 22px;
+  line-height: 1.51;
+  font-family: "ProximaNovasemiBold", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #181b3b;
+}
+
+.cafmBanner-heading h2 {
+  text-align: center;
+  max-width: 880px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 22px;
+  line-height: 1.5;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #7b7ba7;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 20px !important;
+  padding-top: 10px;
+}
+
+.cafmBanner-heading p {
+  max-width: 850px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.51;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1d1d20;
+}
+
+.seo-main-desc {
+  padding: 60px 0px;
+}
+
+.seo-sidebar {
+  margin-top: 0px;
+  max-width: 350px;
+  border-radius: 6px;
+  padding: 10px 0px 10px 0px;
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.09);
+}
+
+.seo-main-text {
+  max-width: 800px;
+  width: 100%;
+  padding: 50px 0px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.seo-main-text p {
+  font-size: 18px;
+  line-height: 32px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  color: #14132e;
+  font-family: ProximaNovaLtLight, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.seo-content h3 {
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 30px;
+  line-height: 20px;
+  color: #14132e;
+  padding: 15px 0px 10px 0px;
+}
+
+.seo-content h5 {
+  font-family: "ProximaNovasemiBold", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 25px;
+  color: #14132e;
+  padding: 15px 0px 10px 0px;
+}
+
+.seo-content p {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  color: #14132e;
+  font-family: ProximaNovaLtLight, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+/* .seo-content h3::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 3.3px;
+    transition: width .3s;
+    background: #FF3184;    transition: width .3s;
+    width: 8%;
+    transition: width .3s;
+} */
+
+.fc-small-center {
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+.seo-sidebar-head {
+  padding: 10px 25px !important;
+  font-size: 14px;
+  letter-spacing: 1px;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  text-transform: uppercase;
+  text-align: left;
+  color: #7b7ba7;
+}
+
+.seo-navtabs ul {
+  list-style-type: none !important;
+}
+
+.seo-navtabs ul li {
+  padding: 1px 15px;
+  margin: 2px 0px;
+  margin-left: -40px;
+}
+
+.seo-sidebar-sub-list {
+  margin-left: -40px;
+  font-size: 2em;
+  list-style: none;
+  margin: 0em;
+  padding: 0;
+  list-style-position: inside;
+}
+
+.seo-sidebar-sub-list li {
+  position: relative;
+}
+
+ul.seo-sidebar-sub-list li.active:after {
+  content: "";
+  height: 8px;
+  width: 8px;
+  margin: 13px 15px 10px 25px;
+  background: #351166;
+  display: block;
+  position: absolute;
+  transform: rotate(45deg);
+  top: 0.25em;
+  left: 0;
+}
+
+.seo-sidebar-sub-list li {
+  padding: 0px 25px !important;
+}
+
+.seo-sidebar-sub-list li a {
+  color: #000000;
+  font-size: 18px !important;
+  text-decoration: none;
+  font-family: "ProximaNovaLtLight", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+#seo-sidebar nav ul li.active {
+  border-left: 5px solid #351166;
+}
+
+.seo-sidebar-sub-list li.active {
+  border: none !important;
+  background-color: rgba(215, 211, 239, 0.3);
+}
+
+.seo-sidebar-sub-list li.active p {
+  font-family: "ProximaNovaSemibold", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol" !important;
+}
+
+.seo-sidebar-list ul li {
+  padding-left: -50px !important;
+}
+
+.seo-navtabs ul li.active > a {
+  font-size: 18px !important;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.seo-sidebar-list > li a {
+  font-size: 18px !important;
+  text-decoration: none;
+  font-family: "ProximaNovaLtLight", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #000000 !important;
+}
+
+.seo-sidebar-sub-list p {
+  font-family: "ProximaNovaLtLight", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px !important;
+  display: inline-block;
+  padding: 5px 20px;
+  margin-top: 8px;
+  font-weight: 400px;
+}
+
+.seo-sidebar-list h3 {
+  font-size: 18px !important;
+  padding: 0px 5px;
+}
+
+.seo-desc-sub-container {
+  padding-bottom: 40px;
+}
+
+.seo-desc-sub-container h6 {
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 300;
+}
+
+.seo-blue-banner {
+  margin-top: 10px;
+}
+
+.pm-img-sec {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pm-img {
+  max-width: 1200px;
+  width: 100%;
+}
+
+.facilio-overview-illustration {
+  background-color: #331c97;
+  background-image: url("/images/facilio-platform-overview.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.platform-illustration {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto !important;
+}
+
+.facilio-overview-illustration h1 {
+  position: relative;
+  color: #ffffff;
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 45px;
+  padding: 100px 0px 20px 0px;
+  font-weight: 300;
+  max-width: 700px;
+  line-height: 70px;
+  margin: 0 auto;
+  letter-spacing: 0.5px;
+  text-align: center !important;
+}
+
+.facilio-overview-illustration h1:after {
+  border-bottom: 3px solid #fff;
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width: 15%;
+  bottom: 0;
+  margin: 0 auto;
+}
+
+/* .seo-downarrow {
+    align-items: center;
+    margin-top: -90px;
+    margin-left: 160px !important;
+} */
+
+.animatable {
+  visibility: hidden;
+  -webkit-animation-play-state: paused;
+  -moz-animation-play-state: paused;
+  -ms-animation-play-state: paused;
+  -o-animation-play-state: paused;
+  animation-play-state: paused;
+}
+
+.animated {
+  visibility: visible;
+  -webkit-animation-fill-mode: both;
+  -moz-animation-fill-mode: both;
+  -ms-animation-fill-mode: both;
+  -o-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-duration: 1s;
+  -moz-animation-duration: 1s;
+  -ms-animation-duration: 1s;
+  -o-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-play-state: running;
+  -moz-animation-play-state: running;
+  -ms-animation-play-state: running;
+  -o-animation-play-state: running;
+  animation-play-state: running;
+}
+
+/*workplace-management**/
+
+.workplace-feature,
+.workplace-feature-2,
+.workplace-feature-3,
+.workplace-feature-4 {
+  padding: 60px 20px;
+}
+
+.workplace-wrapper {
+  padding: 60px 0px;
+  border-bottom: solid 1px #e0e9e9;
+}
+
+.property-wrapper {
+  padding: 10px 0px;
+}
+
+.w-feature-wrapper {
+  padding: 60px 0px;
+}
+
+.w-column-wrapper {
+  padding: 20px 0px 80px 0px;
+}
+
+.fc-wrapper-pad {
+  padding: 80px 0px;
+  margin: 0px 5px;
+}
+
+.fc-column-pad {
+  padding: 30px 0px;
+}
+
+.fc-workplace-center {
+  font-family: ProximaNovaLtLight, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.79;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #181b3b;
+  margin-bottom: 0;
+}
+
+.w-feature-txt {
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  max-width: 300px;
+  line-height: 1.56;
+  color: #181b3b;
+}
+
+.w-property-txt {
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.56;
+  color: #181b3b;
+}
+
+.w-feature-txt span {
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  line-height: 1.56;
+  color: #181b3b;
+}
+
+.w-feature-head {
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 28px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #181b3b;
+}
+
+.fc-workplace-subhead {
+  font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 38px;
+  margin: 10px 0px;
+  font-weight: 700;
+  line-height: 1.21;
+  letter-spacing: normal;
+  color: #181b3b;
+}
+
+.fc-workplace-subtxt {
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 20px;
+  line-height: 1.45;
+  color: #14132e;
+  text-align: center;
+}
+
+.w-feature-desc {
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  font-weight: 400;
+  max-width: 500px;
+  line-height: 1.78;
+  letter-spacing: normal;
+  color: #14132e;
+}
+
+.w-feature-head-center {
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 40px;
+  max-width: 800px;
+  margin: 0 auto;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #181b3b;
+}
+
+.fc-pagination {
+  padding: 30px 0px 50px;
+}
+
+.fc-case-violet {
+  max-width: 800px;
+  width: 100%;
+  height: 300px;
+}
+
+.fc-case-orange {
+  width: 500px;
+  width: 100%;
+  height: 400px;
+}
+
+.fc-accordion {
+  margin-top: 80px;
+  border: solid 1px #e6ecf3;
+}
+
+.fc-panel {
+  border-radius: 0px !important;
+  box-shadow: 0 14px 11px 0 rgba(109, 123, 124, 0.05);
+  background-color: #ffffff;
+  border-bottom: solid 1px #e6ecf3;
+  padding: 20px 10px;
+}
+
+.fc-panel:hover .acc-arrow path {
+  fill: #ef4f8f;
+}
+
+.fc-panel:last-child {
+  border: none;
+}
+
+.panel-group .panel-heading + .panel-collapse > .panel-body,
+.panel-group .panel-heading + .panel-collapse > .list-group {
+  border-top: none;
+}
+
+.panel-group .panel + .panel {
+  margin-top: 0px;
+}
+
+.fc-panel-heading {
+  display: flex;
+}
+
+.fc-acc-head {
+  cursor: pointer;
+  font-size: 18px;
+  font-family: "ProximaNovasemiBold", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #14132e;
+}
+
+/* .fc-home-responsive {
+    width: 500px;
+    width: 100%;
+    height: 600px;
+} */
+
+.acc-arrow {
+  max-width: 20px;
+  width: 100%;
+  fill: #000000;
+  margin: 0px 15px;
+  display: inline-block;
+}
+
+.acc-arrow path {
+  fill: #000000;
+}
+
+.fc-acc-desc {
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  margin-left: 50px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.78;
+  letter-spacing: normal;
+  color: #14132e;
+}
+
+.w-col-wrapper {
+  padding: 60px 0px !important;
+  display: flex;
+}
+
+.w-col-head {
+  font-family: "ProximaNovaSemiBold", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 20px;
+  margin-top: 10px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #342d4f;
+}
+
+.w-col-desc {
+  font-size: 18px;
+  margin-top: 10px;
+  line-height: 1.39;
+  max-width: 320px;
+  width: 100%;
+  font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  text-align: left;
+}
+
+.fc-video-embed {
+  width: 100%;
+  margin: 50px auto 50px;
+  max-width: 1000px;
+  padding-bottom: 30px;
+}
+
+/****fc-newsletter-banner****/
+
+.fc-newsletter-banner {
+  background-color: rgb(255, 219, 233);
+  background: url(/images/newsletter/newsletter-hub-banner.svg) no-repeat;
+  background-size: cover;
+  margin-top: 75px;
+  padding: 35px 0px;
+}
+
+.fc-newsletter-banner h1 {
+  font-size: 50px;
+  font-family: "ProximaNovaBold";
+  line-height: 1.11;
+  letter-spacing: 1.5px;
+  text-align: center;
+  color: #171b3b;
+}
+
+.fc-newsletter-specific-banner {
+  padding: 50px 0px;
+  margin-top: 70px;
+  background: url(/images/newsletter/newsletter-hub-banner.svg) no-repeat;
+}
+.fc-newsletter-specific-banner h1 {
+  font-size: 50px;
+  font-family: "ProximaNovaBold";
+  line-height: 1;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #171b3b;
+}
+.fc-newsletter-specific-banner p {
+  color: #14132e;
+  text-align: center;
+  font-family: "ProximaNovaSemiBold";
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.fc-newsletter-template {
+  padding: 150px 20px;
+  max-width: 850px;
+  width: 100%;
+  margin: 0 auto;
+}
+.fc-read-more-btn {
+  margin-top: 30px;
+  padding: 10px;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "ProximaNovaBold";
+  font-size: 15px;
+  text-align: center;
+  max-width: 150px;
+  width: 100%;
+}
+.fc-news-head {
+  font-size: 34px;
+  max-width: 600px;
+  width: 100%;
+  font-family: "ProximaNovaBold";
+  line-height: 1.2;
+  letter-spacing: 1px;
+  color: #171b3b;
+}
+.fc-newspaper-txt {
+  margin-top: 30px;
+  color: #181b3b;
+  line-height: 30px;
+  position: relative;
+  font-family: "ProximaNovaRgRegular";
+  font-size: 18px;
+}
+.fc-newspaper-txt-semibold {
+  margin-top: 30px;
+  color: #14132e;
+  line-height: 28px;
+  font-family: "ProximaNovaSemiBold";
+  font-size: 20px;
+}
+.fc-news-txt {
+  margin-top: 30px;
+  color: #181b3b;
+  line-height: 30px;
+  position: relative;
+  font-family: "ProximaNovaRgRegular";
+  font-size: 20px;
+}
+
+.fc-news-txt-semibold {
+  margin-top: 30px;
+  color: #14132e;
+  line-height: 28px;
+  font-family: "ProximaNovaSemiBold";
+  font-size: 20px;
+}
+.fc-news-subhead {
+  margin-top: 30px;
+  font-size: 26px;
+  font-family: "ProximaNovaBold";
+  line-height: 1.25;
+  color: #14132e;
+}
+.fc-news-img {
+  max-width: 600px;
+  width: 100%;
+  margin-top: 30px;
+}
+.fc-left-img {
+  max-width: 600px;
+  width: 100%;
+}
+.fc-right-txt {
+  margin: 0px 20px;
+}
+
+.fc-news-read-more {
+  color: #ff3184;
+  font-size: 18px;
+  cursor: pointer;
+  font-family: "ProximaNovaSemiBold";
+}
+.fc-news-list ul li {
+  margin-top: 30px;
+  color: #14132e;
+  line-height: 28px;
+  position: relative;
+  font-family: "ProximaNovaRgRegular";
+  font-size: 18px;
+}
+.fc-news-list ul li span {
+  color: #ff3184;
+}
+.fc-news-txt span {
+  color: #181b3b;
+  text-transform: uppercase;
+  font-family: "ProximaNovaBold";
+}
+.fc-newspaper-txt span {
+  color: #007aff;
+  font-family: "ProximaNovaBold";
+}
+.fc-news-read-more:after {
+  content: "";
+  display: inline-block;
+  width: 14px;
+  height: 12px;
+  position: absolute;
+  margin-top: 7px;
+  margin-left: 5px;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+  background: url(/images/icons/back-button.svg) center/contain no-repeat;
+}
+
+.fc-news-read-more:hover .fc-news-read-more:after {
+  -webkit-transform: translateX(4px);
+  -ms-transform: translateX(4px);
+  transform: translateX(4px);
+}
+.fc-social-float-bar {
+  position: absolute;
+  left: 200px;
+}
+.fc-social-float-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: #000000;
+  font-size: 20px;
+}
+.fc-icon-news {
+  width: 20px;
+  height: 20px;
+}
+/****covid-19-page**/
+.fc-covid-specific-banner {
+  padding: 120px 0px;
+  margin-top: 70px;
+  position: relative;
+  height: auto;
+  width: 100%;
+  background-color: #391d72;
+}
+.fc-top-left-dots {
+  position: absolute;
+  top: 0;
+  left: 110px;
+}
+.fc-bottom-right-dots {
+  position: absolute;
+  bottom: 0;
+  right: 110px;
+}
+.fc-cta-bar-covid {
+  padding: 25px 0px;
+  border-bottom: 1px solid #ececec;
+}
+.fc-cta-txt-bar {
+  max-width: 650px;
+  width: 100%;
+  margin: 0 auto;
+}
+.fc-cta-txt-bar ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+.fc-cta-txt-bar ul li {
+  padding: 0px 50px;
+}
+.fc-cta-txt-bar ul li a {
+  display: inline-block;
+  color: #181b3b;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: "proximaNovaSemiBold";
+  text-transform: uppercase;
+}
+.fc-cta-txt-bar ul li a:hover {
+  color: #ff3184;
+}
+.fc-covid-specific-banner h1 {
+  max-width: 850px;
+  width: 100%;
+  margin: 0 auto;
+  font-size: 42px;
+  font-family: "ProximaNovaBold";
+  line-height: 1.3;
+  text-align: center;
+  color: #ffffff;
+}
+.fc-covid-specific-banner p {
+  max-width: 850px;
+  width: 100%;
+  margin: 15px auto 0px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 22px;
+  line-height: 1.41;
+  font-family: "proximaNovaRgRegular";
+}
+.fc-dashed {
+  border-top: none !important;
+  border-bottom: dashed 3px #dadfe3;
+  color: transparent !important;
+}
+
+.fc-covid-19-template {
+  padding: 80px 20px;
+  max-width: 720px;
+  width: 100%;
+  margin: 0 auto;
+}
+.fc-covid-subhead {
+  margin-top: 50px;
+  background-color: #fff7fa;
+  padding: 25px 30px;
+  font-size: 28px;
+  font-family: "ProximaNovaBold";
+  line-height: 1.25;
+  color: #181b3b;
+}
+.fc-covid-txt {
+  margin-top: 30px;
+  position: relative;
+  font-family: "ProximaNovaRgRegular";
+  font-size: 20px;
+  line-height: 1.5;
+  color: #181b3b;
+}
+.fc-covid-txt a,
+.fc-covid-answer a {
+  color: #ff3184;
+}
+.fc-covid-answer {
+  margin-top: 30px;
+  position: relative;
+  font-family: "ProximaNovaRgRegular";
+  font-size: 20px;
+  line-height: 30px;
+  color: #181b3b;
+}
+.fc-covid-subheadings {
+  margin-top: 30px;
+  position: relative;
+  font-family: "ProximaNovaBold";
+  font-size: 20px;
+  line-height: 30px;
+  color: #181b3b;
+}
+.fc-covid-bold {
+  margin-top: 20px;
+  color: #273849;
+  line-height: 1.75;
+  position: relative;
+  font-family: "ProximaNovaBold";
+  font-size: 20px;
+}
+.fc-covid-txt span {
+  margin-top: 30px;
+  color: #181b3b;
+  font-size: 24px;
+  line-height: 30px;
+  font-family: "ProximaNovaBold";
+}
+.fc-covid-pad {
+  padding: 20px 30px;
+  border-left: 6px solid #ea9bbb;
+  background-color: #f6f6f6;
+}
+.fc-covid-features {
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+.fc-covid-features,
+.fc-covid-features-links {
+  list-style: none;
+}
+.fc-covid-features li:after {
+  position: absolute;
+  content: "";
+  top: 20px;
+  left: -30px;
+  width: 7px;
+  height: 7px;
+  background: #ea9bbb;
+  border-radius: 50px;
+}
+.fc-covid-features li {
+  position: relative;
+  color: #14132e;
+  padding: 10px 0px;
+  margin-top: 30px;
+  line-height: 30px;
+  position: relative;
+  font-family: "ProximaNovaRgRegular";
+  font-size: 20px;
+}
+.fc-covid-features-links li:after {
+  position: absolute;
+  content: "";
+  top: 25px;
+  left: -30px;
+  width: 7px;
+  height: 7px;
+  background: #ea9bbb;
+  border-radius: 50px;
+}
+.fc-covid-features-links li {
+  position: relative;
+  color: #14132e;
+  padding: 20px 0px;
+  margin-top: 0px;
+  line-height: 20px;
+  position: relative;
+  font-family: "ProximaNovaRgRegular";
+  font-size: 20px;
+}
+.fc-covid-features-links li a {
+  color: #2e5bff;
+}
+.fc-covid-features li a {
+  color: #ff3184;
+}
+.fc-covid-italic {
+  margin-top: 30px;
+  line-height: 1.35;
+  font-style: italic;
+  font-family: "ProximaNovaSemiBold";
+  color: #181b3b;
+  font-size: 20px;
+}
+/****covid-19-page**/
+
+/****whats-new-in-facilio*****/
+.fc-whats-new-hub {
+  margin-top: 70px;
+  padding: 50px 0px;
+  height: 500px;
+  background-color: #391d72 !important;
+  background: url(/images/webpage-banner-2.svg) center/contain no-repeat;
+  background-size: cover;
+}
+
+.fc-whats-new-banner {
+  background-color: #f1f1ff;
+  margin-top: 75px;
+  background: url(/images/whatsnew/hub-banner.svg) no-repeat;
+  padding: 35px 0px;
+}
+
+.fc-whats-new-banner h1 {
+  font-size: 50px;
+  letter-spacing: 1px;
+  font-family: "ProximaNovaBold";
+  line-height: 1.11;
+  text-align: center;
+  color: #171b3b;
+}
+
+.fc-whats-new-banner p {
+  font-size: 21px;
+  line-height: 35px;
+  font-family: "ProximaNovaRgRegular";
+  max-width: 740px;
+  margin: 0 auto;
+  text-align: center;
+  color: #181b3b;
+}
+
+.fc-whats-new-banner p span {
+  font-family: "ProximaNovaSemibold";
+}
+
+.fc-whatsnew-section-1 {
+  padding: 150px 0px;
+}
+
+.fc-whatsnew-section-2 {
+  padding: 70px 0px;
+  background-color: #f0f4ff;
+}
+
+.fc-whatsnew-section-3 {
+  padding: 80px 0px;
+}
+
+.fc-whatsnew-section-4 {
+  background-color: #462cbc;
+  padding: 70px 0px 90px;
+}
+
+.fc-whats-new-left span {
+  font-family: "ProximaNovaSemibold";
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #181b3b;
+}
+
+.fc-whats-new-left h4 {
+  font-family: Merriweather;
+  font-size: 28px;
+  max-width: 480px;
+  line-height: 38px;
+  color: #181b3b;
+}
+
+.fc-whats-new-gif-image {
+  padding: 50px 0px;
+  max-width: 700px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.fc-pink-learn {
+  margin-top: 20px;
+  font-size: 16.4px;
+  margin-left: 35px;
+  font-family: "ProximaNovaRgRegular";
+  font-weight: 500;
+  color: #fe2882;
+}
+
+.fc-pink-learn:hover {
+  color: #fe2882;
+}
+
+.fc-pink-learn:after {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 14px;
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 5px;
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  background: url("/images/icons/back-button.svg") center/contain no-repeat;
+}
+
+.fc-whatsnew-sub-feature:hover .fc-pink-learn:after,
+.fc-whatsnew-sub-feature-v2:hover .fc-pink-learn:after {
+  -webkit-transform: translateX(4px);
+  -ms-transform: translateX(4px);
+  transform: translateX(4px);
+}
+
+.fc-whatsnew-sub-feature {
+  margin-top: 40px;
+}
+
+.fc-whatsnew-sub-feature-v1 {
+  margin-top: 30px;
+}
+
+.fc-whatsnew-sub-feature-v2 {
+  margin-top: 10px;
+}
+
+.fc-whatsnew-set-list p,
+.fc-whatsnew-set-list-2 p {
+  font-size: 15px;
+  padding-left: 15px;
+  line-height: 1.78;
+  color: #14132e;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-whatsnew-set-list h3,
+.fc-whatsnew-set-list-2 h3 {
+  font-size: 21px;
+  padding-left: 15px;
+  font-family: "ProximaNovaBold";
+  line-height: 1.4;
+  color: #181b3b;
+  margin-top: 0;
+}
+
+.fc-whatsnew-set-list {
+  max-width: 485px;
+  width: 100%;
+  margin-top: 0;
+  position: relative;
+  padding: 5px 20px;
+}
+
+.fc-whatsnew-set-list-2 {
+  max-width: 520px;
+  width: 100%;
+  margin-top: 0;
+  position: relative;
+  padding: 0px 20px;
+}
+
+.fc-whatsnew-dot {
+  position: absolute;
+  height: 8px;
+  width: 8px;
+  top: 16px;
+  left: 0px;
+  background-color: #324056;
+  border-radius: 50%;
+}
+
+.fc-whatsnew-dot2 {
+  position: absolute;
+  height: 8px;
+  width: 8px;
+  top: 12px;
+  left: 0px;
+  background-color: #324056;
+  border-radius: 50%;
+}
+
+.fc-whatsnew-img {
+  max-width: 600px;
+  width: 100%;
+  margin-top: 35px;
+  margin-left: 60px;
+}
+
+.fc-whatsnew-img-v2 {
+  max-width: 600px;
+  width: 100%;
+  margin-top: 100px;
+}
+
+.fc-whats-new-center {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.fc-whats-new-center span {
+  font-family: ProximaNovaSemibold;
+  font-size: 14px;
+  font-weight: 600;
+  max-width: 100px;
+  width: 100%;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: rgb(24, 27, 59);
+}
+.fc-whatsnew-section-3 h1 {
+  font-size: 35px;
+  line-height: 45px;
+  padding-bottom: 30px;
+  font-family: merriweather;
+  max-width: 600px;
+  width: 100%;
+  margin: 10px auto 0px auto;
+  text-align: center;
+  color: #14132e;
+}
+
+.fc-whatsnew-section-2 h2 {
+  text-align: center;
+  font-family: merriweather;
+  font-size: 40px;
+  max-width: 800px;
+  width: 100%;
+  font-weight: 300;
+  margin: 0 auto;
+  text-align: center;
+  color: #181b3b;
+}
+
+.fc-whatsnew-section-2 h4 {
+  font-size: 18px;
+  line-height: 1.56;
+  padding-bottom: 30px;
+  font-family: ProximaNovaRgRegular;
+  max-width: 870px;
+  width: 100%;
+  margin: 20px auto 0px auto;
+  text-align: center;
+  color: #14132e;
+}
+
+.fc-whatsnew-blue h3 {
+  font-family: Merriweather;
+  font-size: 40px;
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  color: #ffffff;
+}
+
+.fc-whatsnew-blue h3:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 60px;
+  top: 60px;
+  left: 160px;
+  height: 3px;
+  background: #ff3184;
+  -webkit-transition: width 0.3s;
+  transition: width 0.3s;
+}
+
+.fc-left-pad {
+  margin-left: 30px !important;
+}
+
+.fc-whatsnew-card-section {
+  padding-top: 40px;
+  position: relative;
+}
+
+.fc-whatsnew-card-section::after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+  height: 14px;
+  position: absolute;
+  margin-top: 2px;
+  bottom: 160px;
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  background: url("/images/whatsnew/fc-horizontal.png") center/contain no-repeat;
+}
+
+.fc-whatsnew-card {
+  text-align: center;
+}
+
+.fc-whatsnew-card span {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  border-radius: 50%;
+  padding: 12px 20px;
+  font-family: "ProximaNovaSemibold";
+  font-size: 25px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.fc-whatsnew-card p {
+  text-align: center;
+  color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-width: 350px;
+  width: 100%;
+  margin: 0 auto;
+  font-family: "ProximaNovaSemiBold";
+  font-size: 20.8px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.wn-sub-image-1 {
+  max-width: 350px;
+  width: 100%;
+  margin-top: 60px;
+}
+
+.wn-sub-image-2 {
+  max-width: 350px;
+  width: 100%;
+}
+
+.fc-whats-new-tab-content h4 {
+  font-size: 22px !important;
+  text-align: center;
+  font-family: ProximaNovaSemiBold;
+}
+/*****whats-new-in-facilio*****/
+
+/*****fc-case-challenge**********/
+.fc-case-features {
+  margin-top: 50px;
+  padding: 10px;
+}
+.fc-case-center {
+  max-width: 50px;
+  width: 100%;
+  margin: 0 auto;
+}
+.fc-case-desc-light {
+  max-width: 1200px;
+  width: 100%;
+  line-height: 28px;
+  font-size: 18px;
+  font-family: "ProximaNovaLtLight";
+  margin: 20px auto;
+}
+.fc-pd7-feature {
+  padding: 50px 0px;
+}
+.fc-case-features img {
+  max-width: 50px;
+  width: 100%;
+  margin: 0 auto;
+}
+.fc-case-features h3 {
+  text-align: center;
+  color: #14132e;
+  font-family: "ProximaNovaSemiBold";
+  font-size: 20px;
+}
+.fc-case-question h3 {
+  text-align: center;
+  color: #14132e;
+  font-family: "ProximaNovaBold";
+  font-size: 38px;
+}
+.fc-case-challenge {
+  padding: 60px 0px;
+}
+.fc-case-features p {
+  font-family: "ProximaNovaRgRegular";
+  font-size: 16px;
+  line-height: 24px;
+  color: #2a2c43;
+}
+.fc-case-question p {
+  font-family: "ProximaNovaLtLight";
+  font-size: 18px;
+  line-height: 24px;
+  color: #2a2c43;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+.fc-case-question {
+  padding: 50px 0px 100px;
+}
+.fc-smartae-two-column-con {
+  padding: 50px 0px !important;
+}
+.fc-pad-100 {
+  padding: 100px 0px;
+}
+/*****fc-case-challenge**********/
+
+/**w-tabs*/
+
+.fc-navtabs {
+  max-width: 480px;
+  margin-left: -20px;
+  width: 100%;
+}
+
+.fc-navtabs > li {
+  border: solid 1px #e6ecf3 !important;
+  background-color: #ffffff !important;
+  border-radius: 0px;
+  margin: 15px 0px;
+  padding: 20px;
+  cursor: pointer;
+  list-style-type: none !important;
+}
+
+.fc-navtabs > li.active {
+  box-shadow: 0 17px 14px 0 rgba(109, 123, 124, 0.05);
+  background-color: #ffffff;
+  border-left: 3px solid #ef4f8f !important;
+}
+
+.fc-navtabs-head {
+  line-height: 24px;
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.fc-navtabs-desc {
+  font-size: 16px;
+  letter-spacing: 0.62px;
+  line-height: 24px;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-start-btn {
+  border: none;
+  text-decoration: none;
+  background-color: #ff3184;
+  box-shadow: 0 10px 16px 0 #ffcfe2;
+  font-size: 1rem;
+  font-weight: 700;
+  position: relative;
+  letter-spacing: 1.9px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  top: 20px;
+  font-family: ProximaNovaBold;
+  padding: 20px 50px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in;
+  margin-right: 0;
+}
+
+.fc-property-blue-sec {
+  background-color: #f0f4ff;
+  padding-bottom: 80px;
+}
+
+.product-feature-rows {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 60px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.feature-pad {
+  padding: 100px 0px;
+}
+
+.integration-columns {
+  padding: 100px 0px;
+}
+
+.integrate-img {
+  max-width: 250px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.fc-integration-card {
+  padding: 20px 32px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  height: 320px;
+  border: 1px solid #f0f4ff;
+  background-color: #ffffff;
+  -webkit-transition: width 2s;
+  transition: 0.3s;
+}
+
+.fc-first-show,
+.fc-second-show {
+  margin-top: 15px;
+}
+
+.guide-hub-pad {
+  padding-bottom: 100px;
+}
+
+.guide-hub-pad a {
+  text-decoration: none !important;
+}
+
+.guide-hub-card {
+  position: relative;
+  margin-top: 50px;
+  min-height: 250px;
+  border-radius: 4px;
+  cursor: pointer;
+  box-shadow: 0 7px 48px 0 rgba(83, 86, 92, 0.05);
+  border: solid 1.1px #e6ecf3;
+  background-color: #ffffff;
+}
+
+.guide-hub-card:hover {
+  transform: scale(1.02);
+  transition: 0.3s ease;
+}
+
+.guide-hub-image {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.fc-actions {
+  display: inline-block;
+  padding: 10px 40px 20px 40px;
+  max-width: 550px;
+  width: 100%;
+}
+
+.fc-guide-button {
+  width: 80%;
+}
+
+.fc-guide-cta {
+  background-color: #ff3184;
+  color: #ffffff;
+  font-family: "ProximaNovasemiBold";
+  font-size: 18px;
+  float: left;
+  letter-spacing: 0.6px;
+  padding: 7px 15px;
+}
+
+.fc-guide-suc {
+  max-width: 70px;
+  width: 100%;
+  margin: 20px 30px 10px 30px;
+  padding: 5px;
+  text-align: center;
+  color: #39b3c2;
+  border: 1px solid #39b3c2;
+  border-radius: 20px;
+  font-family: ProximaNovaRgRegular;
+  font-size: 12px;
+}
+
+.fc-guide-info {
+  max-width: 90px;
+  width: 100%;
+  margin: 10px 30px;
+  padding: 5px;
+  text-align: center;
+  color: #472a9e;
+  border: 1px solid #472a9e;
+  border-radius: 20px;
+  font-family: ProximaNovaRgRegular;
+  font-size: 12px;
+}
+
+.guide-hub-card p {
+  font-size: 18px;
+  padding: 20px 40px 0px 40px !important;
+  line-height: 1.44;
+  font-family: ProximaNovaRgRegular;
+  font-weight: 400;
+  color: #181b3b;
+  text-align: left;
+}
+
+.guide-hub-card h3 {
+  font-size: 25px;
+  margin-top: 10px;
+  padding: 35px 40px 0px 40px !important;
+  line-height: 32px;
+  text-align: left;
+  border-top: solid 1px #e6ecf3;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #181b3b;
+}
+
+.fc-integration-card h3 {
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #181b3b;
+}
+
+.fc-integration-card p {
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 1.44;
+  font-family: ProximaNovaRgRegular;
+  font-weight: 400;
+  color: #181b3b;
+  text-align: left;
+}
+
+.fc-integration-card span {
+  color: #fe2882;
+  font-family: "ProximaNovasemiBold", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.fc-integration-metrics {
+  background: #f0f4ff;
+  padding: 120px 0px;
+  min-height: 600px;
+  z-index: -2;
+  position: relative;
+}
+
+.fc-integration-metrics:after {
+  content: "";
+  width: 100%;
+  height: 450px;
+  background-image: url("/images/sub-footer-banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.1;
+  position: absolute;
+  right: 0;
+  top: 150px;
+  z-index: 0;
+}
+
+.fc-integration-metrics h3 {
+  color: #0fa8ba;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.fc-integration-metrics p {
+  color: #181b3b;
+  font-size: 32px;
+  font-weight: 400;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.fc-integrtaion-wrapper {
+  padding: 50px 100px;
+}
+
+.fc-integration-metrics p span {
+  color: #181b3b;
+  font-size: 48px;
+  text-align: center;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+}
+
+.fc-integration-metrics h5 {
+  font-size: 20px;
+  color: #181b3b;
+  text-align: center;
+  font-family: "ProximaNovaRgRegular", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.fc-single-testimonial-logo img {
+  margin-left: -13px;
+  max-width: 250px;
+}
+
+.fc-single-testimonial-cards-p {
+  margin-top: 10px;
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 36px;
+  color: #14132e;
+}
+
+.fc-cta-section {
+  background-color: #492196;
+  color: #ffffff;
+  margin-top: 100px !important;
+  z-index: 10;
+  padding: 50px 80px;
+}
+
+.fc-cta-section ul li:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  border-right: 1px solid #7e71d4;
+  display: block;
+  top: 5px;
+  right: 0;
+  height: 60%;
+}
+
+.fc-partnership {
+  font-size: 16px !important;
+  line-height: 24px !important;
+  margin-top: 60px !important;
+}
+.fc-partnership-rebuild {
+  font-family: ProximaNovaRgRegular;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.49;
+  color: #14132e;
+  margin-top: 40px !important;
+}
+
+.fc-partnership a,
+.fc-partnership-rebuild a {
+  color: #f55495;
+}
+
+.cta-container a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.fc-start-btn:hover {
+  box-shadow: 0 16px 22px 0 #fec1d9;
+  background-color: #f31f74;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.fc-cta-section h3 {
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #ffffff;
+  text-align: center;
+  font-size: 38px;
+}
+
+.fc-cta-section ul {
+  display: flex;
+  position: relative;
+  margin-top: 20px;
+}
+
+.fc-cta-section ul li:first-child {
+  padding: 0px 20px 0px 3px !important;
+}
+
+.fc-cta-section ul li {
+  list-style-type: none;
+  padding: 0px 20px;
+  list-style-position: inside;
+  font-family: "ProximaNovasemiBold", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+}
+
+.fc-cta-section ul li {
+  position: relative;
+}
+
+.fc-cta-section ul li {
+  border-right: none;
+}
+
+.fc-cta-section ul li:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  border-right: 1px solid #7e71d4;
+  display: block;
+  top: 3px;
+  right: 0%;
+  height: 60%;
+}
+
+.fc-cta-section ul li:last-child:after {
+  display: none;
+}
+
+.demo-footer-button {
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1.9px;
+  text-align: center;
+  color: #ffffff;
+  font-family: "ProximaNovaBold";
+  background-color: #ff3184;
+  padding: 28px 60px;
+  position: relative;
+  left: 80px;
+  top: 50px;
+}
+
+a.demo-footer-button {
+  text-decoration: none;
+}
+
+a.demo-footer-button:hover {
+  box-shadow: 0 16px 22px 0 #a95073;
+  background-color: #f31f74;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.fc-footer-card {
+  max-width: 450px;
+  padding: 20px;
+  margin-left: -20px !important;
+}
+
+.fc-footer-card p {
+  margin-top: 10px;
+  font-family: ProximaNovaRgRegular;
+  font-size: 14px;
+  line-height: 1.57;
+  color: #181b3b;
+}
+
+.fc-footer-card a {
+  color: #fe1a82;
+  font-size: 14px;
+  font-family: ProximaNovaRgRegular;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+.fc-footer-card a.fc-foot-cta:after {
+  content: "";
+  display: inline-block;
+  width: 14px;
+  height: 12px;
+  position: absolute;
+  margin-top: 4px;
+  margin-left: 5px;
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  background: url("/images/icons/back-button.svg") center/contain no-repeat;
+}
+
+.fc-foot-copyrights {
+  padding: 15px;
+  text-align: inherit;
+}
+
+.copyrights-nav {
+  display: inline-block;
+  line-height: inherit;
+  float: left;
+  max-width: 400px;
+  padding-top: 40px;
+  margin-bottom: 0;
+}
+
+.fc-copyrights-nav a {
+  padding: 10px 20px 0px 0px !important;
+  font-size: 14px;
+  text-decoration: none;
+  text-decoration: none;
+  letter-spacing: 0.3px;
+  color: #181b3b;
+}
+
+.fc-copyrights-nav a:hover {
+  color: #fe1a82 !important;
+}
+
+.footer-copyrights-text {
+  float: right;
+  text-transform: uppercase;
+  font-family: "ProximaNovaRgRegular" !important;
+  margin-top: -18px;
+}
+
+.fc-footer-card:hover {
+  box-shadow: 0 9px 47px 0 rgba(213, 224, 255, 0.32);
+  border-radius: 14px;
+  transition: 0.3s;
+}
+
+.fc-footer-flex {
+  display: flex;
+}
+
+.fc-footer-logo::after {
+  max-width: 180px;
+}
+
+.fc-footer-social {
+  list-style-type: none;
+  margin-left: -40px;
+  margin-top: 30px;
+}
+
+.fc-footer-social li {
+  list-style-position: inside;
+  display: inline-block;
+  padding: 0px 5px;
+}
+
+.fc-footer-social img {
+  width: 30px;
+}
+
+.fc-connect-bar {
+  margin-top: 30px;
+}
+
+.fc-cs-logos-custom {
+  max-width: 550px;
+  width: 100%;
+  margin: 30px auto 10px;
+}
+
+.fc-single-case-study a {
+  text-decoration: none;
+}
+.fc-middle-halt {
+  max-width: 150px;
+  width: 100%;
+  margin: 0 auto;
+}
+.fc-center-learn-more {
+  text-align: center;
+  background-color: #ff3184;
+  color: #ffffff !important;
+  font-family: "ProximaNovasemiBold";
+  font-size: 18px;
+  float: left;
+  letter-spacing: 0.6px;
+  padding: 7px 15px;
+}
+a.fc-center-learn-more:hover {
+  color: #ffffff !important;
+  background-color: rgba(255, 60, 139, 0.92) !important;
+}
+
+.fc-tab-switch > li > a,
+.fc-tab-switch > li > a.active {
+  font-weight: 600;
+  font-size: 22px;
+  color: #3b3b3b;
+  padding: 15px 20px !important;
+  text-transform: initial !important;
+  position: relative;
+  font-family: "ProximaNovaBold" !important;
+}
+
+.fc-single-testimonial {
+  background-color: #ffffff;
+  padding: 50px 60px 80px;
+}
+
+.fc-tab-switch > li.active a,
+.fc-tab-switch > li.focus a .fc-tab-switch > li {
+  color: #ff3184;
+  fill: #ff3184;
+}
+
+.fc-tab-switch > li a:hover {
+  color: #2bbbad;
+}
+
+.fc-tab-switch .nav-tabs {
+  border-bottom: 1px solid #f0f0f0 !important;
+}
+
+.fc-tab-switch .nav-tabs > li {
+  margin-bottom: 0px !important;
+}
+
+.fc-tab-switch .nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li > a:hover {
+  border: none !important;
+  color: #ff3184;
+}
+
+.fc-tab-content {
+  padding: 20px;
+}
+
+.tab-switch-img {
+  padding: 0px 10px;
+  max-width: 50px;
+  height: 20px;
+}
+
+.fc-tab-switch .nav-tabs > li > a {
+  border: none !important;
+}
+
+.nav > li > a,
+.nav > li > a:focus {
+  background-color: transparent !important;
+  color: #000;
+  border: none !important;
+  font-size: 22px !important;
+  font-weight: 700;
+}
+
+.fc-tab-switch .nav > li > a,
+.nav > li > a:focus {
+  background-color: none !important;
+}
+
+.fc-ebook-banner {
+  min-height: 650px;
+  padding: 70px 0px;
+  position: relative;
+  background-color: #f9f6ff;
+}
+
+.fc-events-card {
+  margin-top: 30px;
+  min-height: 380px;
+  padding: 20px 30px;
+  box-shadow: 0 6px 38px 0 rgba(83, 86, 92, 0.05);
+  border: solid 0.9px #e6ecf3;
+  background-color: #ffffff;
+  transition: .2s ease-out !important;
+}
+.fc-events-card:hover {
+  box-shadow: 0 1px 1px 0 rgb(90 122 190 / 10%), 0 10px 20px 0 rgb(90 122 190 / 20%);
+  transform: translateY(-6px);
+}
+.fc-award-card {
+  margin-top: 30px;
+  min-height: 260px;
+  padding: 20px 30px;
+  cursor: pointer;
+  box-shadow: 0 6px 38px 0 rgba(83, 86, 92, 0.05);
+  border: solid 0.9px #e6ecf3;
+  transition: transform 0.3s ease, box-shadow 0.3s ease,
+    -webkit-transform 0.3s ease;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.fc-webinar-card {
+  margin-top: 30px;
+  min-height: 520px;
+  position: relative;
+  transition: all 1s ease;
+  box-shadow: 0 6px 38px 0 rgba(83, 86, 92, 0.05);
+  border: solid 0.9px #e6ecf3;
+  transition: transform 0.3s ease, box-shadow 0.3s ease,
+    -webkit-transform 0.3s ease;
+  background-color: #ffffff;
+}
+
+.fc-award-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 12px 18px rgba(161, 166, 181, 0.2);
+}
+
+.fc-event-card-img {
+  height: 120px;
+  display: flex;
+  align-content: space-between;
+  align-items: center;
+}
+
+.fc-bolded li b {
+  font-family: "ProximaNovaSemiBold";
+  color: #000000;
+}
+
+.fc-event-card-img img {
+  max-width: 130px;
+  margin: 30px 0px 40px 0px;
+  width: 100%;
+}
+
+.fc-award-card-img img {
+  max-width: 130px;
+  width: 100%;
+}
+
+.fc-award-card-img {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fc-award-card span {
+  margin-top: 10px;
+  font-size: 16px;
+  position: relative;
+  color: rgb(94, 95, 112);
+  text-align: center;
+  padding: 5px 20px;
+  font-weight: 500;
+  font-family: "ProximaNovaSemiBold";
+  letter-spacing: 0.23px;
+}
+
+.fc-float-bottom {
+  position: absolute;
+  text-align: center;
+  bottom: 30px;
+}
+
+.fc-events-card h4,
+.fc-past-table h4 {
+  margin-top: 15px;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.29px;
+  color: #000000;
+}
+
+.fc-events-card h5,
+.fc-past-table h5 {
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  font-family: "ProximaNovasemiBold";
+  letter-spacing: 0.23px;
+  color: #000000;
+}
+
+.fc-event-place {
+  margin-top: 35px;
+  position: relative;
+  font-family: ProximaNovaRgRegular;
+  font-size: 16px;
+  color: #181b3b;
+  line-height: 1.4;
+}
+
+.fc-award-desc {
+  margin-top: 10px;
+  position: relative;
+  max-width: 300px;
+  width: 100%;
+  text-align: center;
+  font-family: "ProximaNovasemiBold";
+  font-size: 18px;
+  color: #181b3b;
+  line-height: 1.3;
+}
+
+.fc-ev-place {
+  position: relative;
+  font-family: ProximaNovaRgRegular;
+  font-size: 16px;
+  color: #181b3b;
+  line-height: 1.4;
+}
+
+.fc-events-card h5.first::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0;
+  top: 30px;
+  height: 3px;
+  background: #ff934d;
+  transition: width 0.3s;
+  width: 30%;
+  transition: width 0.3s;
+}
+
+.fc-events-card h5.second::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0;
+  top: 30px;
+  height: 3px;
+  background: #57bff2;
+  transition: width 0.3s;
+  width: 30%;
+  transition: width 0.3s;
+}
+
+.fc-events-card h5.third::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0;
+  top: 30px;
+  height: 3px;
+  background: #4065d3;
+  transition: width 0.3s;
+  width: 30%;
+  transition: width 0.3s;
+}
+
+/**w-tabs*/
+
+/****customer-band-logos****/
+
+.fc-customer-band-logos {
+  background-color: #f4fafd;
+}
+
+.fc-left-cust {
+  padding: 80px 0px;
+}
+
+.fc-customer-band-logos h4 {
+  font-family: "ProximaNovasemiBold";
+  font-weight: 18px;
+  color: #181b3b;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.fc-customer-band-logos h3 {
+  max-width: 460px;
+  margin: 0 auto;
+  font-size: 35px;
+  font-family: Merriweather, ProximaNovaRgRegular;
+  line-height: 1.43;
+  text-align: center;
+  color: #181b3b;
+}
+
+.fc-cust-band-lsec {
+  max-width: 600px;
+  width: 100%;
+  padding: 80px 0px 80px 70px;
+  margin: 0 auto;
+}
+
+.fc-cust-band-lsec img {
+  max-width: 100px;
+  width: 100%;
+}
+
+.fc-cust-logo-1 {
+  width: 33.33%;
+}
+
+.fc-cust-logo-2 {
+  width: 50%;
+}
+
+.fc-2-col-logo,
+.fc-3-col-logo {
+  display: flex;
+}
+
+/****customer-testimonials***/
+
+.fc-customer-testimonials {
+  background-color: #fbfafe;
+  padding: 100px 0px;
+}
+
+.fc-customer-testimonials h2 {
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 45px;
+  line-height: 55px;
+  color: #181b3b;
+  max-width: 300px;
+}
+
+.dots-bottom-svg {
+  position: absolute;
+  top: 290px;
+  left: -80px;
+}
+
+.dots-top-svg {
+  position: absolute;
+  top: -30px;
+  z-index: 0;
+  left: 600px;
+}
+
+.fc-testimonial-cards {
+  padding: 70px;
+  max-width: 700px;
+  height: 580px;
+  z-index: 10;
+  background-color: #ffffff;
+}
+
+.fc-testimonial-logo {
+  margin-left: -20px;
+}
+
+.fc-testimonial-cards p {
+  margin-top: 20px;
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 36px;
+  color: #14132e;
+}
+
+.fc-testimonial-logo img {
+  max-width: 200px;
+  width: 100%;
+}
+
+.fc-testimonial-speaker {
+  margin-top: 30px;
+  display: flex;
+}
+.fc-tsnml-sp-icon img {
+  border-radius: 50%;
+  max-width: 80px;
+  padding: 0px 20px 0px 0px;
+  width: 100%;
+}
+
+.fc-tsnml-name {
+  font-size: 20px;
+  color: #14132e;
+  font-family: "ProximaNovasemiBold";
+}
+
+.fc-tsnml-name span {
+  font-family: ProximaNovaRgRegular !important;
+  color: #87879e;
+  font-size: 20px;
+}
+
+/****customer-success**/
+
+.fc-cs-banner {
+  background-color: #5342b9;
+  min-height: 100vh;
+}
+
+.fc-cs-banner h1 {
+  padding-top: 150px;
+  font-size: 58px;
+  max-width: 569px;
+  line-height: 0.96;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #ffffff;
+}
+
+.fc-cs-banner p {
+  margin-top: 40px;
+  margin-bottom: 70px;
+  font-size: 20px;
+  color: #ffffff;
+  max-width: 650px;
+  width: 100%;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-onboard-desc {
+  padding: 120px 0px;
+  background-color: #fafafc;
+}
+
+.fc-onboard-desc h3 {
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 35px;
+  max-width: 900px;
+  width: 100%;
+  line-height: 50px;
+  margin: 0 auto;
+  color: #181b3b;
+  text-align: center;
+  font-weight: 300px !important;
+}
+
+.fc-onboard-desc {
+  padding: 120px 0px 0px 0px;
+  background-color: #fafafc;
+}
+
+.onboard-team-img {
+  max-width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fbf9fa;
+}
+
+.fc-onboard-desc h3 {
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 35px;
+  padding: 0px 0px 60px 0px;
+  max-width: 900px;
+  width: 100%;
+  line-height: 50px;
+  margin: 0 auto;
+  color: #181b3b;
+  text-align: center;
+  font-weight: 300 !important;
+}
+
+.fc-onboard-deep-desc {
+  background-color: #f2fafc;
+  padding: 50px 0px;
+}
+
+.fc-onboard-deep-desc p {
+  margin-top: 40px;
+  font-size: 21px;
+  color: #2a2c43;
+  text-align: center;
+  max-width: 870px;
+  margin: 0 auto;
+  width: 100%;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-onboard-features {
+  padding: 100px 0px 0px;
+}
+
+.fc-onboard-features h3 {
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 35px;
+  max-width: 700px;
+  width: 100%;
+  line-height: 50px;
+  margin: 0 auto;
+  color: #181b3b;
+  text-align: center;
+  padding-bottom: 30px;
+  font-weight: 300px !important;
+}
+
+.fc-onboard-features p {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 20px;
+  max-width: 820px;
+  color: #2a2c43;
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-customer-success-btn {
+  font-family: "ProximaNovaRgRegular";
+  background-color: #ff3185;
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  line-height: normal;
+  letter-spacing: 1.8px;
+  text-align: center;
+  color: #ffffff;
+  padding: 18px 50px;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.fc-customer-success-btn:hover {
+  color: #fff;
+  background: #ff3185;
+  box-shadow: 0 10px 20px 0 rgba(46, 30, 106, 0.4);
+  text-decoration: none;
+}
+
+.fc-onboard-sw-section {
+  margin-top: 85px;
+}
+
+.fc-sw-section:first-child {
+  padding: 0px 0px 50px 0px;
+}
+
+.fc-sw-section {
+  padding: 60px 0px 50px 0px;
+}
+
+.fc-sw-head,
+.fc-sw-head-2,
+.fc-sw-head-3,
+.fc-sw-head-4 {
+  margin-top: 30px;
+  font-size: 35px;
+  line-height: 1.26;
+  color: #181b3b;
+  position: relative;
+  font-family: "ProximaNovaBold";
+}
+
+.fc-sw-section h4 {
+  margin-top: 30px;
+  font-size: 26px;
+  color: #181b3b;
+  line-height: 1.26;
+  font-family: "ProximaNovaBold";
+}
+
+.fc-sw-point {
+  position: absolute;
+  left: -30px;
+  top: 16px;
+}
+
+.fc-sw-list {
+  margin-top: 12px;
+}
+
+.fc-sw-list li {
+  padding: 10px 0px;
+}
+
+.fc-sw-head:after {
+  content: "";
+  position: absolute;
+  background: #d7f7ff;
+  width: 55%;
+  height: 30px;
+  z-index: -1;
+  top: 20px;
+  left: -20px;
+}
+
+.fc-sw-head-2:after {
+  content: "";
+  position: absolute;
+  background: #d7f7ff;
+  width: 80%;
+  height: 30px;
+  z-index: -1;
+  top: 20px;
+  left: -20px;
+}
+
+.fc-sw-head-3:after {
+  content: "";
+  position: absolute;
+  background: #d7f7ff;
+  width: 65%;
+  height: 30px;
+  z-index: -1;
+  top: 20px;
+  left: -20px;
+}
+
+.fc-sw-head-4:after {
+  content: "";
+  position: absolute;
+  background: #d7f7ff;
+  width: 70%;
+  height: 30px;
+  z-index: -1;
+  top: 20px;
+  left: -20px;
+}
+
+.fc-sw-section ul {
+  list-style-position: inside;
+  list-style-type: none;
+}
+
+.fc-sw-section ul li {
+  font-size: 18px;
+  position: relative;
+  margin-left: -10px;
+  color: #14132e;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-cs-feature {
+  padding: 100px;
+  border-radius: 5px;
+  background-color: #f7f8fa;
+}
+
+.fc-cs-feature h3 {
+  max-width: 430px;
+  width: 100%;
+  margin-top: -2px;
+  color: #181b3b;
+  font-size: 35px;
+  line-height: 1.26;
+  font-family: ProximaNovaBold;
+}
+
+.fc-cs-feature p {
+  max-width: 450px;
+  width: 100%;
+  font-size: 20px;
+  line-height: 1.67;
+  font-family: ProximaNovaRgRegular;
+  color: #181b3b;
+  font-weight: 400;
+}
+
+.fc-cs-cta {
+  margin-top: 30px;
+  display: flex;
+}
+
+a.fc-cs-try {
+  font-family: "ProximaNovaRgRegular";
+  background-color: #4e36a6;
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  line-height: normal;
+  letter-spacing: 1.8px;
+  text-align: center;
+  color: #ffffff;
+  border: 2px solid #4e36a6;
+  padding: 18px 50px;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a.fc-cs-try-white {
+  font-family: "ProximaNovaRgRegular";
+  background-color: transparent;
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  line-height: normal;
+  letter-spacing: 1.8px;
+  text-align: center;
+  color: #4e36a6;
+  padding: 13px 30px;
+  border: 2px solid #4e36a6;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-decoration: none;
+  margin-right: 0;
+}
+
+a.fc-cs-try:hover {
+  background-color: #ffffff;
+  color: #4e36a6;
+  transition: 0.2s;
+  border: 2px solid #4e36a6;
+}
+
+a.fc-cs-try-white:hover {
+  color: #ffffff;
+  background-color: #4e36a6;
+  transition: 0.2s;
+  border: 2px solid #4e36a6;
+}
+
+/****customer-success**/
+
+/******case-study-onboard**********/
+
+.fc-case-onboard {
+  margin-top: 20px;
+  padding: 100px 0px 0px;
+  background-color: #fbf9fa;
+}
+
+.fc-case-onboard h3 {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  font-family: ProximaNovaBold;
+  font-size: 38px;
+  line-height: 1;
+  letter-spacing: 0.6px;
+  color: #181b3b;
+  text-align: center;
+}
+
+.onboard-case-team {
+  max-width: 900px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fc-case-onboard p {
+  font-size: 18px;
+  color: #2a2c43;
+  text-align: center;
+  max-width: 752px;
+  margin: 0 auto;
+  padding-top: 30px;
+  width: 100%;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-cs-onboard {
+  max-width: 175px;
+  width: 100%;
+  margin: 60px auto 0;
+}
+
+/******case-study-onboard**********/
+
+/******fc-all-features**********/
+
+.mc-all-features-sec {
+  min-height: 100vh;
+  padding: 180px 10px;
+  background-image: linear-gradient(to bottom, #fff, #f9f6ff);
+}
+
+.feature-page-headings h1 {
+  max-width: 600px;
+  font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 45px;
+  margin-bottom: 10px !important;
+  text-align: left;
+  color: #181b3b;
+}
+
+.feature-page-headings p,
+.overview-page-headings p {
+  max-width: 500px;
+  width: 100%;
+  margin-top: 25px;
+  margin-bottom: 40px;
+  font-size: 19px;
+  line-height: 1.65;
+  font-family: ProximaNovaRgRegular;
+  font-weight: 400;
+  text-align: left;
+  color: #181b3b;
+}
+
+.fc-sub-nav {
+  padding: 25px 60px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 100%;
+  max-height: 80px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  -webkit-transform: none;
+  transform: none;
+  white-space: nowrap;
+  z-index: 1000;
+  margin-top: -40px !important;
+  box-shadow: 0 5px 57px 0 rgba(83, 86, 92, 0.08);
+  background-color: #fff !important;
+}
+
+.fc-feature-sub-nav {
+  padding: 25px 80px;
+  border-radius: 0px;
+  max-width: 1350px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 100%;
+  overflow-y: hidden;
+  -webkit-transform: none;
+  border-bottom: none;
+  transform: none;
+  white-space: nowrap;
+  z-index: 1000;
+}
+
+.nav-tabs.fc-feature-sub-nav li {
+  padding: 0px 25px !important;
+}
+
+.fc-sub-nav-wrap {
+  width: 100%;
+  max-width: 1000px !important;
+  margin: auto !important;
+  position: relative;
+}
+
+.fc-sub-nav > ul > li {
+  display: inline-block;
+  padding: 0 40px;
+  position: relative;
+}
+
+.fc-sub-nav > ul > li.active a:after {
+  content: "";
+  display: block;
+  font-family: ProximaNovaRgRegular;
+  position: absolute;
+  width: 0;
+  top: 50px;
+  height: 3px;
+  background: #ff3184;
+  transition: width 0.3s;
+  width: 20%;
+  transition: width 0.3s;
+}
+
+.fc-feature-sticky {
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  scroll-behavior: smooth;
+  margin-top: 0 !important;
+  width: 100%;
+}
+
+.fc-sub-nav > ul > li.active a {
+  font-size: 20px;
+  font-family: ProximaNovaRgRegular;
+  color: #181b3b;
+  text-decoration: none;
+}
+
+.fc-sub-nav > ul > li > a {
+  font-size: 20px;
+  color: rgba(24, 27, 59, 0.58);
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-feature-navigate {
+  padding: 80px 0;
+}
+
+.fc-carousel-nav-wrap {
+  padding: 30px 0px !important;
+}
+
+.fc-feature-set {
+  padding: 20px 0;
+  position: relative;
+}
+
+.fc-feature-set span {
+  font-size: 14px;
+  font-weight: 600;
+  font-family: ProximaNovaSemibold;
+  letter-spacing: 2px;
+  color: #ff4491;
+}
+
+.fc-feature-set h3 {
+  color: #181b3b;
+  font-family: Merriweather, ProximaNovaRgRegular;
+  font-size: 28px;
+  line-height: 0;
+}
+
+.fc-feature-set-lists p {
+  font-size: 18px;
+  padding-left: 20px;
+  line-height: 1.56;
+  color: #181b3b;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-feature-set-lists {
+  width: 33.33%;
+  margin-top: 0;
+  position: relative;
+  padding: 10px 20px;
+}
+
+.fc-list-wrap {
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.feature-cta-right {
+  position: relative;
+  margin-top: 30px;
+  left: 40px;
+}
+
+.feature-cta-right a {
+  font-size: 20px;
+  font-family: ProximaNovasemiBold;
+  cursor: pointer;
+  color: #4e36a6;
+  transition: all 0s ease 0s;
+  padding: 10px 30px;
+  transition: border-color 0.3s, color 0.3s;
+  transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
+  border: 2px solid #4e36a6;
+  text-decoration: none;
+}
+
+.fc-feature-navigate-blue {
+  padding: 60px 0;
+  background-color: rgba(244, 247, 252, 0.79);
+}
+
+.feature-cta-right a:hover {
+  background-color: #4e36a6;
+  color: #fff;
+}
+
+.fc-feature-list h4 {
+  font-size: 20px;
+  font-family: ProximaNovaSemiBold;
+  letter-spacing: 0.5px;
+  color: #ff4491;
+}
+
+.fc-feature-list {
+  padding: 15px 0;
+}
+
+.fc-feature-dot {
+  position: absolute;
+  height: 8px;
+  width: 8px;
+  top: 18px;
+  left: 10px;
+  background-color: #324056;
+  border-radius: 50%;
+}
+
+/******fc-all-features**********/
+
+/******fc-home-other-feature****/
+
+.fc-home-other-feature {
+  padding: 100px 0px;
+}
+
+.fc-home-other-feature h2 {
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: "Merriweather";
+  font-size: 40px;
+  font-weight: 300 !important;
+  line-height: 55px;
+  font-weight: normal;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #181b3b;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 10px;
+}
+
+.fc-home-other-feature-card {
+  padding: 30px;
+  margin-top: 30px;
+  min-height: 290px;
+  position: relative;
+  cursor: pointer;
+}
+
+.fc-home-other-feature-card:hover {
+  box-shadow: 0 35px 32px 0 rgba(0, 0, 0, 0.09);
+  transform: translatey(-4px);
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.fc-home-other-feature-card:hover:after {
+  -webkit-transform: translateX(4px);
+  -ms-transform: translateX(4px);
+  transform: translateX(4px);
+  opacity: 1;
+}
+
+.fc-home-other-feature-card:after {
+  content: "";
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  top: 30px;
+  right: 50px;
+  opacity: 0;
+  position: absolute;
+  -webkit-transition: 0.3s ease;
+  -o-transition: 0.3s ease;
+  transition: 0.3s ease;
+  background: url("/images/icons/right-arrow-white.svg") center/contain
+    no-repeat;
+}
+
+.fc-home-feat-top {
+  margin-top: 50px;
+}
+
+.fc-home-feat-top a {
+  text-decoration: none;
+}
+
+.fc-home-other-feature-card h3 {
+  font-size: 22px;
+  margin-top: 40px;
+  cursor: pointer;
+  font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.fc-home-other-feature-card p {
+  font-size: 17px;
+  font-family: ProximaNovaRgRegular;
+}
+
+.fc-home-card-1 {
+  background-color: #f0fdff;
+  color: #181b3b;
+}
+
+.fc-home-card-1:hover {
+  background-color: #42c0d2;
+  color: #ffffff;
+}
+
+.fc-home-card-1:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-1.svg") center/contain no-repeat;
+}
+
+.fc-home-card-1:hover:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-1-white.svg") center/contain no-repeat;
+}
+
+.fc-home-card-2 {
+  background-color: #fff3f4;
+  color: #181b3b;
+}
+
+.fc-home-card-2:hover {
+  background-color: #ee7083;
+  color: #ffffff;
+}
+
+.fc-home-card-2:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-3.svg") center/contain no-repeat;
+}
+
+.fc-home-card-2:hover:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-3-white.svg") center/contain no-repeat;
+}
+
+.fc-home-card-3 {
+  background-color: #f4f9ff;
+  color: #181b3b;
+}
+
+.fc-home-card-3:hover {
+  background-color: #3882e0;
+  color: #ffffff;
+}
+
+.fc-home-card-3:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-2.svg") center/contain no-repeat;
+}
+
+.fc-home-card-3:hover:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-2-white.svg") center/contain no-repeat;
+}
+
+.fc-home-card-4 {
+  background-color: #f5f5ff;
+  color: #181b3b;
+}
+
+.fc-home-card-4:hover {
+  background-color: #6364da;
+  color: #ffffff;
+}
+
+.fc-home-card-4:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-4.svg") center/contain no-repeat;
+}
+
+.fc-home-card-4:hover:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-4-white.svg") center/contain no-repeat;
+}
+
+.fc-home-card-5 {
+  background-color: #fff6fe;
+  color: #181b3b;
+}
+
+.fc-home-card-5:hover {
+  background-color: #c750b6;
+  color: #ffffff;
+}
+
+.fc-home-card-5:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-5.svg") center/contain no-repeat;
+}
+
+.fc-home-card-5:hover:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-5-white.svg") center/contain no-repeat;
+}
+
+.fc-home-card-6 {
+  background-color: #fff9ee;
+  color: #181b3b;
+}
+
+.fc-home-card-6:hover {
+  background-color: #ffc466;
+  color: #181b3b;
+}
+
+.fc-home-card-6:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-6.svg") center/contain no-repeat;
+}
+
+.fc-home-card-6:hover:before {
+  content: "";
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  top: 20px;
+  position: absolute;
+  background: url("/images/icons/navicon-6-white.svg") center/contain no-repeat;
+}
+
+/******fc-home-other-feature****/
+
+@media screen and (min-width: 520px) and (max-width: 780px) {
+  .logo {
+    margin-top: 10px;
+  }
+  .fc-top-left-dots,
+  .fc-bottom-right-dots {
+    display: none;
+  }
+  .fc-covid-specific-banner h1 {
+    font-size: 33px;
+  }
+  .fc-covid-specific-banner p {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .fc-mobile-visibility {
+    display: none;
+  }
+  .fc-mobile-viewable {
+    display: block;
+  }
+  .fc-slider {
+    height: 57px;
+    overflow: hidden;
+    padding: 5px 10px;
+  }
+  .home-banner .home-banner-H {
+    font-family: "ProximaNovaBold", -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 34px;
+    max-width: 600px;
+    line-height: 1;
+    margin: 0 auto;
+    letter-spacing: 0.6px;
+    color: #19182e;
+    position: relative;
+  }
+  .fc-slider-wrapper {
+    font-size: 36px;
+  }
+  .fc-int-small {
+    font-size: 30px;
+    padding-top: 5px;
+    line-height: 30px;
+  }
+  .fc-home-other-feature {
+    padding: 70px 0px;
+  }
+  .fc-ebook-card {
+    position: relative;
+    left: 0px;
+    max-width: 360px;
+  }
+  .seo-sidebar {
+    position: relative !important;
+    margin-top: -30px !important;
+  }
+  .workplace-section,
+  .property-section,
+  .sustainability-section,
+  .integration-section,
+  .fdd-section,
+  .iot-section,
+  .platfrom-section .maintenance-section,
+  .bms-section {
+    min-height: 400px !important;
+    padding: 20px;
+    margin-top: 50px;
+  }
+  .fc-wrapper-pad {
+    padding: 60px 50px;
+  }
+  .fc-wrap-pads {
+    padding: 50px !important;
+  }
+  .bms-section:before {
+    content: "";
+    width: 300px;
+    height: 300px;
+    background-image: url("/images/building-management.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .workplace-section:before {
+    content: "";
+    width: 300px;
+    height: 300px;
+    background-image: url("/images/cross-banner/workplace.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .property-section:before {
+    content: "";
+    width: 300px;
+    height: 300px;
+    background-image: url("/images/cross-banner/property.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .maintenance-section:before {
+    content: "";
+    width: 300px;
+    height: 300px;
+    background-image: url("/images/cross-banner/maintenance.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .fdd-section:before {
+    content: "";
+    width: 300px;
+    height: 300px;
+    background-image: url("/images/cross-banner/fdd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .iot-section:before {
+    content: "";
+    width: 300px;
+    height: 300px;
+    background-image: url("/images/cross-banner/iot-edge.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .platform-section:before {
+    content: "";
+    width: 300px;
+    height: 300px;
+    background-image: url("/images/cross-banner/Platform.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .sustainability-section:before {
+    content: "";
+    width: 300px;
+    height: 300px;
+    background-image: url("/images/cross-banner/sustain-section.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
+  }
+  .workplace-headings {
+    max-width: 480px;
+    padding: 10px 20px;
+  }
+  .overview-page-headings {
+    max-width: 480px;
+    padding: 10px 20px;
+  }
+  .workplace-headings h1 {
+    padding: 0px;
+    font-size: 36px;
+  }
+  .overview-page-headings h1 {
+    padding: 0px;
+    margin-top: 0px;
+    font-size: 28px;
+    line-height: 32px;
+  }
+  .workplace-headings p {
+    font-size: 22px !important;
+  }
+  .overview-page-headings p {
+    font-size: 15px !important;
+  }
+  .fc-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .w-feature-desc {
+    width: auto !important;
+  }
+  .w-feature-desc {
+    max-width: 600px;
+  }
+  .fc-column-pad {
+    padding: 30px 50px;
+  }
+  .w-col-wrapper {
+    display: block;
+    padding: 20px 0px !important;
+  }
+  .w-col-wrapper .col-md-4 {
+    margin-top: 30px !important;
+  }
+  .fc-cta-section {
+    background-color: #492196;
+    color: #ffffff;
+    margin-top: 100px !important;
+    z-index: 10;
+    padding: 40px 48px 40px;
+  }
+  /****404 redirect page****/
+  .fc-404-float-dummy-card {
+    position: absolute;
+    max-width: 1000px;
+    top: 40px;
+    left: -45px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .fc-404-float-card p,
+  .fc-404-float-dummy-card p {
+    max-width: 390px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .fc-404-redirect-dummy-features {
+    display: none;
+  }
+  .fc-left-details {
+    padding-left: 30px;
+  }
+  .privacy-content {
+    width: 100% !important;
+  }
+  .privacy-concern {
+    padding: 0 !important;
+    margin-top: 0 !important;
+    padding-bottom: 40px !important;
+  }
+  .fc-log-book-page .fserv-container .fserv-form-name {
+    padding-left: 0;
+  }
+  .fc-log-book-page .fserv-form-description {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .fc-log-book-page .fserv-form {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+  }
+  .fc-log-book-page .fc-right-details {
+    padding-left: 0 !important;
+  }
+  #real-estate-book-download {
+    padding-top: 0 !important;
+    padding-left: 0 !important;
+  }
+  .fc-log-book-page .fserv-container {
+    padding-bottom: 0 !important;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .fc-cta-section h3 {
+    font-size: 21px !important;
+  }
+  .fc-cta-section ul {
+    margin-left: -15px !important;
+  }
+  .fc-integration-metrics h5 {
+    font-size: 15px !important;
+  }
+  .fc-customer-band-logos h3 {
+    font-size: 26px !important;
+  }
+  .demo-footer-button {
+    padding: 15px 40px !important;
+  }
+  .footer-copyrights-text {
+    margin-left: 40px;
+    font-size: 12px;
+  }
+  .teamSection1 {
+    padding: 225px 20px 0 20px !important;
+  }
+  .demo-footer-button {
+    margin-left: -15px;
+  }
+  .partner-btn {
+    font-family: ProximaNovaLtLight;
+    padding: 14px 20px !important;
+    font-size: 14px !important;
+  }
+  .partner-desc3 {
+    font-size: 15px !important;
+  }
+  .fc-partner-form-heading {
+    font-size: 22px;
+  }
+  .fc-case-onboard h3 {
+    font-size: 17px !important;
+  }
+  .fc-case-onboard p {
+    font-size: 15px !important;
+  }
+  .fc-case-cta-white {
+    padding: 5px 15px 30px 15px !important;
+    letter-spacing: 0.5px;
+  }
+  .fc-case-cta-black {
+    padding: 5px 15px 30px 15px !important;
+  }
+  .fc-case-txt {
+    padding: 10px 20px 15px 20px !important;
+  }
+  .fc-testimonial-cards p {
+    line-height: 28px !important;
+  }
+  .fc-testimonial-cards p {
+    font-size: 14px !important;
+  }
+  .fc-tsnml-name span {
+    font-size: 15px !important;
+  }
+  .fc-case-txt {
+    font-size: 15px !important;
+    line-height: 28px !important;
+  }
+  .fc-hub-content h1 {
+    font-size: 25px !important;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .fc-ebook-detail {
+    padding: 60px 15px;
+  }
+  .fc-ebook-button {
+    top: 30px;
+  }
+  .fc-ebook-card {
+    position: relative;
+    left: 0px;
+    max-width: 360px;
+  }
+  .fc-ebook-banner {
+    min-height: 500px;
+    padding: 60px 0 150px;
+  }
+  .fc-home-responsive {
+    width: auto;
+    width: 100%;
+    height: auto;
+  }
+  .fc-case-txt {
+    padding: 10px 35px 15px 35px;
+  }
+  .fc-case-cta-black {
+    padding: 5px 30px 30px 30px;
+  }
+  .fc-case-cta-black,
+  .fc-case-cta-white {
+    font-size: 16px;
+  }
+  .fc-case-cta-black img {
+    max-width: 36px;
+    width: 100%;
+  }
+  .fc-case-onboard h3 {
+    font-size: 24px;
+  }
+  .seperate > .nav-tabs > li.active a:after {
+    top: 20px !important;
+  }
+  .fc-footer-secondary {
+    margin-left: 0;
+  }
+  .dots-mid-svg {
+    display: none;
+  }
+  .fc-other-feature h3 {
+    font-size: 28px;
+    font-family: merriweather;
+    font-weight: 300;
+    padding: 20px 30px;
+    margin-top: 0px;
+    color: #181b3b;
+    line-height: 42px;
+  }
+  .fc-of-wrap {
+    margin-left: -10px;
+  }
+  .logo {
+    width: 90px !important;
+    margin-top: 15px;
+    margin-left: 0px;
+    cursor: pointer;
+  }
+  .cafmBanner-heading h1 {
+    margin-top: 40px;
+    font-size: 30px;
+    line-height: 1.21;
+  }
+  .feature-pad {
+    padding: 80px 0px 30px;
+  }
+  .solution-section-4,
+  .solution-section-3,
+  .solution-section-2,
+  .solution-section-1,
+  .rebuild-banner {
+    padding: 30px 10px;
+    min-height: 300px;
+    background-image: none;
+  }
+  .cafmBanner-section {
+    height: auto;
+    padding: 20px 0px;
+    background-image: none;
+  }
+  .fc-testimonial-cards {
+    padding: 20px;
+  }
+  .fc-testimonial-cards p {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 30px !important;
+  }
+  .fc-tsnml-name {
+    font-size: 16px;
+  }
+  .fc-events-area .nav-tabs {
+    border-bottom: none;
+    display: flex !important;
+    max-width: 300px !important;
+    margin: 0 auto !important;
+  }
+  .fc-past-table {
+    display: block;
+    overflow-x: scroll;
+    white-space: nowrap;
+    max-width: 400px;
+    width: 100%;
+  }
+  .fc-customer-testimonials h2 {
+    font-size: 31px;
+    line-height: 42px;
+  }
+  .cafmBanner-heading h2 {
+    font-size: 15px;
+    line-height: 22px;
+    line-height: 28px;
+    color: #55557b;
+  }
+  .seo-downarrow {
+    display: none;
+  }
+  .integration-columns {
+    padding: 0px 30px;
+    margin: 10px;
+  }
+  .integration-columns a {
+    text-decoration: none !important;
+  }
+  .read-pad {
+    padding: 10px;
+  }
+  .seo-sidebar-sub-list p {
+    margin-top: 0px;
+  }
+  .seo-desc-sub-container {
+    padding-bottom: 0px;
+  }
+  .base-cafm {
+    margin-top: 30px;
+  }
+  .seo-sidebar {
+    position: relative !important;
+    margin-top: -30px !important;
+    max-width: 800px !important;
+    width: 100%;
+  }
+  .seo-content p,
+  .w-col-desc {
+    font-size: 15px;
+    text-decoration: none;
+    font-family: "ProximaNovaLtLight";
+  }
+  .cafmBanner-heading p {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.71;
+  }
+  .workplace-feature,
+  .workplace-feature-2,
+  .workplace-feature-3,
+  .workplace-feature-4 {
+    padding: 30px 0px;
+  }
+  /*mobile-workplace*/
+  .workplace-headings {
+    padding: 30px 40px;
+    text-align: center !important;
+  }
+  .workplace-headings h1 {
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+  }
+  .workplace-headings p {
+    font-size: 16px !important;
+    text-align: center !important;
+  }
+  .workplace-section,
+  .bms-section,
+  .overview-page-section,
+  .property-section,
+  .sustainability-section,
+  .integration-section,
+  .fdd-section,
+  .iot-section,
+  .platform-section,
+  .maintenance-section {
+    min-height: 450px !important;
+    display: flex;
+    padding: 20px 10px !important;
+    z-index: 0 !important;
+    margin-top: 50px;
+    position: relative;
+  }
+  .fc-metric-wrapper {
+    margin-top: 40px;
+  }
+  .fc-cta-section {
+    padding: 30px 0px;
+    min-height: 250px;
+  }
+  .fc-cta-section h3 {
+    font-size: 24px;
+  }
+  .fc-cta-section ul li {
+    font-size: 13px;
+  }
+  .fc-cta-section ul li {
+    list-style-type: none;
+    padding: 0px 5px;
+  }
+  .workplace-feature {
+    padding: 10px 20px;
+  }
+  .fc-workplace-subhead {
+    font-size: 25px !important;
+  }
+  .w-feature-wrapper {
+    padding: 20px 10px;
+  }
+  .w-mobile-feature-wrapper {
+    padding: 20px 30px;
+  }
+  .w-feature-head-center {
+    font-size: 18px;
+  }
+  .fc-workplace-center {
+    font-size: 14px !important;
+  }
+  .fc-workplace-subtxt,
+  .fc-acc-desc {
+    font-size: 16px;
+  }
+  .w-feature-desc {
+    font-size: 15px !important;
+  }
+  .fc-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .fc-workplace-subhead {
+    font-size: 22px !important;
+  }
+  .fc-wrapper-pad {
+    padding: 40px 0px;
+  }
+  .fc-column-pad {
+    padding: 0px 20px;
+    padding: 0px 30px;
+  }
+  .integration-section::before {
+    display: none;
+  }
+  .sustainability-section:before,
+  .fdd-section:before,
+  .workplace-section:before,
+  .property-section:before,
+  .iot-section:before,
+  .platform-section:before,
+  .maintenance-section:before,
+  .bms-section:before,
+  .fc-cs-banner:before,
+  .mc-all-features-sec:before {
+    display: none;
+  }
+  .fc-blog-card,
+  .fc-case-study-card {
+    padding: 40px 30px !important;
+  }
+  .fc-resource-head {
+    font-size: 19px !important;
+  }
+  .fc-resource-txt {
+    font-size: 16px !important;
+  }
+  .fc-arrow-h-right {
+    font-size: 13px !important;
+  }
+  .fc-start-btn {
+    font-size: 0.85rem;
+    letter-spacing: 1.5px;
+    padding: 14px 30px;
+    top: 0px;
+  }
+  .content-pad {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .facilio-overview-illustration h1 {
+    font-size: 30px;
+    line-height: 38px;
+  }
+  .fc-img-src {
+    margin-top: 40px !important;
+  }
+  .property-wrapper {
+    padding: 10px 20px !important;
+  }
+  .w-property-txt {
+    font-size: 15px;
+  }
+  .fc-integration-metrics:after {
+    display: none;
+  }
+  .fc-integrtaion-wrapper {
+    padding: 0px 25px 40px !important;
+  }
+  .fc-quick-visibility {
+    margin-top: 50px;
+  }
+  .fc-integration-metrics {
+    padding: 25px 0px !important;
+  }
+  .demo-footer-button {
+    padding: 18px 60px !important;
+  }
+  .demo-footer-button {
+    font-size: 13px !important;
+    letter-spacing: 1px;
+  }
+  .fc-events-sec h1 {
+    font-size: 35px !important;
+  }
+  .fc-events-sec p {
+    font-size: 17px;
+  }
+  .fc-cs-banner p {
+    font-size: 16px;
+  }
+  .fc-cs-banner h1 {
+    padding-top: 50px;
+    font-size: 30px !important;
+  }
+  .fc-onboard-desc h3 {
+    font-family: Merriweather, ProximaNovaRgRegular;
+    font-size: 18px;
+    max-width: 900px;
+    width: 100%;
+    line-height: 33px;
+  }
+  .fc-onboard-deep-desc {
+    padding: 40px 0px;
+  }
+  .fc-onboard-deep-desc p {
+    margin-top: 30px;
+    font-size: 16px;
+    padding: 0px 15px;
+  }
+  .fc-onboard-features h3 {
+    font-size: 25px;
+    line-height: 40px;
+  }
+  .fc-onboard-features p {
+    font-size: 15px !important;
+    padding: 0px 15px;
+  }
+  .fc-sw-section:first-child {
+    padding: 20px 35px 50px 35px;
+  }
+  .fc-sw-section {
+    padding: 20px 35px 50px 35px;
+  }
+  .fc-sw-section h4 {
+    margin-top: 30px;
+    font-size: 22px;
+  }
+  .fc-sw-head,
+  .fc-sw-head-2,
+  .fc-sw-head-3,
+  .fc-sw-head-4 {
+    font-size: 28px;
+  }
+
+  .fc-sw-section ul li {
+    font-size: 15px;
+  }
+  .fc-onboard-features {
+    padding: 100px 0px 0px;
+  }
+  .fc-past-table tr td {
+    padding: 10px !important;
+  }
+  .fc-past-table img {
+    margin: 14px 100px 0px 0px !important;
+  }
+  .fc-past-table h3 {
+    font-size: 16px;
+    padding: 0px 10px;
+  }
+  .fc-past-table h5 {
+    font-size: 16px !important;
+    font-weight: 500;
+    margin-left: 10px !important;
+  }
+  .fc-tab-switch li:last-child {
+    padding-top: 6px !important;
+  }
+  .fc-tab-content {
+    padding: 0px;
+    margin-top: 40px;
+  }
+  #upcoming .row {
+    margin-top: -30px;
+  }
+  /****footer***/
+  .fc-footer-card {
+    padding: 0px;
+  }
+  .fc-foot-copyrights {
+    margin-top: 20px;
+    margin-left: 0px;
+  }
+
+  .footer-copyrights-text {
+    float: left;
+  }
+  .fc-connect-bar {
+    padding: 0px 10px !important;
+  }
+  /****footer***/
+  .fc-integration-metrics p span {
+    font-size: 34px !important;
+  }
+  .fc-integration-metrics p {
+    font-size: 15px !important;
+  }
+  .fc-integration-metrics h5 {
+    font-size: 16px;
+  }
+  .fc-integration-metrics {
+    min-height: 320px;
+  }
+  .fc-cs-banner {
+    background-color: #5342b9;
+    min-height: auto;
+    padding: 50px 15px;
+  }
+  .fc-onboard-desc {
+    padding: 50px 0px 0px 0px;
+    background-color: #fafafc;
+  }
+  .fc-cta-section ul li:first-child {
+    padding: 0 5px 0 3px !important;
+  }
+  .fc-cs-feature {
+    padding: 50px 30px;
+  }
+  a.fc-cs-try {
+    font-size: 12px;
+    border: 2px solid #4e36a6;
+    padding: 18px 25px;
+  }
+  a.fc-cs-try-white {
+    font-size: 12px;
+    padding: 18px 26px;
+  }
+  .fc-cs-feature h3 {
+    font-size: 26px;
+  }
+  .fc-cs-feature p {
+    font-size: 16px;
+  }
+  .mob-pt-sec-3 a {
+    font-size: 12px;
+  }
+  .mc-all-features-sec {
+    padding: 80px 15px;
+    min-height: 500px;
+  }
+  .feature-page-headings h1 {
+    font-size: 28px;
+  }
+  .fc-tab-switch > li.active a::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    top: 30px;
+    height: 3px;
+    background: #ff3184;
+    transition: width 0.3s;
+    width: 30%;
+    transition: width 0.3s;
+  }
+  .fc-feature-set {
+    margin: 20px !important;
+  }
+  .fc-sub-nav > ul > li {
+    padding: 0 25px;
+  }
+  .fc-sub-nav > ul > li.active a::after {
+    top: 44px;
+  }
+  .fc-sub-nav > ul > li.active a,
+  .fc-sub-nav > ul > li > a {
+    font-size: 16px !important;
+  }
+  .fc-sub-nav > ul > li > a {
+    font-size: 20px;
+    color: rgba(24, 27, 59, 0.58);
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-family: ProximaNovaRgRegular;
+  }
+  .fc-feature-set h3 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .fc-feature-set-lists {
+    width: 100%;
+    margin-top: 10px;
+  }
+  .fc-feature-set-lists {
+    width: 100%;
+    margin-top: 10px;
+  }
+  .fc-feature-set-lists p {
+    font-size: 15px;
+  }
+  .fc-sub-nav-wrap {
+    width: 100%;
+    max-width: 1000px !important;
+    margin: 0 0 0 -20px !important;
+    position: relative;
+  }
+  .fc-sub-nav {
+    padding: 25px 10px;
+  }
+  .fc-mob-contact {
+    font-size: 12px !important;
+  }
+  /*****fc-verdantix-mobile****/
+  .fc-verdantix-band h3 {
+    font-size: 26px !important;
+    line-height: 38px;
+    font-family: Merriweather, ProximaNovaRgRegular;
+    color: #95f1fd;
+  }
+  .fc-verdantix-band p {
+    font-family: ProximaNovaRgRegular;
+    font-size: 16px !important;
+    line-height: 1.67;
+    padding: 10px 0px;
+    color: #ffffff;
+  }
+  /*****home-feature-set***/
+  .fc-home-feature-tab {
+    padding: 40px 0px;
+    background-color: #492196;
+  }
+  .fc-feature-sub-nav {
+    visibility: hidden;
+  }
+  .fc-home-feature-tab h2 {
+    font-size: 20px !important;
+    padding: 10px;
+    font-weight: 300 !important;
+    line-height: 30px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .w-col-wrapper {
+    display: block;
+    padding: 0px 0 !important;
+  }
+  .fc-ebook-desc h3 {
+    font-size: 32px;
+  }
+  .fc-ebook-desc p {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .fc-home-other-feature h2 {
+    font-size: 20px !important;
+    font-weight: 300 !important;
+    line-height: 32px !important;
+  }
+  .mobile-tab-top {
+    margin-top: -150px;
+  }
+  .fc-home-other-feature {
+    padding: 70px 0px;
+  }
+  .fc-mobile-visibility {
+    display: none;
+  }
+  .fc-mobile-viewable {
+    display: block;
+  }
+  .fc-home-other-feature-card:after {
+    content: "";
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    top: 30px;
+    right: 50px;
+    opacity: 1;
+    position: absolute;
+    -webkit-transition: 0.3s ease;
+    -o-transition: 0.3s ease;
+    transition: 0.3s ease;
+    background: url("/images/icons/arrow-right-black.png") center/contain
+      no-repeat;
+  }
+  .fc-portfolio-card:after {
+    content: "";
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    bottom: 40px;
+    left: 50px;
+    opacity: 1;
+    position: absolute;
+    -webkit-transition: 0.8s ease;
+    transition: 0.8s ease;
+    background: url(/images/icons/arrow-right-black.png) center/contain
+      no-repeat;
+  }
+  .fc-text4 span {
+    display: none;
+  }
+  .fc-footer-card {
+    margin-top: 0;
+    padding-left: 30px;
+  }
+  .reachSection {
+    padding-top: 0;
+  }
+  .home-input-sec {
+    position: relative;
+    margin-top: 20px;
+    padding-bottom: 60px;
+  }
+  .fc-visible-mobile h1 {
+    line-height: 32px !important;
+  }
+  .fc-visible-mobile p {
+    margin-top: 10px;
+    font-size: 15px !important;
+  }
+  /****whatsnew in facilio***/
+  .fc-case-cta-white {
+    padding: 5px 60px 30px 35px;
+    letter-spacing: 0.5px;
+  }
+  .fc-case-violet {
+    max-width: 800px;
+    width: 100%;
+    height: auto !important;
+  }
+  .fc-case-orange {
+    width: 500px;
+    width: 100%;
+    height: auto !important;
+  }
+  .mobile-black-text {
+    font-size: 23px !important;
+  }
+  /****home page mobile*****/
+  .fc-portfolio-card-wrapper {
+    padding: 60px 15px;
+  }
+  .fc-profile-card {
+    min-height: 380px;
+  }
+  .fc-home-feat-top {
+    padding: 15px;
+  }
+  /****product-update-page****/
+  .fc-whatsnew-card {
+    margin-top: 40px;
+  }
+  .fc-whatsnew-card p {
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .heatmap-image {
+    zoom: 120%;
+  }
+  .wn-sub-image-1 {
+    margin-top: 20px !important;
+  }
+  .fc-whatsnew-sub-feature {
+    margin-top: 5px;
+  }
+  .fc-whats-new-left {
+    margin-top: 30px;
+  }
+  .fc-whatsnew-section-3 {
+    padding: 40px 0px;
+  }
+  /*****404 page****/
+  .fc-404-float-dummy-card {
+    position: absolute;
+    max-width: 350px;
+    top: 7px;
+    left: 0px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .fc-404-float-card h1,
+  .fc-404-float-dummy-card h1 {
+    font-family: "ProximaNovaBold";
+    font-size: 40px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #181b3b;
+  }
+  .fc-404-float-card h3,
+  .fc-404-float-dummy-card h3 {
+    font-family: "ProximaNovaBold";
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: #181b3b;
+  }
+  .fc-404-float-card p,
+  .fc-404-float-dummy-card p {
+    font-family: "ProximaNovaRgRegular";
+    font-size: 13px;
+    line-height: 1.19;
+    max-width: 280px;
+    margin: 0 auto;
+    text-align: center;
+    color: #181b3b;
+  }
+  .fc-go-back-wrapper {
+    max-width: 160px;
+    width: 100%;
+    margin: 50px auto;
+  }
+  .fc-404-go-back {
+    padding: 12px 50px;
+    border-radius: 30px;
+    box-shadow: 0 8px 22px 0 #ccc2f3;
+    background-color: #4e36a6;
+    font-family: "ProximaNovaBold";
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .fc-404-redirect-dummy-features {
+    display: none;
+  }
+  overview-page-headings {
+    padding: 10px 30px;
+  }
+  .fc-single-testimonial {
+    background-color: #ffffff;
+    padding: 50px 40px 80px !important;
+  }
+  .fc-single-testimonial-cards-p {
+    margin-top: 10px;
+    font-family: Merriweather, ProximaNovaRgRegular;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 30px;
+    color: #14132e;
+  }
+  /****navtabs****/
+  .fc-navtabs-desc {
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    line-height: 22px;
+    font-family: "ProximaNovaRgRegular";
+  }
+  .fc-violet-wrap h3 {
+    font-size: 28px;
+    line-height: 38px;
+    margin: 0 auto;
+  }
+  .solution-section-1 .overview-page-headings,
+  .solution-section-2 .overview-page-headings,
+  .solution-section-3 .overview-page-headings,
+  .solution-section-4 .overview-page-headings {
+    padding: 10px 30px;
+  }
+  .overview-page-headings {
+    padding: 40px 30px 20px;
+  }
+  .fc-res-cards {
+    border: 1px solid #e6eaf3;
+    margin-top: 15px;
+  }
+  .fc-res-cards p,
+  .fc-res-cards h3,
+  .mob-pt-sec-3 a {
+    text-transform: initial !important;
+  }
+  .fc-button-collapsive {
+    max-width: 230px;
+    width: 100%;
+    margin: 50px auto 0px;
+  }
+  .w-feature-head {
+    font-size: 22px;
+  }
+  .w-feature-txt {
+    font-size: 16px;
+  }
+  .fc-button-get-started {
+    font-size: 13px;
+    padding: 17px 60px;
+  }
+  .fc-platform-hover:before {
+    display: none !important;
+  }
+  .fc-video-embed {
+    margin-top: 0px;
+  }
+  .fc-whats-new-tab-content h2 {
+    font-size: 30px !important;
+  }
+
+  .fc-whats-new-tab-content p {
+    font-size: 15px !important;
+  }
+  .fc-whats-new-tab-content {
+    max-width: 400px !important;
+    width: 100%;
+    margin: 50px auto !important;
+    padding: 50px 30px !important;
+    background-color: #ffffff;
+  }
+  .fc-whatsnew-section-3 h1 {
+    font-size: 24px !important;
+    line-height: 34px;
+  }
+  .fc-flex-wrapper {
+    display: block !important;
+  }
+  .fc-product-update-card {
+    margin: 30px !important;
+    height: 460px;
+  }
+  .partner-feature-block {
+    padding-bottom: 30px;
+  }
+  .fc-read-more {
+    position: absolute;
+    bottom: 30px;
+    right: 100px;
+  }
+  .wn-sub-image-2 {
+    max-width: 250px;
+    width: 100%;
+  }
+  .img-center {
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .book-list li {
+    padding-bottom: 10px;
+  }
+  .fc-whats-new-hub {
+    padding: 100px 0px;
+    height: 500px;
+    background-color: #391d72 !important;
+    background: url(/images/whats-new-hub.svg) center/contain no-repeat;
+    background-size: cover;
+  }
+
+  /*********newsletter-mobile*****/
+
+  .fc-newsletter-banner {
+    margin-top: 75px;
+    padding: 40px 0px 90px;
+  }
+  .fc-newsletter-banner h1 {
+    font-size: 35px;
+  }
+  .fc-newsletter-specific-banner h1 {
+    font-size: 33px;
+    font-family: "ProximaNovaBold";
+    line-height: 1.3;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #171b3b;
+  }
+  .fc-newsletter-specific-banner p {
+    font-size: 15px;
+  }
+
+  .fc-social-float-bar {
+    display: none;
+  }
+  .fc-right-txt {
+    margin: 0px;
+  }
+  .fc-newsletter-template {
+    padding: 60px 30px;
+  }
+  .fc-news-head {
+    font-size: 25px;
+  }
+  .fc-news-txt,
+  .fc-news-list ul li {
+    line-height: 24px;
+    font-size: 15px;
+  }
+  .fc-news-subhead {
+    font-size: 23px;
+  }
+  .fc-news-read-more {
+    font-size: 15px;
+  }
+
+  /******fc-covid-mobile***/
+  .fc-covid-specific-banner {
+    padding: 100px 0px !important;
+  }
+  .fc-covid-specific-banner h1 {
+    font-size: 20px !important;
+  }
+  .fc-covid-specific-banner p {
+    font-size: 16px !important;
+  }
+  .fc-covid-txt {
+    font-size: 16px !important;
+  }
+  .fc-covid-subhead {
+    font-size: 22px !important;
+  }
+  .fc-covid-txt span {
+    font-size: 18px !important;
+    line-height: 24px !important;
+  }
+  .fc-covid-answer {
+    font-size: 16px;
+  }
+  .fc-covid-features li {
+    line-height: 26px;
+    font-size: 16px;
+  }
+  .fc-covid-features-links li {
+    padding: 18px 0px;
+    font-size: 16px;
+  }
+  .fc-covid-italic {
+    font-size: 16px;
+  }
+  /*****fc-case-study******/
+
+  .fc-case-question p {
+    font-size: 15px;
+  }
+  .fc-case-question {
+    padding: 30px 0px 30px;
+  }
+  .fc-case-challenge {
+    padding: 60px 15px;
+  }
+  .product-feature-container-mobile {
+    padding-top: 20px !important;
+  }
+  .fc-smartae-cycle-con .black-txt2 {
+    line-height: 28px;
+    word-break: break-word;
+  }
+  .fc-smartae-banner-txt {
+    font-size: 20px;
+  }
+  .fc-case-desc-light {
+    padding: 10px;
+    line-height: 23px;
+    text-align: left;
+    font-size: 15px;
+  }
+  .fc-case-onboard p {
+    font-size: 15px !important;
+  }
+
+  /****newsletter**/
+  .fc-newspaper-txt {
+    font-size: 16px;
+  }
+  .fc-cta-txt-bar ul li a {
+    font-size: 13px;
+  }
+  .fc-cta-txt-bar ul li {
+    padding: 0px 18px;
+  }
+
+  /*****footer-css***/
+
+  .fc-connect-bar {
+    border-left: 1px solid transparent !important;
+    border-right: 1px solid transparent !important;
+  }
+}

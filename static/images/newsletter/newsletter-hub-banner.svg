@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1680px" height="506px" viewBox="0 0 1680 506" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>BG-light-pink</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1680" height="506"></rect>
+        <rect id="path-3" x="0" y="0" width="1680" height="506"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BG-light-pink">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#F8F6FB" xlink:href="#path-1"></use>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Mask-Copy" fill="#F8F6FB" xlink:href="#path-3"></use>
+            <g id="Group-3" mask="url(#mask-4)">
+                <g transform="translate(-1519.000000, -1289.000000)">
+                    <rect id="Rectangle" fill="#391D72" x="1490" y="1122" width="1880" height="1186"></rect>
+                    <rect id="Rectangle" fill="#FFE6F0" x="1585" y="220" width="683" height="2327"></rect>
+                    <rect id="Rectangle" fill="#3FC2D3" x="2366" y="1479" width="800" height="1013"></rect>
+                    <polygon id="Rectangle" fill="#FFE6F0" transform="translate(3165.718825, 1653.718825) rotate(-45.000000) translate(-3165.718825, -1653.718825) " points="2573 1061 3758.39252 1061.04513 3758.43765 2246.43765 2573.04513 2246.39252"></polygon>
+                    <polygon id="Rectangle-Copy-7" fill="#FEF5F8" transform="translate(3084.000000, 1972.000000) rotate(-45.000000) translate(-3084.000000, -1972.000000) " points="2859 1747 3308.98287 1747.01713 3309 2197 2859.01713 2196.98287"></polygon>
+                    <polygon id="Rectangle" fill="#FFEEF5" transform="translate(3221.620920, 974.983927) rotate(-45.000000) translate(-3221.620920, -974.983927) " points="2626.12092 379.483927 3817.07558 379.529268 3817.12092 1570.48393 2626.16626 1570.43859"></polygon>
+                    <circle id="Oval" fill="#FEE1ED" cx="3199" cy="1454" r="83"></circle>
+                    <polygon id="Rectangle-Copy" fill="#FFF7FA" transform="translate(2357.718825, 1099.718825) rotate(-45.000000) translate(-2357.718825, -1099.718825) " points="1765 507 2950.39252 507.045129 2950.43765 1692.43765 1765.04513 1692.39252"></polygon>
+                    <polygon id="Rectangle-Copy-8" fill="#FFEEF5" transform="translate(2357.718825, 838.718825) rotate(-45.000000) translate(-2357.718825, -838.718825) " points="1765 246 2950.39252 246.045129 2950.43765 1431.43765 1765.04513 1431.39252"></polygon>
+                    <polygon id="Rectangle-Copy-5" fill="#FEE1ED" transform="translate(2358.000000, 1162.000000) rotate(-45.000000) translate(-2358.000000, -1162.000000) " points="2188 992 2527.98706 992.012944 2528 1332 2188.01294 1331.98706"></polygon>
+                    <polygon id="Rectangle-Copy-6" fill="#FFEEF5" transform="translate(1619.000000, 1271.000000) rotate(-45.000000) translate(-1619.000000, -1271.000000) " points="1317 969 1920.97701 969.022994 1921 1573 1317.02299 1572.97701"></polygon>
+                    <circle id="Oval-Copy-2" fill="#FEE1ED" cx="1677" cy="1288" r="72"></circle>
+                    <polygon id="Rectangle-Copy-2" fill="#FEF5F8" transform="translate(1297.722238, 2097.718825) rotate(-45.000000) translate(-1297.722238, -2097.718825) " points="705.003412 1505 1890.39593 1505.04513 1890.44106 2690.43765 705.048541 2690.39252"></polygon>
+                    <polygon id="Rectangle-Copy-3" fill="#BCF1F7" transform="translate(838.319165, 1638.324605) rotate(-45.000000) translate(-838.319165, -1638.324605) " points="246.313706 1045.46244 1430.68499 1551.40886 1431.01934 2231.18413 245.626815 2231.139"></polygon>
+                    <polygon id="Rectangle-Copy-10" fill="#FFE6F0" transform="translate(838.319165, 1638.324605) rotate(-45.000000) translate(-838.319165, -1638.324605) " points="246.313706 1045.46244 1430.68499 1551.40886 1431.01934 2231.18413 245.626815 2231.139"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

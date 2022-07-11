@@ -1,0 +1,220 @@
+.fc-whats-new-tab-content {
+  max-width: 800px;
+  width: 100%;
+  margin: 50px auto 0px;
+  padding: 50px 30px;
+  background-color: #ffffff;
+}
+
+.fc-whats-new-tab-content h2 {
+  text-align: center;
+  font-family: 'ProximaNovaBold';
+  font-size: 46px;
+  color: #181b3b;
+}
+
+.fc-whats-new-tab-content p {
+  font-size: 18px;
+  line-height: 1.33;
+  max-width: 650px;
+  width: 100%;
+  margin: 0px auto;
+  font-family: 'ProximaNovaRgRegular';
+  text-align: center;
+  color: #181b3b;
+}
+
+.fc-product-update-area {
+  padding: 40px 0px 150px;
+
+}
+
+.fc-product-update-card {
+  margin: 50px 10px 0px;
+  height: 465px;
+  border-radius: 15px;
+  border: solid 1px #e0e2ec;
+  background-color: #ffffff;
+}
+
+.fc-product-update-card:hover {
+  box-shadow: 0 12px 18px rgba(161, 166, 181, .2);
+
+}
+
+.fc-newsletter-card {
+  margin: 50px 10px 0px;
+  height: 465px;
+  border-radius: 15px;
+  box-shadow: 0 12px 18px rgba(161, 166, 181, .2);
+  background-color: #ffffff;
+}
+
+.fc-newsletter-card:hover {
+  box-shadow: 0 12px 18px rgba(161, 166, 181, .2);
+  transform: translateY(-10px);
+}
+
+
+a {
+  text-decoration: none;
+}
+
+.fc-product-card-placeholder {
+  height: 220px;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  position: relative;
+}
+
+.fc-month-float {
+
+  text-transform: uppercase;
+  font-size: 13px;
+  font-family: 'ProximaNovaSemiBold';
+  color: #898ab2;
+}
+
+.fc-product-desc-set {
+  padding: 25px;
+  position: relative;
+}
+
+.fc-product-desc-set h3 {
+  max-width: 300px;
+  width: 100%;
+  font-family: 'ProximaNovaBold';
+  text-align: left;
+  font-size: 20px;
+  margin-top: 10px;
+  line-height: 28px;
+  color: #181b3b;
+}
+
+.fc-product-image-inner {
+  height: 100%;
+  max-width: 310px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fc-cs-image-inner {
+  margin: 0;
+}
+
+
+.fc-pd-upd-img {
+  width: 100%;
+  max-width: 270px;
+  object-fit: contain;
+  object-fit: contain;
+  position: relative;
+  top: 10px;
+}
+
+.fc-cs-upd-img {
+  width: 100%;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  bottom: 0px;
+  margin: 0 auto;
+}
+
+.product-update-wrapper {
+  max-width: 1250px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.fc-read-more {
+  position: absolute;
+  bottom: 20px;
+  right: 80px;
+  color: #5969e4;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-family: 'ProximaNovaSemiBold';
+}
+
+.fc-read-more:after {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  margin-top: 1px;
+  margin-left: 7px;
+  opacity: 1;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+  background: url(/images/light-violet.svg) center/contain no-repeat;
+}
+
+.fc-product-update-card:hover .fc-read-more:after {
+  -webkit-transform: translateX(4px);
+  -ms-transform: translateX(4px);
+  transform: translateX(4px);
+}
+
+
+@media screen and (max-width: 500px) {
+  .fc-whats-new-banner {
+    padding: 30px 0px;
+  }
+
+  .fc-whatsnew-section-1 {
+    padding: 30px 20px !important;
+  }
+
+  .fc-whats-new-banner h1 {
+    font-size: 30px !important;
+  }
+
+  .fc-whats-new-left h4 {
+    font-size: 22px !important;
+    line-height: 32px;
+  }
+
+  .fc-whats-new-banner p {
+    font-size: 16px !important;
+    line-height: 28px !important;
+  }
+
+  .fc-whatsnew-img,
+  .fc-whatsnew-img-v2,
+  .wn-sub-image-1 {
+    margin-left: 0px !important;
+    max-width: 280px;
+    width: 100%;
+  }
+
+  .fc-whatsnew-section-2 h2 {
+    text-align: center;
+    font-family: merriweather;
+    font-size: 25px !important;
+    max-width: 700px;
+    width: 100%;
+    font-weight: 300;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 35px;
+    color: #181b3b;
+  }
+
+  .fc-whatsnew-section-2 h4 {
+    font-size: 15px !important;
+  }
+
+  .fc-whatsnew-section-2 {
+    padding: 70px 20px !important;
+  }
+
+
+  .fc-read-more {
+    right: 100px;
+  }
+
+}

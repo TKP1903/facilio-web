@@ -1,0 +1,168 @@
+.fc-why-guide-banner{
+    max-width: 1200px;
+    margin-right: auto;
+    position: relative;
+    margin-left: auto;
+    margin-top: 160px;
+}
+.fc-why-guide-content-container{
+    max-width: 1100px;
+    margin-right: auto;
+    position: relative;
+    margin-left: auto;
+}
+.fc-why-facilio-boat{
+    border-top: solid 1px #9ed1d4;
+    border-bottom: solid 1px #9ed1d4;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    max-width: 800px;
+}
+.fc-why-boat-img{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.fc-why-three-card .partner-feature-row{
+  margin-left: 0;
+  justify-content: left;
+  margin-right: 0;
+  padding-top: 0;
+}
+.fc-why-three-card .partner-feature-col{
+    width: 33.3%;
+}
+.fc-why-three-card .partner-feature-desc{
+    font-family: 'ProximaNovaSemibold', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 20px;
+    font-weight: 600;
+}
+.fc-why-pink{
+    font-family: 'ProximaNovaThExtrabold', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 44px;
+    font-weight: normal;
+    line-height: 1.16;
+    letter-spacing: normal;
+    color: #ff3184;
+}
+.fc-why-num-35{
+    font-family: 'ProximaNovaThExtrabold', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 54px;
+  font-weight: 600;
+}
+.fc-why-num-35 sup{
+    font-family: 'ProximaNovaRgRegular', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 25px;
+    font-weight: 600;
+    vertical-align: super;
+}
+.fc-why-customer-card-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.fc-why-customer-card{
+    width: 31.3%;
+    box-shadow: 0 2px 19px 0 rgba(214, 214, 214, 0.5);
+    border: solid 1px #f7f7f7;
+    background-color: #ffffff;
+    padding: 60px 60px;
+    text-align: left;
+}
+.fc-why-customer-card:hover{
+    box-shadow: -2px 20px 20px 4px rgba(214, 214, 214, 0.5);
+    -webkit-box-shadow: -2px 20px 20px 4px rgba(214, 214, 214, 0.5);
+    -moz-box-shadow: -2px 20px 20px 4px rgba(214, 214, 214, 0.5);
+}
+
+.fc-why-customer-card .num-txt{
+  font-family: 'ProximaNovaSemibold', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 60px;
+  font-weight: bold;
+  letter-spacing: 0.9px;
+  color:#19182e;
+  line-height: 60px;
+}
+.fc-why-customer-card .num-txt sup{ 
+  font-family: 'ProximaNovaLtLight', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 25px;
+  font-weight: 600;
+  vertical-align: super;
+  color:#19182e;
+}
+@media screen and (max-width: 1024px) {
+    .fc-why-guide-banner{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .fc-why-guide-content-container{
+        padding-left: 50px;
+        padding-right: 30px;
+        padding-top: 50px;
+    }
+    .fc-why-three-card .partner-feature-row{
+        margin-top: 50px;
+        justify-content: center;
+    }
+    .fc-why-three-card .partner-feature-col{
+        margin-bottom: 50px;
+    }
+    .fc-why-customer-card-block{
+        flex-wrap: wrap;
+    }
+    .fc-why-customer-card .black-txt-proxima{
+        white-space: nowrap;
+    }
+}
+@media screen and (max-width: 768px) {
+    .fc-why-customer-card-block{
+        justify-content: center;
+    }
+    .fc-why-customer-card{
+        width: 46.3%;
+        margin-bottom: 50px;
+        margin-right: 25px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .fc-why-customer-card{
+        width: 100%;
+    }
+    .fc-why-guide-banner{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .fc-why-guide-content-container{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .fc-why-three-card{
+        padding-bottom: 0;
+        margin-left: 0;
+    }
+    .fc-why-pink{
+        font-size: 23px;
+    }
+    .fc-why-customer-card .num-txt sup{
+        font-size: 16px;
+    }
+    .fc-why-customer-card .num-txt{
+        font-size: 40px;
+    }
+    .fc-why-guide-banner .black-txt-50{
+        margin-left: 0;
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+    .black-txt-merriweather50{
+        font-size: 30px;
+    }
+    .fc-why-boat-img{
+        flex-wrap: wrap;
+    }
+    .fc-why-boat-con{
+        margin-left: 0;
+        padding-top: 20px;
+    }
+}

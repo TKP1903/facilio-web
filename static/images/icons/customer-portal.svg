@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="28px" viewBox="0 0 34 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.1 (55044) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 34</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Smart_Workforce_Product1.0" transform="translate(-680.000000, -6537.000000)" stroke="#FF4491" stroke-width="2">
+            <g id="Group-34" transform="translate(681.000000, 6538.000000)">
+                <g id="Group-14">
+                    <rect id="Rectangle-4" fill="#FFFFFF" x="1" y="1" width="22" height="18" rx="1.5"></rect>
+                    <rect id="Path" fill="#FFFFFF" x="0" y="0" width="24" height="20" rx="1.5"></rect>
+                    <path d="M0.5,5.5 L23.5,5.5" id="Line-2" stroke-linecap="round"></path>
+                </g>
+                <path d="M18,12 C17.4477153,12 17,12.4477153 17,13 L17,21.1298528 C17,21.6821376 17.4477153,22.1298528 18,22.1298528 L21.7055348,22.1298528 L21.239438,25.9728815 L25.4670866,22.1298528 L31,22.1298528 C31.5522847,22.1298528 32,21.6821376 32,21.1298528 L32,13 C32,12.4477153 31.5522847,12 31,12 L18,12 Z" id="Rectangle-10" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

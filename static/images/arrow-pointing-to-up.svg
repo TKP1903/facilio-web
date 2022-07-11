@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="39px" viewBox="0 0 32 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-pointing-to-up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ultimate_Guide1.0" transform="translate(-217.000000, -3520.000000)" fill="#69D0BC" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(184.000000, 3479.000000)">
+                <g id="arrow-pointing-to-up" transform="translate(33.000000, 41.000000)">
+                    <path d="M31.3666655,14.279308 L17.5289585,0.62483574 C16.6846854,-0.20827858 15.3154443,-0.20827858 14.4711712,0.62483574 L0.633464278,14.2796494 C-0.211154759,15.1129344 -0.211154759,16.4637369 0.633464278,17.2970219 C1.05534137,17.7134937 1.60902262,17.9219003 2.16235792,17.9219003 C2.71569323,17.9219003 3.26885556,17.7134937 3.69125157,17.2970219 L13.8379232,7.28445906 L13.8379232,36.8664354 C13.8379232,38.0446751 14.8060437,39 16.0000649,39 C17.1937401,39 18.1622066,38.0446751 18.1622066,36.8664354 L18.1622066,7.28428837 L28.3088782,17.2965098 C29.1534972,18.1296241 30.5223924,18.1296241 31.3666655,17.2965098 C32.2111115,16.4633955 32.2111115,15.1125931 31.3666655,14.279308 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

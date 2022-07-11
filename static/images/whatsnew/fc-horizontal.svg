@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1509" height="10" viewBox="0 0 1509 10">
+    <g fill="none" fill-rule="evenodd" opacity=".3" transform="translate(.902 .027)">
+        <circle cx="4.623" cy="4.623" r="4.623" fill="#FFF"/>
+        <g transform="translate(4.623 .537)">
+            <path stroke="#FFF" stroke-dasharray="5" stroke-width="2" d="M.474 4.327h1493"/>
+            <circle cx="1498.098" cy="4.623" r="4.623" fill="#FFF"/>
+        </g>
+    </g>
+</svg>

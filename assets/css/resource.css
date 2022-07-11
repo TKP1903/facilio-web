@@ -1,0 +1,756 @@
+.fc-resourcehub-header {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    box-sizing: border-box;
+    padding-top: 5rem !important;
+}
+
+.fc-resourcehub-header .container {
+    max-width: 1300px;
+    width: 1250px;
+}
+
+.fc-resource-subH {
+    font-size: 38px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #181b3b;
+}
+
+.fc-resourcehub-desc {
+    font-size: 18px;
+    font-weight: normal;
+    font-family: "ProximaNovaRgRegular";
+    line-height: 1.44;
+    letter-spacing: normal;
+    color: #181b3b;
+    max-width: 800px;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.fc-resourcehub-link {
+    font-size: 24px;
+    font-weight: 600;
+    font-family: "ProximaNovaRgRegular";
+    line-height: normal;
+    letter-spacing: normal;
+    color: #2865d6;
+}
+
+.fc-resourcehub-page .fc-case-hub-card {
+    max-width: 380px;
+}
+
+.fc-resource-card2 .fc-case-hub-top {
+    background: #322893 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fc-resource-card2 img {
+    object-fit: fill;
+    width: 243px;
+}
+
+.fc-resourcehub-page .fc-case-hub-top {
+    overflow: hidden;
+    display: flex;
+justify-content: center;
+}
+
+.fc-resourcehub-page .fc-customer-scs {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "ProximaNovaRgRegular";
+    line-height: 1.63;
+    letter-spacing: normal;
+    color: #181b3b;
+    white-space: normal;
+    z-index: 1;
+    display: block;
+    display: -webkit-box;
+    max-height: 300px;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    box-orient: vertical;
+    -moz-box-orient: vertical;
+}
+
+.fc-resourcehub-page .fc-company-nm {
+    font-size: 21px;
+    font-family: "ProximaNovaBold";
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #171128;
+}
+
+.fc-resource-casestudy .fc-customer-scs {
+    font-family: ProximaNovaBold !important;
+    margin-top: 10px;
+    color: #181b3b;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.fc-resource-casestudy .fc-company-nm {
+    font-size: 13px;
+    font-family: ProximaNovaSemiBold;
+    color: #181b3b;
+    text-transform: uppercase;
+}
+
+.fc-resourcehub-video-card-con {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.fc-resourcehub-video-card-con .element-item {
+    width: 33.3%;
+}
+
+.fc-case-blog-sH {
+    text-transform: uppercase;
+    letter-spacing: 1.6px;
+    font-size: 13px;
+    font-weight: 500;
+    background-color: transparent;
+    color: #fd4b92;
+}
+
+.fc-case-blog-con .fc-case-hub-card {
+    min-height: 593px;
+    max-width: 430px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .15);
+    border: none;
+    border-radius: 3px;
+}
+
+.fc-case-blog-con .fc-case-hub-card:hover::after {
+    width: 100%;
+    transition: width .3s;
+}
+
+.fc-case-blog-con .fc-case-hub-card::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #ff3185;
+    transition: width .3s;
+}
+
+.fc-resourcehub-events-con {
+    margin-top: 100px;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.fc-resourcehub-events-con .fc-resourcehub-H {
+    font-size: 32px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #181b3b;
+}
+
+.fc-resourcehub-desc {
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    color: #181b3b;
+}
+
+.fc-resourcehub-events-con {
+    border: 1px solid #e1e2e5;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+.fc-resource-event-col {
+    height: 600px;
+    padding: 58px 40px;
+    border-right: 1px solid #e1e2e5;
+    border-bottom: 1px solid #e1e2e5;
+}
+
+
+.fc-resourcehub-events-block {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.fc-resourcehub-page .fc-award-card {
+    min-height: 320px !important;
+}
+
+.fc-resourcehub-page .fc-events-card {
+    min-height: 320px !important;
+    padding: 15px 30px;
+}
+
+.fc-resourcehub-page .press-hero-left{
+    margin-top: 5rem;
+}
+
+.fc-resourcehub-page .events-podcast-card,.fc-resourcehub-page .wistia_responsive_wrapper{
+    height: 220px !important;
+}
+
+.interview-card2-con .fc-interview-card-img {
+    max-width: 400px;
+    width: 100%;
+    height: 320px !important;
+}
+
+.fc-resourcehub-page .fc-case-hub-btm {
+    border-top: 1px solid #e1e2e5;
+}
+
+.fc-resourehub-blog-block .fc-company-nm {
+    text-transform: capitalize;
+    line-height: 24px;
+}
+
+.fc-resource-blog-author {
+    display: flex;
+    align-items: center;
+    padding-top: 92px;
+}
+
+.fc-resource-blog-author img {
+    border-radius: 50%;
+    width: 40px;
+    pointer-events: all;
+}
+
+.fc-resource-blog-name {
+    color: #222;
+    font-weight: 400;
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+.fc-subscribe-txt {
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 1.21;
+    letter-spacing: normal;
+    color: #181b3b;
+}
+
+.fc-podcast-video-con .col-md-4 {
+    width: 100%;
+}
+
+.fc-resourcehub-form-con{
+    max-width: 540px;
+}
+
+.fc-resourcehub-form-con #mc_embed_signup_scroll{
+    display: flex;
+    align-items: center;
+}
+
+.fc-resourcehub-form-con #mc_embed_signup .mc-field-group input{
+    width: 386px;
+    height: 60px;
+    padding: 20px 20px 20px 19px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border: solid 1px #d0cfdf;
+    background-color: #ffffff;
+}
+
+.fc-resourcehub-form-con #mc_embed_signup .button{
+    width: 156px;
+    height: 60px;
+    padding: 22px 36px 21px;
+    background-color: #000000;
+    line-height: 10px;
+    margin-bottom: 14px;
+    border-top-left-radius: 0;
+    text-transform: uppercase;
+    border-bottom-left-radius: 0;
+}
+
+.fc-resourcehub-form-con #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error{
+    border: 1px solid #e85c41;
+}
+.fc-resourcehub-form-con #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error{
+    position: absolute;
+    bottom: -10px;
+}
+
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.fc-resourcehub-form-con #mc_embed_signup div#mce-responses{
+    float: left;
+    top: 60px;
+    padding: 0em .5em 0em .5em;
+    overflow: hidden;
+    width: 90%;
+    position: absolute;
+    margin: 0 0;
+    clear: both;
+}
+
+.fc-subscribe-form #mc_embed_signup .mc-field-group input{
+    width: 320px;
+    height: 50px;
+    padding: 20px 20px 20px 19px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border: solid 1px #d0cfdf;
+    background-color: #ffffff;
+}
+
+.fc-subscribe-form #mc_embed_signup .button{
+    width: 156px;
+    height: 50px;
+    padding: 22px 36px 21px;
+    background-color: #000000;
+    line-height: 10px;
+    margin-bottom: 12px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    text-transform: uppercase;
+}
+
+.fc-subscribe-form #mc_embed_signup div#mce-responses{
+    float: left;
+    top: 60px;
+    padding: 0em .5em 0em .5em;
+    overflow: hidden;
+    width: 90%;
+    position: absolute;
+    margin: 0 0;
+    clear: both;
+}
+
+.fc-subscribe-form #mc_embed_signup form{
+    padding: 15px 0 10px 0;
+}
+
+.fc-resourcehub-events-block{
+    height: 100%;
+}
+
+.fc-resourcehub-form-con #mc_embed_signup form{
+    padding-left: 0 !important;
+    padding-top: 10px;
+}
+
+.fc-resourcehub-form-con{
+    padding-top: 10px;
+}
+
+#wistia_167.thumbnail{
+    height: 200px !important;
+}
+
+.fc-resource-heading{
+    font-family: "ProximaNovaSemibold";
+    font-size: 23px;
+    max-width: 700px;
+    line-height: 36px;
+    font-weight: 500;
+    color: #ffffff;
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+
+.fc-resource-bg-container{
+    background: #141b43 !important;
+    padding: 60px 100px;
+}
+
+.fc-guide-badge{
+    color: #31f8ff !important;
+    border: 1px solid #31f8ff !important;
+    font-weight: 600;
+}
+.fc-resource-bg-container .fc-guide-cta{
+    background: #90ba00;    
+    color: #141b43;
+    padding: 10px 30px;
+    border-radius: 2px;
+}
+
+.fc-resource-bg-container .fc-guide-badge{  
+    color: #356af6!important;
+    border: 1px solid #356af6!important;
+    font-weight: 600;
+}
+.fc-resource-event-logo .fc-event-card-img{
+    height: inherit;
+}
+
+.fc-resource-event-logo .fc-event-card-img img{
+    height: inherit;
+    margin-bottom: 0;
+}
+
+/* card  */
+.fc-resourcehub-page .vueperslide__title{
+    font-size: 21px;
+    font-family: "ProximaNovaBold";
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #171128;
+  }
+
+  .fc-resourcehub-page .vueperslide__content-wrapper{
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: left;
+    border: solid 1px #e0e2ec;
+  }
+
+  .fc-resourcehub-page .vueperslides__arrows--outside{
+    color: rgb(255, 49, 133) !important;
+  }
+  .fc-resourcehub-page .vueperslides__bullet--active .default{
+    background:  rgb(255, 49, 133) !important;
+    border: 1px solid rgb(255, 49, 133) !important;
+  }
+  .fc-resourcehub-page .vueperslides__bullet .default{
+    width: 16px !important;
+    height: 16px !important;
+    border: 1px solid #e0e2ec; 
+  }
+
+  .fc-resourcehub-page .vueperslides--rtl .vueperslides__arrows--outside .vueperslides__arrow--next, .vueperslides__arrows--outside .vueperslides__arrow--prev{
+    left: -4.5em !important;
+  }
+  .fc-resourcehub-page .vueperslides--rtl .vueperslides__arrows--outside .vueperslides__arrow--prev, .vueperslides__arrows--outside .vueperslides__arrow--next{
+    right: -4.5em !important;
+  }
+
+  .fc-resourcehub-page .vueperslides__parallax-wrapper{
+    min-height: 380px;
+  }
+
+  .fc-resourcehub-page .vueperslide{
+    background-repeat: no-repeat !important;
+    background-size: 100% 200px !important;
+    background-position: top;
+  }
+
+  .fc-resourcehub-page .vueperslide__title{
+    font-size: 21px;
+    font-family: "ProximaNovaBold";
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #171128;
+  }
+
+  .fc-resourcehub-page .vueperslide__content{
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "ProximaNovaRgRegular";
+    letter-spacing: normal;
+    color: #181b3b;
+    padding-top: 10px;
+  }
+
+  .fc-resourcehub-page .vueperslide__content-wrapper:not(.vueperslide__content-wrapper--outside-top):not(.vueperslide__content-wrapper--outside-bottom){
+    display: inherit;
+    flex: 1 1 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    padding-top: 230px;
+  }
+
+  .fc-resource-award .fc-award-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .fc-date{
+    margin-top: 10px;
+    font-size: 16px;
+    position: relative;
+    color: rgb(94, 95, 112);
+    text-align: center;
+    padding: 5px 20px;
+    font-weight: 500;
+    font-family: "ProximaNovaSemiBold";
+    letter-spacing: 0.23px;
+  }
+
+  .fc-resource-award .fc-award-card-img img{
+      max-width: inherit;
+  }
+
+  .fc-resource-award .fc-award-card-img{
+      max-width: 200px;
+  }
+
+  .vueperslides__track{
+    width: 100%;
+  }
+
+  .fc-resourcehub-page .events-podcast-card, .fc-resourcehub-page .podacast-thumbnail .wistia_responsive_wrapper {
+    height: 318px !important;
+  }
+
+  .fc-ebook-img3{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+  .fc-ebook-img3 img{
+      width: 60%;
+  }
+
+  .fc-state-page .fc-ebook-button-green{
+    background: #90ba00;
+    font-size: 18px;
+    color: #141b43;
+    letter-spacing: 1.5px;
+    text-align: center;
+    padding: 20px 50px;
+    font-family: "ProximaNovaSemibold";
+    position: relative;
+    top: 30px;
+    font-weight: 500;
+  }
+
+  .fc-state-page .fc-free-txt{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: 1.33px;
+    color: #356af6 !important;
+  }
+
+  .fc-bottom-border-orange::after{
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    top: 36px;
+    left: 38%;
+    height: 3px;
+    width: 25%;
+    transition: width .3s;
+    background: #ff934d;
+  }
+
+  .fc-resource-img1{
+    width: 286px;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .fc-resource-book-img{
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    z-index: 1;
+  }
+
+  .fc-resource-book-img img{
+    width: 198px;
+  }
+
+  .fc-connected-book .fc-connected-book-right{
+    width: 100%;
+  }
+
+  .fc-connected-book .fc-smartae-book-con-right-width{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;    
+  }
+
+  .fc-casestudies-hide-page .fc-altered{
+      height: 350px;
+  }
+@media screen and (max-width: 768px) {
+    .fc-resource-book-img, .fc-resource-img1{
+        display: none;
+    }
+    .fc-resourcehub-page .press-hero-left{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        padding-top: 20px;
+    }
+    .fc-resourcehub-page .news-hero h1{
+        font-size: 2.2rem;
+    }
+    .fc-resourcehub-page .fc-case-hub-top{
+        height: 100%;
+    }
+    .fc-resourcehub-header{
+        padding-top: 2rem !important;
+    }
+    .fc-resourcehub-page .vueperslide{
+        width: 300px !important;
+    }
+
+   .fc-resourcehub-page .news-hero{
+    padding-top: 5rem !important;
+    }
+
+    .fc-resourcehub-page .mT100{
+        margin-top: 0 !important;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .fc-resource-subH{
+        font-size: 28px;
+    }
+    .fc-flex-wrap{
+        justify-content: left;
+    }
+
+    .fc-resourcehub-header .container{
+        width: 100% !important;
+    }
+    .fc-subscribe-con{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .fc-resourcehub-form-con #mc_embed_signup .mc-field-group input{
+        width: 100%;
+    }
+    .fc-resourcehub-form-con #mc_embed_signup .button{
+        margin-bottom: 5px;
+    }
+    .fc-resourcehub-page .fc-product-update-card{
+        margin: 20px 0 !important;
+    }
+    .fc-subscribe-txt{
+        font-size: 18px;
+    }
+    .fc-resourcehub-link{
+        font-size: 16px;
+    }
+    .fc-resource-event-col{
+        padding: 20px 30px;
+    }
+    .fc-resource-event-col{
+        height: 100% !important;
+    }
+    .fc-resourcehub-page .border-bottom-none{
+        border-bottom: 1px solid #e1e2e5 !important;
+        border-right: none;
+    }
+    .fc-mobile-border-right{
+        border-right: none;
+    }
+    .fc-resourcehub-header .container{
+        border-bottom: none !important;
+    }
+    .fc-resourcehub-events-con .fc-resourcehub-H{
+        font-size: 22px;
+    }
+    .fc-resourcehub-form-con #mc_embed_signup_scroll{
+        display: inherit;
+    }
+    .fc-resourcehub-form-con #mc_embed_signup .button{
+        border-top-left-radius: 3px;
+        border-bottom-left-radius: 3px;
+    }
+    .fc-resourcehub-form-con #mc_embed_signup .mc-field-group input{
+        border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    }
+    .fc-resourcehub-page .fc-case-hub-btm{
+        border-top: none;
+    }
+    .fc-resourcehub-page .fc-case-hub-card{
+        max-width: 100%;
+    }
+    .video-series-page2{
+        margin-top: 30px;
+    }
+    .fc-resourcehub-page .pT40{
+        padding-top: 0 !important;
+    }
+    .wistia_responsive_wrapper, .fc-video-card2-con .wistia_responsive_padding img{
+        height: 100% !important;
+    }
+    .fc-resourcehub-page .case-study-customers .fc-case-hub-top {
+        height: 200px !important;
+    }
+    .fc-resourcehub-page .vueperslides__parallax-wrapper{
+        padding-bottom: 25%;
+        height: 200px;
+    }
+    /* .fc-resourcehub-page .vueperslide{
+        width: 80% !important;
+    } */
+    .fc-resourcehub-page .vueperslides__arrows--outside{
+        display: none;
+    }
+
+    .vueperslides__track{
+        overflow-x: scroll !important;
+    }
+    .fc-mobile-nowrap .fc-mobile-horizontal-scroll{
+        flex-wrap: nowrap !important;
+        overflow-x: scroll !important;
+        align-items: end !important;
+    }
+    .fc-mobile-nowrap .fc-mobile-horizontal-scroll .fc-case-hub-card{
+        width: 300px !important;
+        min-height: 500px !important;
+    }
+    .fc-mobile-nowrap .fc-product-update-card{
+        width: 300px !important;
+    }
+    .fc-mobile-nowrap .fc-read-more{
+        right: 80px !important;
+        bottom: 40px !important;
+    }
+    .fc-community-mobile-card .fc-mobile-nowrap .fc-mobile-horizontal-scroll .fc-case-hub-card{
+        min-height: 450px !important;
+    }   
+    .fc-resourehub-blog-block .fc-mobile-nowrap .fc-mobile-horizontal-scroll .fc-case-hub-card{
+        min-height: 675px !important;
+    }
+    .fc-resource-blog-author-priya{
+        position: relative;
+        top: 80px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .fc-resource-bg-container{  
+        padding: 30px !important;
+    }
+
+    .fc-resourcehub-header{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}

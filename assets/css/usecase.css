@@ -1,0 +1,293 @@
+.hero-container{
+    height: 600px;
+    background-color: #f4f4f4;
+    position: relative;
+    color: #fff;
+    padding-top: 190px;
+}
+.hero-container .tag-text{
+    color: #39b3c2;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+}
+.hero-container .tag-text2{
+   font-size: 32px;
+   letter-spacing: 1px;
+   color: #fff;
+   font-weight: bold;
+   margin-top: 0px;
+   line-height: 42px;
+}
+.product-top{padding-top:15px;}
+.bullet span{
+    color:#ff3185;padding:0px 10px 0px 0px;
+}
+.hero-content-block{
+    margin-bottom: 30px;
+}
+.hero-content-block .hero-left-heading{
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.hero-left-description{
+    font-size: 16px;
+  font-weight: normal;
+  text-align: left;
+  color: #b1abbb;
+}
+.section-2{
+    height:auto;
+}
+.fc-slight-left
+{
+    margin-left:5px;
+}
+.section2-left .section2-image-block{
+   margin-top: -90px;
+}
+.section2-left .section2-image-block img{
+    max-width: 100%;
+    box-shadow: 0 0 40px 0 rgba(0,0,0,.1);
+ }
+.section2-right{
+    margin-top: 80px;
+}
+.section2-right p{
+   margin-bottom: 40px;
+   font-size: 26px;
+   font-weight: 700;
+   letter-spacing: 1.3px;
+   text-align: left;
+   color: #3a2e53;
+   line-height: 33px;
+   font-family: "ProximaNovaSemibold";
+}
+.usecase-header .navbar-default{
+   background: #fff;
+}
+.usecase-header .navbar-brand{
+    padding: 9px 15px;
+}
+.usecase-header .navbar-default.navbar-fixed-top{
+    padding-top: 10px !important;
+    padding-bottom: 10px;
+}
+.usecase-header .navbar-header {
+    margin-top: -6px;
+}
+.dropdown-menu, .company-dropdown{
+    min-width: 100%;
+    background: #f2f2f2;
+    display: none;
+    position: absolute;
+    z-index: 999;
+    left: 0;
+    background-color: #ffffff;
+    /* box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.35); */
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.2);
+    white-space: nowrap;
+    transition: transform .2s, -webkit-transform .2s;
+    -webkit-transition: -webkit-transform .2s;
+    transition: -webkit-transform .2s;
+    transition: transform .2s;
+}
+.dropdown-menu::before, .company-dropdown::before {
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: -21px;
+    left: 50%;
+    transform: rotate(90deg);
+    border: 10px solid transparent;
+    border-bottom: 11px solid #fff;
+    transform: translateX(-50%);
+    position: absolute;
+}
+.company-dropdown{
+    margin-left: 160px !important;
+    border-radius: 5px;
+}
+.company-dropdown::before{
+    left: 45% !important;
+}
+.dropdown-menu li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.dropdown-menu li a .dropdown-heading{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+    color: #3a2e53;
+    font-family: ProximaNovaSemibold;
+    font-weight: bold;
+}
+.dropdown-menu li a .dropdown-description{
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #b1abbb;
+}
+.dropdown-menu > li > a {
+    padding: 10px 40px;
+    color: #eb4884;
+}
+.dropdown-usecase li:hover ul.dropdown-menu{
+    display: block;
+}
+.dropdown-usecase li ul.dropdown-menu li{
+    display: block;
+}
+.bg-imge-building{
+    position: absolute;
+    opacity: 0.3;
+    transform: rotate(-30deg);
+    left: -127px;
+    top: -10px;
+    max-width: 100%;
+}
+img{
+    max-width: 100%;
+}
+.border-bottom{
+    border-bottom: 1px solid #e0e0e0;
+}
+
+
+
+@media (min-width: 769px){
+.navbar-right .dropdown-menu {
+    margin-left: 30px;
+    top: 40px;
+    right: inherit;
+    left: -165px;
+}
+.integratit .primeHead {
+    font-size: 1.285rem !important;
+}
+       .gradiant
+    {
+        padding:20px;
+        background-image: linear-gradient(148deg, #081657, #1f0b75 16%, #340e8b 42%, #340e8b 42%, #350e8c 43%, #350e8c 43%, #350e8c 43%, #350e8c 44%, #380f90 48%, #380f90 48%, #380f90 48%, #4811a1 67%, #4911a1 68%, #6315bd);
+    }
+
+    .bullet
+    {
+        color:#000000;
+        padding:10px 0px;
+        display:flex;
+         font-size: 18px;
+          font-family: 'ProximaNovaSemibold';
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .fc-social-float-bar
+    {
+        display: none;
+    }
+    .hero-container{
+        height: 800px;
+    }
+    .section2-right{
+        margin-top: 40px;
+    }
+    .section2-right p{
+        text-align: center;
+    }
+    .section2-image-block{
+        text-align: center;
+    }
+    .navbar-right .dropdown-menu{
+        display: none;
+    }
+    .bg-imge-building{
+        display: none;
+    }
+    .benchmark-card-block
+{
+ flex-wrap: wrap;
+}
+.portfoliodeck {
+    padding:0px !important;
+}
+.benchmarks {
+    width: 100% !important;
+    min-height:auto !important;
+    margin: 20px 0 !important;
+    box-shadow: 0 2px 19px 0 rgba(214,214,214,.5);
+    border: solid 1px #f7f7f7;
+    background-color: #fff;
+    padding: 10px 25px;
+    text-align: left;
+}
+}
+
+@media screen and (max-width: 450px) {
+    .hero-container{
+        min-height: 300px;
+        max-height:500px;
+    }
+    .reachSection{
+        margin-top: 0px;
+    }
+    .hero-container .tag-text2 {
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 0px;
+    line-height: 27px;
+}
+.right-sm
+{
+    margin-left:10px;
+}
+.integrateit {
+    margin-top:50px !important;
+    text-align: left;
+}
+      .gradiant
+    {
+     height:auto;
+        padding:20px;
+        background-image: linear-gradient(148deg, #081657, #1f0b75 16%, #340e8b 42%, #340e8b 42%, #350e8c 43%, #350e8c 43%, #350e8c 43%, #350e8c 44%, #380f90 48%, #380f90 48%, #380f90 48%, #4811a1 67%, #4911a1 68%, #6315bd);
+    }
+    .portfoliodeck {
+        padding:0px !important;
+    }
+    .bullet {
+    color: #000000;
+    padding: 10px 0px;
+    font-size: 14px;
+    display:flex;
+    margin-left:0px ;
+    font-family: 'ProximaNovaSemibold';
+}
+.mc-slight-left
+{
+    margin-left:20px;
+}
+
+}
+
+ul.dropdown-menu::before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    border-right: 12px solid #fff;
+    position: absolute;
+    top: -18px;
+    left: 50%;
+    transform: rotate(90deg);
+}

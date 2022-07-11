@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1680px" height="506px" viewBox="0 0 1680 506" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 3 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1680" height="506"></rect>
+        <rect id="path-3" x="0" y="0" width="1680" height="506"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product_update_page" transform="translate(0.000000, -93.000000)">
+            <g id="Group-60">
+                <g id="Group" transform="translate(0.000000, 93.000000)">
+                    <g id="Group-3-Copy">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#F8F6FB" xlink:href="#path-1"></use>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask-Copy" fill="#F8F6FB" xlink:href="#path-3"></use>
+                        <g id="Group-3" mask="url(#mask-4)">
+                            <g transform="translate(-1041.000000, -1157.000000)">
+                                <rect id="Rectangle" fill="#391D72" x="1012" y="990" width="1880" height="1186"></rect>
+                                <rect id="Rectangle" fill="#592D9D" x="1107" y="88" width="683" height="2327"></rect>
+                                <rect id="Rectangle" fill="#3FC2D3" x="1888" y="1347" width="800" height="1013"></rect>
+                                <polygon id="Rectangle" fill="#FF3184" transform="translate(2687.718825, 1521.718825) rotate(-45.000000) translate(-2687.718825, -1521.718825) " points="2095 929 3280.39252 929.045129 3280.43765 2114.43765 2095.04513 2114.39252"></polygon>
+                                <polygon id="Rectangle-Copy-7" fill="#3E1877" transform="translate(2606.000000, 1840.000000) rotate(-45.000000) translate(-2606.000000, -1840.000000) " points="2381 1615 2830.98287 1615.01713 2831 2065 2381.01713 2064.98287"></polygon>
+                                <polygon id="Rectangle" fill="#FF80B3" transform="translate(2743.620920, 842.983927) rotate(-45.000000) translate(-2743.620920, -842.983927) " points="2148.12092 247.483927 3339.07558 247.529268 3339.12092 1438.48393 2148.16626 1438.43859"></polygon>
+                                <circle id="Oval" fill="#FF3F98" cx="2721" cy="1322" r="83"></circle>
+                                <polygon id="Rectangle-Copy" fill="#391D72" transform="translate(1879.718825, 967.718825) rotate(-45.000000) translate(-1879.718825, -967.718825) " points="1287 375 2472.39252 375.045129 2472.43765 1560.43765 1287.04513 1560.39252"></polygon>
+                                <polygon id="Rectangle-Copy-5" fill="#3FC2D3" transform="translate(1880.000000, 1030.000000) rotate(-45.000000) translate(-1880.000000, -1030.000000) " points="1710 860 2049.98706 860.012944 2050 1200 1710.01294 1199.98706"></polygon>
+                                <polygon id="Rectangle-Copy-6" fill="#FF3F98" transform="translate(1141.000000, 1156.000000) rotate(-45.000000) translate(-1141.000000, -1156.000000) " points="839 854 1442.97701 854.022994 1443 1458 839.022994 1457.97701"></polygon>
+                                <circle id="Oval-Copy-2" fill="#3E1877" cx="1209" cy="1139" r="113"></circle>
+                                <polygon id="Rectangle-Copy-2" fill="#FF79B6" transform="translate(838.718825, 1965.718825) rotate(-45.000000) translate(-838.718825, -1965.718825) " points="246 1373 1431.39252 1373.04513 1431.43765 2558.43765 246.045129 2558.39252"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

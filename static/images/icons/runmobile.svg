@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="31px" viewBox="0 0 39 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 36</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets_Product1.0" transform="translate(-305.000000, -5533.000000)">
+            <g id="Group-36" transform="translate(306.000000, 5534.000000)">
+                <rect id="Path" stroke="#FF4491" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="18" height="29" rx="3"></rect>
+                <circle id="Oval-13" fill="#FF4491" cx="9" cy="24" r="2"></circle>
+                <g id="Group-16" transform="translate(15.000000, 4.000000)">
+                    <g id="Group-22" transform="translate(0.000000, 6.000000)">
+                        <g id="Group-20" transform="translate(0.000000, 2.000000)">
+                            <ellipse id="Oval-7" fill="#FF4491" cx="7" cy="14.5714286" rx="2.33333333" ry="2.42857143"></ellipse>
+                            <path d="M7.00005205,13.5909491 L2.2417978,13.5909491 C1.13854475,13.5909491 0.326217428,12.8620569 0.427413936,11.9629228 C0.455859881,11.7101797 0.553557018,11.4609076 0.711974108,11.2348473 C1.2932829,10.3921883 1.8600768,9.5495293 2.41235578,8.70687028 C3.45146435,6.98441015 2.85841358,5.19018385 3.0895968,3.82279147 C3.42988284,1.81008242 4.54419895,0.566738932 7.00005205,0.566738932 C9.1670608,0.566738932 10.4786607,1.97547915 10.9105073,3.82279147 C11.3005625,5.49133274 10.86709,7.54793592 11.5877483,8.70687028 C12.1400273,9.5495293 12.7068212,10.3921883 13.28813,11.2348473 C13.8564513,12.0390573 13.5749695,13.0169688 12.635485,13.4190738 C12.3690191,13.5321039 12.0684264,13.5909491 11.7583063,13.5909491 L7.00005205,13.5909491 Z" id="Path-4" stroke="#FF4491" stroke-width="2" fill="#FFFFFF" stroke-linecap="round"></path>
+                        </g>
+                        <rect id="Rectangle-13" fill="#FF4491" x="6" y="0" width="2" height="3" rx="1"></rect>
+                    </g>
+                    <path d="M17,12 C17,8.13400675 13.8659932,5 10,5" id="Oval-9" stroke="#FF4491" stroke-width="2" stroke-linecap="round" transform="translate(13.500000, 8.500000) rotate(12.000000) translate(-13.500000, -8.500000) "></path>
+                    <path d="M22,12 C22,5.92486775 17.0751322,1 11,1" id="Oval-9" stroke="#FF4491" stroke-width="2" stroke-linecap="round" transform="translate(16.500000, 6.500000) rotate(9.000000) translate(-16.500000, -6.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

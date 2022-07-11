@@ -1,0 +1,927 @@
+.facilio-guide-banner {
+  width: 100%;
+  margin-top:75px;
+  height: 350px;
+  position: relative;
+  padding: 0;
+  background-image: url("/images/guide-banners/guide-hub-banner.png");
+  background-color: #ff80b3;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-attachment: scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.guide-desc-banner {
+  width: 100%;
+  height: 75px;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  background-image: url("/images/guide-banners/guide-hub-banner.png");
+  background-color: #ff80b3;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-attachment: scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.guide-sidebar {
+  float: left;
+}
+
+.guide-content {
+  margin-top: -30px;
+  float: right;
+  padding-left: 12px;
+}
+
+#guide-sidebar nav {
+  background-color: #ffffff;
+  z-index: -100;
+  width: 350px;
+  border-right: 1px solid #ececec;
+  padding: 0 12px;
+}
+
+#guide-sidebar nav.stickydiv {
+  position: fixed;
+  top: 0;
+  z-index: 10000;
+  margin-top: 12px;
+}
+
+#guide-sidebar nav ul {
+  list-style-type: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+.guide-main-desc {
+  padding: 100px 0px;
+}
+
+.guide-navtabs ul li {
+  margin: 0 0 5px;
+}
+
+.guide-navtabs>ul>li a,
+.nav>li>a:focus {
+  background-color: #ffffff !important;
+  color: #595959;
+  font-size: 16px !important;
+  letter-spacing: 0.2px;
+  font-family: ProximaNovaLtLight, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 500;
+}
+
+.navtabs .navtabs_title {
+  display: block;
+  font-weight: 800;
+  font-size: 18px;
+  font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #17181a;
+  margin: 0 0 15px;
+}
+
+.guide-navtabs ul li a {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  border-radius: 3px;
+  display: block;
+  color: inherit;
+  padding: 10px !important;
+  color: #595959 !important;
+  text-decoration: none;
+}
+
+.guide-navtabs ul li a:hover {
+  color: rgba(255, 49, 132, 0.8) !important;
+}
+
+#guide-sidebar nav ul li.active>a {
+  color: rgba(255, 49, 132, 0.8) !important;
+  background: #fff;
+}
+
+#guide-sidebar nav ul li a.active {
+  color: rgba(255, 49, 132, 0.8) !important;
+  background: #fff;
+}
+
+.guide-breadcrumbs {
+  margin-top:40px;
+  padding: 15px 0;
+  background: #f4f5f5;
+  display: table;
+  z-index: -10 !important;
+  width: 100%;
+}
+
+.guide-navbar-right>ul {
+  float: right;
+  display: flex;
+  margin-top: 15px;
+}
+
+.guide-right-list li {
+  list-style: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+.guide-navbar-right>ul>li {
+  float: left;
+  margin: 0 0 0 16px;
+  padding: 0;
+}
+
+.guide-navbar-right>ul>li a {
+  padding: 12px 15px !important;
+  background: none !important;
+  color: #fff !important;
+}
+
+.guide-navbar-right>ul>li:first-child {
+  color: #fff !important;
+}
+
+.guide-navbar-right>ul>li:first-child a {
+  color: #fff !important;
+  border: 1px solid #fff !important;
+  background: transparent !important;
+  border-radius: 0;
+  font-size: 14px;
+  font-weight: 800;
+  font-family: ProximaNovaSemibold;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+.guide-navbar-right>ul>li a {
+  padding: 12px 18px;
+  border: 1px solid #cfcfcf !important;
+  background: #fff !important;
+  border-radius: 0;
+  font-size: 14px;
+  font-weight: 800;
+  font-family: ProximaNovaSemibold;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #372668 !important;
+}
+
+.guide-navbar-right>ul>li>a:hover {
+  text-decoration: none;
+}
+
+.guide-site-search {
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.guide-site-search {
+  position: relative;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.guide-site-search::after {
+  position: absolute;
+  display: block;
+  content: "";
+  background: url("/images/icons/search.svg") no-repeat center center;
+  background-size: 20px;
+  height: 20px;
+  width: 20px;
+  top: 50%;
+  left: 15px;
+  margin-top: -10px;
+  opacity: 0.7;
+}
+
+.guide-site-search .guide-site-search__field {
+  box-shadow: none;
+}
+
+.guide-site-search .guide-site-search__field {
+  -webkit-border-radius: 99px;
+  -moz-border-radius: 99px;
+  -ms-border-radius: 99px;
+  border-radius: 99px;
+  display: block;
+  width: 100%;
+  font-size: 16px;
+  font-family: ProximaNovaSemibold;
+  padding: 18px 20px 18px 45px;
+  border: 0;
+  outline: none;
+}
+
+.guide-search {
+  margin-top: 100px;
+  padding: 60px 0 !important;
+}
+
+.guide-heading h2 {
+  text-align: center;
+  line-height: 1.2;
+  border-bottom: none;
+  font-size: 38px;
+  font-family: ProximaNovaBold;
+  font-weight: 400;
+  letter-spacing: 0.6px;
+  margin: 0;
+}
+
+.guide-card-desc {
+  margin-top: 50px;
+  padding: 0px 0px 100px 0px;
+}
+
+.guide-display {
+  padding: 60px 10px;
+}
+
+.guide a {
+  text-decoration: none !important;
+}
+
+.guide-card {
+  border-radius: 5px;
+  margin-top: 40px;
+  position: relative;
+  height:400px;
+  box-shadow: 0 4px 18px 0 rgba(27, 25, 56, 0.15);
+  background-color: #fff;
+}
+
+.guide-card:hover {
+  background: #fafafa;
+}
+
+.guide-wrapper {
+  padding: 5px 25px;
+}
+
+.guide-pad {
+  padding: 28px 0px;
+}
+
+.guide-desc-pad {
+  padding: 0px 50px;
+}
+
+.guide-card-title {
+  text-align: left;
+  padding-bottom: 0;
+  padding-right: 7px;
+  font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.21;
+  letter-spacing: normal;
+  color: #181b3b;
+}
+
+.guide-card-subhead {
+  text-align: left;
+  font-size: 17px;
+  line-height: 1.27;
+  color: #19182e;
+  letter-spacing: 0.4px;
+  padding-top: 2px;
+  font-weight: 500;
+  font-family: "ProximaNovaLtLight";
+}
+
+.guide-start {
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  cursor: pointer;
+  font-family: ProximaNovaSemibold;
+}
+
+.guide-image {
+  position: absolute;
+  bottom: 0px;
+  max-width: 380px;
+  width: 100%;
+}
+
+.arrow-right {
+  transition: all 0.9s ease;
+}
+
+.arrow-right {
+  margin-left: 7px;
+  position: relative;
+  margin-top: -1px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.start-violet {
+  color: #6b54ec;
+}
+
+.start-gray {
+  color: #9aa2b4;
+}
+
+.start-green {
+  color: #4ebb93;
+}
+
+.start-purple {
+  color: #9158d2;
+}
+
+.start-cyan {
+  color: #39b3c2;
+}
+
+.start-rose {
+  color: #f7768c;
+}
+
+.guide-grey {
+  background: #b3b1bf;
+  color: #ffffff;
+}
+
+h4.blue-text {
+  text-align: left;
+  font-size: 38px !important;
+  font-family: "ProximaNovaBold";
+  font-weight: normal;
+  line-height: 1.11;
+  letter-spacing: 0.6px;
+  color: #ffffff;
+  margin: 0;
+}
+
+.guide-hide {
+  display: none;
+}
+
+.guide-pink-button {
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1.9px;
+  text-align: center;
+  color: #ffffff;
+  font-family: "ProximaNovaBold";
+  background-color: #ff3184;
+  box-shadow: 0 10px 16px 0 rgba(255, 49, 132, 0.35);
+  padding: 25px 45px;
+  position: relative;
+  left: 20px;
+  top: 10px;
+}
+
+.guide-support-button {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+  border: none;
+  text-transform: uppercase;
+  padding: 12px 18px;
+  line-height: 1;
+  letter-spacing: 0.8px;
+  border-radius: 99px;
+  transition: background 0.3s ease-in-out;
+}
+
+.guide-noresults {
+  max-width: 300px;
+  width: 100%;
+  padding: 50px 30px;
+}
+
+.noarticle {
+  font-family: ProximaNovaLtLight, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  margin-top: -30px;
+  margin-left: 50px;
+  font-weight: 800;
+}
+
+.blue-color {
+  padding: 60px 0 !important;
+  background-color: #372668;
+}
+
+.guide-title {
+  font-family: ProximaNovaBold;
+  font-size: 40px;
+  line-height: 1;
+  letter-spacing: 0.6px;
+  color: #19182e;
+  position: relative;
+}
+
+.guide-sec-container {
+  margin-top: 50px;
+}
+
+.guide-content h3 {
+  font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 22px;
+  margin-top: 50px;
+  font-weight: 700;
+  line-height: 1.21;
+  letter-spacing: normal;
+  color: #181b3b;
+}
+
+.guide-content p {
+  font-family: ProximaNovaLtLight, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.8;
+  margin: 20px 0px;
+  letter-spacing: normal;
+  color: #595959;
+}
+
+.guide-content ul {
+  list-style-type: circle;
+  margin: 0 0 22px;
+  padding: 0 0 0 40px;
+  font-family: ProximaNovaLtLight, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 400;
+  margin: 30px 0px;
+  letter-spacing: normal;
+  color: #595959;
+}
+
+.guide-content ol li {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.8;
+  margin: 20px 0px;
+  letter-spacing: normal;
+  color: #181b3b;
+}
+
+.guide-content ul li {
+  line-height: 1.8;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+
+.guide-content ul li span,
+.guide-content p span {
+  font-weight: 800;
+  font-family: ProximaNovaSemibold;
+}
+
+.navtabs-p {
+  font-size: 17px;
+  line-height: 1.65rem;
+  font-family: ProximaNovaLtLight, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 400;
+}
+
+.avgres {
+  border: 1px solid #eaeaea;
+}
+
+.avgres li {
+  font-weight: 800;
+  font-family: ProximaNovaSemibold;
+}
+
+/*breadcrumbs*/
+.guide-pageheader .guide-breadcrumbs_wrap {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.guide-breadcrumbs {
+  letter-spacing: 0;
+  font-size: 16px;
+}
+
+.guide-breadcrumbs_wrap ol:last-child {
+  margin-bottom: 0;
+}
+
+.guide-breadcrumbs li a {
+  color: #000;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-decoration: none !important;
+}
+
+.guide-breadcrumbs li:last-child {
+  color: #39b2c2;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  line-height: 35px;
+}
+
+.guide-breadcrumbs li {
+  display: inline-block;
+}
+
+.guide-breadcrumbs .guide-breadcrumbs__icon {
+  display: inline-block;
+  height: 8px;
+  width: 13px;
+  padding: 0 2px;
+  position: relative;
+  top: -1px;
+}
+
+.guide-blue-banner {
+  position: relative;
+  display: block;
+}
+
+@media only screen and (max-width: 500px) {
+  .guide-heading h2 {
+    text-align: center;
+    line-height: 1.2;
+    border-bottom: none;
+    font-size: 28px;
+    font-family: ProximaNovaBold;
+    font-weight: 400;
+    letter-spacing: 0.6px;
+    margin: 0;
+  }
+  .facilio-guide-banner
+  {
+    height:auto;
+    margin-top:0px;
+  }
+
+  .guide-card-desc {
+    margin-top: 0px;
+  }
+
+  .guide-pink-button {
+    padding: 20px 45px;
+    position: relative;
+    top: 30px;
+  }
+
+  h4.blue-text {
+    text-align: left;
+    margin-top: -30px !important;
+    font-size: 25px !important;
+    font-family: "ProximaNovaBold";
+    font-weight: normal;
+    line-height: 1.35 !important;
+    letter-spacing: 0.6px;
+    color: #ffffff;
+    margin: 0;
+  }
+
+  .guide-main-desc {
+    padding: 45px 0px;
+  }
+
+  .guide-title {
+    font-family: ProximaNovaBold;
+    font-size: 23px;
+  }
+
+  .guide-content h3 {
+    font-size: 18px;
+  }
+
+  .guide-content ul li {
+    font-size: 15px !important;
+    line-height: 1.6 !important;
+  }
+
+  .guide-content p {
+    font-size: 15px;
+  }
+
+  .guide-desc-banner {
+    display: none;
+  }
+}
+
+.fc-log-book-page .fc-ebook-banner{
+  background: #09359C !important;
+}
+.fc-log-diagnal-img{
+  position: absolute;
+  top: -100px;
+  left: -100px;
+}
+
+.fc-log-diagnal-img img{
+  width: 60%;
+}
+.fc-log-book-page .fc-ebook-banner{
+  min-height: 700px;
+}
+.fc-log-book-page .fc-log-diagnal-img2{
+  position: absolute;
+  right: 0;
+  top: 74px;
+}
+.fc-log-book-page .fc-ebook-card{
+  top: 45px;
+}
+
+.fc-log-book-page .fc-ebook-desc span{
+  color: #fff;
+}
+.fc-ebook-button-green{
+  background: #BDDF11;
+  font-size: 18px;
+  color: #122450;
+  letter-spacing: 1.5px;
+  text-align: center;
+  padding: 20px 50px;
+  font-family: "ProximaNovaSemibold";
+  position: relative;
+  top: 30px;
+  font-weight: 500;
+}
+.fc-ebook-button-green:hover {
+  background: #BDDF11;
+  color: #122450;
+  box-shadow: 2px 2px 10px 2px rgb(13 29 65 / 0.4);
+  transition: 0.2s all;
+  -webkit-transition: 0.2s all;
+  -moz-transition: 0.2s all;
+}
+.fc-log-book-page .fc-heading-max{
+  max-width: 600px !important;
+}
+.fc-para-heading-log{
+  font-family: ProximaNovaRgRegular;
+  line-height: 30px;
+  position: relative;
+  padding: 25px 0px;
+  font-size: 18px;
+  color: #14132e;
+}
+.fc-log-book-page .fc-ebook-detail{
+  padding: 100px 0px 0px 0px !important;
+}
+
+.fc-log-book-page .fc-right-details{
+  max-width: 500px !important;
+}
+.fc-log-book-page .fserv-form-name{
+  font-size: 25px !important;
+  margin-bottom: 0 !important;
+}
+.fc-log-book-page .fserv-form-description{
+  margin-left: -2px !important;
+  padding-top: 5px !important;
+  text-align: left !important;
+}
+
+.fc-log-book-page .fserv-field{
+  padding-left: 8px !important;
+}
+.fc-log-book-page .fserv-form{
+  margin-top: 20px !important;
+}
+
+.fc-log-book-page .fserv-container .fserv-form-name{
+  text-align: left !important;
+  padding-left: 26px;
+}
+
+.fc-log-book-page .fserv-field+div:not(.fserv-field){
+  padding-left: 10px !important;
+}
+
+.fc-log-book-page .fserv-form{
+  padding-top: 0 !important;
+}
+.fc-log-book-page .fserv-input-text{
+  border: 1px solid #e5e5e5!important;
+  height: 50px;
+  font-size: 14px!important;
+}
+
+.fc-log-book-page .fserv-label{
+    color: #666666 !important;
+    font-size: 16px !important;
+}
+.fc-log-book-page .fserv-container button{
+  height: 55px !important;
+}
+
+.fc-page-guide-fdd .privacy-hero-container{
+  height: 400px !important;
+  background: #3a29a4 !important;
+  margin-top: 80px;
+  padding-top: 8rem !important;
+}
+
+.fdd-guide-banner-header{
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 263px;
+}
+
+.fc-page-guide-fdd .legal-content-para{
+    color: #181b3b;
+}
+
+.read-full-content-block{
+  position: relative;
+  top: -40px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.read-full-content-block .fc-guide-cta{
+  background-color: #3478f6;
+  border: 1px solid #3478f6;
+  color: #ffffff;
+  font-family: "ProximaNovasemiBold";
+  font-size: 18px;
+  letter-spacing: 0.6px;
+  padding: 15px 76px;
+  cursor: pointer;
+}
+
+.fc-page-guide-fdd .legal-sidebar{
+  width: 362px;
+  height: fit-content;
+  margin-bottom: 80px;
+  padding: 40px;
+  border: solid 1px #e0d7f9;
+  background-color: #ffffff;
+  margin-top: 5rem;
+
+}
+
+.fc-page-guide-fdd .legal-sidebar h3{
+  font-family: "ProximaNovaRgRegular";
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: normal;
+  color: #181b3b;
+}
+
+.fc-link-pink{
+  font-size: 18px;
+  line-height: 1.6;
+  cursor: pointer;
+  color: rgb(255, 49, 133);
+  font-weight: 500;
+  font-family: "ProximaNovaRgRegular";
+}
+
+.nav-list-link-item{
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+  color: #181b3b;
+}
+
+.fc-page-guide-fdd .nav-list-item{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.fc-border-left-content{
+  border-left: 5px solid #ff61a1;
+  padding-left: 20px;
+}
+
+@media screen and (max-width: 1024px) {
+  .fc-log-diagnal-img, .fc-log-diagnal-img2{
+    display: none;
+  }
+  .fc-log-book-page .fc-ebook-desc{
+    padding-top: 80px !important;
+    padding-left: 20px !important;
+  }
+  .fc-log-book-page .fc-ebook-banner{
+    min-height: inherit !important;
+    padding-bottom: 80px;
+  }
+  .fc-page-guide-fdd .legal-sidebar{
+    width: 92% !important;
+    margin-right: 60px;
+  }
+  .fc-guide-fdd-banner-img, .fc-guide-fdd-banner-img2{
+    display: none;
+  }
+  .fdd-guide-banner-header{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .fdd-guide-banner-header .fc-white-txt48{
+    font-size: 30px;
+  }
+  .fc-page-guide-fdd .privacy-hero-container{
+    height: auto !important;
+  }
+}
+
+.fc-guide-fdd-banner-img{
+  width: 435px;
+  position: absolute;
+  left: 40px;
+  top: 90px;
+}
+.fc-guide-fdd-banner-img2{
+  position: absolute;
+  right: 40px;
+  top: 120px;
+  width: 90px;
+}
+
+.fc-msg-box-blue{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding: 30px 30px;
+  background: #f0fdff;
+  margin-top: 50px;
+  border: 2px solid #5fe8f4;
+}
+@media screen and (max-width: 700px) {
+  .fc-page-guide-fdd .privacy-hero-container{
+    height: auto !important;
+    background: #3a29a4 !important;
+    margin-top: 80px;
+    padding-top: 4rem !important;
+    padding-bottom: 4rem !important;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .fc-white-txt52{
+    font-size: 35px;
+    padding-top: 10px;
+  }
+  .fc-page-guide-fdd .legal-sidebar{
+    padding: 20px !important;
+  }
+  .fc-page-guide-fdd .nav-list-item{
+    margin-bottom: 0 !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  .fc-success-messgage-box .pL40, .fc-success-messgage-box .pR40{
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .fc-heading-black-txt38{
+    font-size: 28px;
+  }
+  .fdd-guide-banner-header{
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+/* @media screen and (min-width: 2000px) {
+  .fc-log-diagnal-img, .fc-log-diagnal-img2{
+    display: none;
+  }
+} */

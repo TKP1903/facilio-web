@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="22px" viewBox="0 0 33 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>Group 31</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="REBuild_Homepage1.1" transform="translate(-114.000000, -7148.000000)">
+            <g id="Group-31" transform="translate(115.000000, 7149.000000)">
+                <g id="Group-14" stroke-width="2">
+                    <rect id="Rectangle-4" stroke="#FF4491" fill="#FFFFFF" x="1" y="1" width="22" height="18" rx="1.5"></rect>
+                    <rect id="Path" stroke="#4BC5D4" fill="#FFFFFF" x="0" y="0" width="24" height="20" rx="1.5"></rect>
+                    <line x1="0.5" y1="5.5" x2="23.5" y2="5.5" id="Line-2" stroke="#4BC5D4" stroke-linecap="round"></line>
+                </g>
+                <g id="Group-17" transform="translate(17.000000, 6.000000)">
+                    <circle id="Oval-6" stroke="#4BC5D4" stroke-width="2" fill="#FFFFFF" cx="7" cy="7" r="7"></circle>
+                    <rect id="Rectangle-5" fill="#4BC5D4" x="6" y="3" width="2" height="5" rx="1"></rect>
+                    <rect id="Rectangle-5" fill="#4BC5D4" transform="translate(8.500000, 8.000000) rotate(-240.000000) translate(-8.500000, -8.000000) " x="7.5" y="5.5" width="2" height="5" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

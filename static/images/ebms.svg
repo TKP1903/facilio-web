@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="817" height="807" viewBox="0 0 817 807">
+    <defs>
+        <rect id="a" width="1340" height="488" x="-23" y="402.5" rx="244"/>
+        <circle id="c" cx="42" cy="42" r="42"/>
+        <path id="e" d="M56.5 28.463c0 22.391-25.31 43.128-25.31 43.128-1.48 1.212-3.9 1.212-5.38 0 0 0-25.31-20.737-25.31-43.128C.5 13.019 13.036.5 28.5.5s28 12.52 28 27.963z"/>
+        <rect id="g" width="236" height="31" x=".5" y=".5" rx="15.5"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-101 -385)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#6B60B2" transform="rotate(-45 647 646.5)" xlink:href="#a"/>
+        <path fill="#391D72" d="M262 611h687v433H262z" mask="url(#b)"/>
+        <path fill="#39B2C2" d="M287 395h171v850H287z" mask="url(#b)"/>
+        <path fill="#3FC2D3" d="M588 741h286v370H588z" mask="url(#b)"/>
+        <path fill="#FF3184" d="M48.097 722.709h433v433h-433z" mask="url(#b)" transform="rotate(-45 264.597 939.209)"/>
+        <path fill="#FF3184" d="M622 395h433v433H622z" mask="url(#b)" transform="rotate(-45 838.5 611.5)"/>
+        <path fill="#FA5497" d="M678 339h433v433H678z" mask="url(#b)" transform="rotate(-45 894.5 555.5)"/>
+        <rect width="110" height="283" x="632" y="828" fill="#40CFE1" mask="url(#b)" rx="55"/>
+        <path fill="#000" d="M249 868h274v169H249z" opacity=".044"/>
+        <path fill="#FFF" d="M229 848h274v169H229z"/>
+        <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M648 962.505V887c0-21.54 17.46-39 39-39s39 17.46 39 39" opacity=".156"/>
+        <path fill="#F2F0FF" d="M229 848h274v20H229z"/>
+        <path fill="#FFA3C8" d="M366 890h110v60H366zM366 960h50v35h-50zM426 960h50v35h-50z"/>
+        <g transform="translate(256 890)">
+            <mask id="d" fill="#fff">
+                <use xlink:href="#c"/>
+            </mask>
+            <use fill="#77E7F6" xlink:href="#c"/>
+            <path fill="#40D5E9" d="M42.5 42.5V-6H96v48z" mask="url(#d)"/>
+        </g>
+        <g fill="#60DDEE" transform="rotate(-90 527.5 99.5)">
+            <circle cx="4.5" cy="4.5" r="4.5"/>
+            <circle cx="20.5" cy="4.5" r="4.5"/>
+            <circle cx="37.5" cy="4.5" r="4.5"/>
+            <circle cx="53.5" cy="4.5" r="4.5"/>
+            <circle cx="70.5" cy="4.5" r="4.5"/>
+        </g>
+        <g fill-rule="nonzero">
+            <path fill="#FFF" d="M754 575.963c0 22.391-25.31 43.128-25.31 43.128-1.48 1.212-3.9 1.212-5.38 0 0 0-25.31-20.737-25.31-43.128C698 560.519 710.536 548 726 548s28 12.52 28 27.963z"/>
+            <path fill="#FA5497" d="M726 590c-7.72 0-14-6.28-14-14s6.28-14 14-14 14 6.28 14 14-6.28 14-14 14z"/>
+        </g>
+        <g>
+            <g transform="translate(361.5 725.5)">
+                <mask id="f" fill="#fff">
+                    <use xlink:href="#e"/>
+                </mask>
+                <use fill="#FF79AF" fill-rule="nonzero" xlink:href="#e"/>
+                <path fill="#53D8EA" d="M6 10.5L53.5 58H71V-9h-84" mask="url(#f)"/>
+            </g>
+            <path fill="#FFF" fill-rule="nonzero" d="M390 768c-7.72 0-14-6.28-14-14s6.28-14 14-14 14 6.28 14 14-6.28 14-14 14z"/>
+        </g>
+        <g transform="translate(525 647)">
+            <mask id="h" fill="#fff">
+                <use xlink:href="#g"/>
+            </mask>
+            <use fill="#FF6AA6" xlink:href="#g"/>
+            <path fill="#6B60B2" d="M39-4l42 42H-7V-4z" mask="url(#h)"/>
+        </g>
+        <g fill="#FFF" fill-rule="nonzero" opacity=".335">
+            <path d="M687.67 899a7.633 7.633 0 0 1-2.998-.617 7.656 7.656 0 0 1-4.408-5.107 7.718 7.718 0 0 1 1.283-6.642L700 862l-4.768 30.48a7.666 7.666 0 0 1-3.849 5.544 7.597 7.597 0 0 1-3.713.976z"/>
+        </g>
+        <circle cx="243.5" cy="858.5" r="3.5" fill="#FFFEFE" opacity=".8"/>
+        <circle cx="255.5" cy="858.5" r="3.5" fill="#FFFEFE" opacity=".8"/>
+        <circle cx="267.5" cy="858.5" r="3.5" fill="#FFFEFE" opacity=".8"/>
+    </g>
+</svg>

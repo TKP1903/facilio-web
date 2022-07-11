@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="44" viewBox="0 0 28 44">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="6" cy="38" r="6" fill="#4D40A1"/>
+    <circle cx="6" cy="22" r="6" fill="#4D40A1"/>
+    <circle cx="22" cy="38" r="6" fill="#4D40A1"/>
+    <circle cx="22" cy="22" r="6" fill="#4D40A1"/>
+    <circle cx="22" cy="6" r="6" fill="#FE3787"/>
+  </g>
+</svg>

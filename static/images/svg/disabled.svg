@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="168px" height="168px" viewBox="0 0 168 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>disabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="disabled" fill="#A5A7B9" fill-rule="nonzero">
+            <path d="M0,83.875 C0,130.124 37.626,167.75 83.875,167.75 C130.124,167.75 167.75,130.124 167.75,83.875 C167.75,37.626 130.125,0 83.875,0 C37.625,0 0,37.626 0,83.875 Z M83.875,152.751 C45.897,152.751 15,121.854 15,83.875 C15,67.583 20.698,52.603 30.191,40.797 L126.953,137.559 C115.147,147.052 100.168,152.751 83.875,152.751 Z M152.75,83.875 C152.75,100.167 147.052,115.147 137.56,126.953 L40.797,30.191 C52.603,20.698 67.583,15 83.875,15 C121.853,15 152.75,45.897 152.75,83.875 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

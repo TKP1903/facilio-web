@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="552px" height="716px" viewBox="0 0 552 716" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Path Copy 3 + Group 2 Copy 6 Mask 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Path-Copy-3-+-Group-2-Copy-6-Mask-3" transform="translate(0.000000, 3.000000)">
+            <g id="Path-Copy-3-+-Group-2-Copy-6-Mask-2">
+                <g id="Path-Copy-3-+-Group-2-Copy-6-Mask">
+                    <g id="Mask" transform="translate(273.500000, 354.000000) scale(-1, 1) translate(-273.500000, -354.000000) translate(0.000000, -0.000000)"></g>
+                    <path d="M0,708 L547,708 C543.353516,685.201172 533.701133,617.32069 504.285156,528.550781 C488.274225,480.233879 465.671289,426.834262 436.042969,369.822266 C419.79882,338.564627 405.538364,316.215876 383.794922,283.273437 C363.52743,252.56714 316.284938,194.49679 270,151.914062 C225.47991,110.955018 166.405629,68.9341517 124.851562,49 C106.41178,40.3250788 133.805912,52.5829101 96.0859375,34.9394531 C83.3343014,28.974896 52.8746659,17.3284116 4.70703125,0 C3.70636056,246.666667 1.06738207,461.333333 0,708 Z" id="Path-Copy-3" fill="#FCFCFD" fill-rule="nonzero" opacity="0" transform="translate(273.500000, 354.000000) scale(-1, 1) translate(-273.500000, -354.000000) "></path>
+                    <g id="Group-2-Copy-6" transform="translate(373.000000, 357.500000) scale(-1, 1) translate(-373.000000, -357.500000) translate(0.000000, -32.000000)" fill-rule="nonzero">
+                        <path d="M0,745 L746,745 C739.045339,692.245946 673.751576,249.625338 302.802951,70.472973 C208.946719,26.0203476 106.819171,2.00562958 3.10207914,0 C2.10140845,248.333333 1.06738207,496.666667 0,745 Z" id="Path-Copy-3" fill="#3448A3" opacity="0.876278832"></path>
+                        <path d="M0,779 L469,779 C464.640705,744.941615 423.603205,459.179814 190.405983,343.660145 C131.691813,314.96354 67.3708123,299.379152 1.95416667,298 L0,779 Z" id="Path-Copy-5" fill="#5C98E8" opacity="0.877999442"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,980 @@
+.product-walkthrough-page .remodel-txt-main,
+.product-walkthrough-page .remodel-text-sub {
+    text-align: center;
+    color: #ffffff;
+}
+
+.product-walkthrough-page .remodel-text-sub {
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    line-height: 1.44;
+    margin-top: 10px;
+    background: #3b1199;
+}
+
+.product-walkthrough-page .rebuild-head-colored::after{
+    bottom: 59%;
+}
+
+.product-walkthrough-page .remodel-txt-main {
+    max-width: 850px;
+    font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 46px;
+    font-weight: bold;
+    line-height: 1.09;
+    letter-spacing: 0.2px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background: #3a1298;
+}
+
+.product-walkthrough-page .fc-button-collapsive {
+    margin-top: 50px;
+    text-align: center;
+    max-width: 300px !important;
+}
+
+.product-rebuild-banner {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 600px;
+    padding: 0;
+}
+
+.product-walkthrough-page .intro-txt-rebuild{
+    margin-top: 4rem;
+}
+.product-walkthrough-page .fc-webinar-cta:hover {
+    color: #fff;
+}
+
+.fc-product-cta {
+    font-family: "ProximaNovaRgRegular";
+    background-color: #ff3184;
+    font-size: 18px;
+    line-height: normal;
+    text-align: center;
+    border-radius: 0;
+    color: #fff;
+    padding: 20px 38px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    text-decoration: none;
+    border-color: #ff3184;
+}
+
+.fc-product-cta:hover, .fc-product-cta:active, .fc-product-cta:focus{
+    background-color: #ff3184;
+    color: #fff;
+    border-color: #ff3184;
+    outline: none;
+    background-color: #f31f74;
+}
+
+.fc-product-walkthrough-main{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.fc-rebuid-card__container{
+    position: relative;
+    border: 1px solid #cfc6e9;
+    background-color: #fff;
+    padding: 40px 40px;
+    display: block;
+    -webkit-transition: .2s ease-out;
+    -o-transition: .2s ease-out;
+    transition: .2s ease-out;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+.fc-rebuid-card__container:hover .watchnow-btn{
+    border: solid 1px #6643cb;
+    background-color: #6643cb;
+    outline: none;
+    color: #fff;
+}
+
+.fc-rebuid-card__container:hover{
+    text-decoration: none;
+    border-color: #fff;
+    box-shadow: 0 8px 25px 0 rgba(172, 167, 186, 0.26);
+    border: solid 1px #cfc6e9;
+}
+
+.fc-rebuid-card-desc{
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: normal;
+    color: #181b3b;
+}
+
+.fc-rebuid-card-host{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.fc-rebuid-card-title{
+    color: #181b3b;
+    font-family: "ProximaNovaBold";
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.fc-rebuid-card-duration{
+    position: absolute;
+    right: 33px;
+    top: 20px;
+    color: #ff3184;
+    font-size: 14px;
+    font-family: "ProximaNovaRgRegular";
+}
+.fc-rebuid-card-host{
+    padding-top: 60px;
+    font-family: "ProximaNovaSemibold";
+    font-size: 18px;
+}
+
+.fc-build-col-padding{
+    padding-left: 60px;
+}
+
+.fc-rebuild-card-heading{
+    font-family: "ProximaNovaRgRegular";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1.5px;
+    color: #573da5;
+    padding-bottom: 20px;
+}
+
+.fc-rebuild-con{
+    padding-top: 80px;
+}
+
+.fc-product-intro-page .fc-webinar-series-banner h1{
+    max-width: 750px;   
+}
+.fc-product-intro-page .fc-webinar-feat-card{
+    max-width: 1000px;
+}
+
+.fc-product-content{
+    font-size: 18px !important;
+    font-family: "ProximaNovaRgRegular";
+    line-height: 25px;
+    color: #181b3b;
+    display: flex;
+    align-items: center;
+}
+
+.rebuild-list-container {
+    margin-top: 30px;
+}
+
+.rebuild-acc-arrow {
+    padding: 0px 15px;
+}
+
+.product-img {
+    margin-top: 10%;
+}
+
+.w-feature-head-rebuild {
+    font-size: 40px;
+}
+
+.w-feature-head-rebuild,
+.w-feature-second-head-rebuid {
+    font-family: Merriweather;
+    max-width: 800px;
+    margin: 0 auto;
+    font-weight: 300;
+    line-height: 51px;
+    text-align: center;
+    color: #181b3b;
+}
+
+.w-feature-second-head-rebuid {
+    font-size: 32px;
+}
+
+.toolkit-box {
+    width: 204px;
+    height: 140px;
+    background-color: #ffffff;
+    margin: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.toolkit-txt {
+    margin-top: 10px;
+}
+
+.toolkit-content {
+    padding: 15px;
+    font-family: ProximaNovaSemiBold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: normal;
+    line-height: normal;
+    margin-top: 10px;
+}
+
+.toolkit-box:hover {
+    box-shadow: 0 9px 38px 8px rgba(0, 0, 0, 0.1);
+    background-color: #3269d6;
+    color: #ffffff !important;
+    -webkit-transform: translatey(-4px);
+    transform: translatey(-4px);
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease;
+    text-decoration: none;
+}
+
+.sec-rebuild-wrapper {
+    padding: 40px;
+    max-width: 100%;
+}
+
+.tick-circle {
+    padding-right: 18px;
+}
+
+.try-link {
+    margin-bottom: 60px;
+}
+
+.pT10 {
+    padding-top: 10px;
+}
+
+.tick-circle-img {
+    width: 17px;
+}
+
+.w-col-wrapper {
+    padding: 40px 0px !important;
+}
+
+.rebuild-datasheet-btn {
+    margin-top: 41px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.ebook-img {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.ebook-img-inner {
+    margin-top: -20px;
+}
+
+.list-blog-items {
+    margin-top: 45px;
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #9aceff;
+    cursor: pointer;
+    text-align: center;
+    font-size: 18px;
+    color: #181b3b;
+    font-weight: 400;
+    line-height: 1.4;
+}
+
+.list-blog-items:hover {
+    color: #ff3184;
+}
+
+.right-pdf-sec {
+    padding: 40px 20px 20px 20px;
+}
+
+.left-pdf-sec {
+    padding: 40px 20px 0px 20px;
+}
+
+.toolkit-img {
+    width: 30px;
+    height: 33px;
+}
+
+.tag {
+    margin-left: 15px;
+    color: #000000;
+    background-color: #c1f8ff;
+    border: 1px solid #c1f8ff;
+    border-radius: 5px;
+    padding: 2px 10px;
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.wrap-feature-div {
+    width: 47%;
+}
+
+.max-width707 {
+    max-width: 707px;
+    width: 100%;
+}
+
+.seize-sec {
+    padding: 66px 0px;
+}
+
+.blog-item-container {
+    margin-bottom: 20px;
+}
+
+.fc-container-testimonial {
+    max-width: 1129px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.fc-container-rebuild {
+    max-width: 1150px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.fc-speaker-card {
+    position: relative;
+    max-width: 600px;
+    margin: 48px auto 0;
+}
+
+.fc-speaker-card:hover {
+    opacity: .9;
+}
+
+.fc-case-challenge-rebuild {
+    padding: 85px 15px 0px 15px;
+}
+
+.fc-smartae-cycle-con {
+    background-color: #f2f7fe;
+}
+
+.bg-grey-testimonial {
+    background-color: #fbfafe;
+}
+
+.bg-grey {
+    padding: 25px 25px 0px 25px;
+    background-color: #fbfafe;
+}
+
+.w-feature-wrapper {
+    padding: 0;
+}
+
+.fc-wrapper-pad {
+    padding: 40px 0px;
+}
+
+.fc-video-txt-rebuild {
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    line-height: 1.56;
+    color: #181b3b;
+    padding-bottom: 25px;
+    margin-top: 14px;
+}
+
+.fc-workplace-table-text {
+    font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 38px;
+    font-weight: bold;
+    color: #181b3b;
+}
+
+.fc-workplace-table-des {
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    line-height: 1.44;
+    color: #181b3b;
+}
+
+.fc-workplace-rebuild-head {
+    font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 32px;
+    font-weight: bold;
+    color: #181b3b;
+    margin-bottom: 20px;
+}
+
+.blue-underline {
+    border-bottom: 3px solid #89e6ee;
+    padding-bottom: 3px;
+}
+
+.rebuild-cta {
+    text-transform: uppercase;
+    margin-top: 85px;
+    text-align: center;
+}
+
+.w-feature-head-center {
+    line-height: 1.28;
+}
+
+.cta-feature-rebuild {
+    font-family: ProximaNovaSemiBold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 20px;
+    font-weight: bold;
+    color: #181b3b;
+    text-align: center;
+    padding-bottom: 14px;
+}
+
+.rebuild-operations-banner {
+    width: 100%;
+    text-align: center;
+    background-color: #fafafa;
+}
+
+.rebuild-list-sec {
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 17px;
+    font-weight: 450;
+    line-height: 2.1;
+    color: #181b3b;
+}
+
+.rebuild-feature-txt {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 900px;
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    color: #181b3b;
+    padding: 10px 0px 20px 0px;
+}
+
+.fc-workplace-rebuild-subhead {
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: normal;
+    color: #181b3b;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+.rebuild-feature-head {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 900px;
+    font-size: 38px;
+    font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 700;
+    line-height: 1.21;
+    color: #181b3b;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.fc-case-text-rebuild {
+    font-family: ProximaNovaRgRegular, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.56;
+    letter-spacing: normal;
+    color: #14132e;
+    margin-bottom: 30px;
+}
+
+.rebuild-testimonial-txt {
+    font-family: Merriweather;
+    font-size: 20px;
+    line-height: 1.8;
+    color: #181b3b;
+    text-align: left;
+    font-weight: 500;
+}
+
+.testimonial-name {
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+    text-align: left;
+    padding: 20px 0px 10px 0px;
+}
+
+.testimonial-company {
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    font-weight: 600;
+    color: #87879e;
+    text-align: left;
+}
+
+.rebuildPink {
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    color: #ff3184;
+    padding-top: 20px;
+}
+
+.underline {
+    color: #ff3184;
+    border-bottom: 1px solid #ff3184;
+    padding-bottom: 3px;
+}
+
+.fc-smartae-cycle-con {
+    padding: 0px;
+}
+
+.intro-txt-rebuild {
+    opacity: 0.5;
+    font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-top: 6rem;
+    margin-bottom: 5px;
+}
+
+.rebuild-head-colored {
+    text-align: center;
+}
+
+.rebuild-head-colored::after {
+    content: '';
+    height: 2px;
+    width: 3%;
+    background: #6e52d2;
+    position: absolute;
+    left: calc(50% - 2%);
+    bottom: 63%;
+}
+
+.fc-circular-voilet-btn {
+    border: none;
+    text-decoration: none;
+    border-radius: 30px;
+    background-color: #483a9e;
+    padding: 20px;
+    text-align: center;
+    max-width: 328px;
+    margin-top: 15px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 14px;
+    letter-spacing: 1px !important;
+}
+
+.fc-circular-voilet-btn:hover, .fc-circular-voilet-btn:active, .fc-circular-voilet-btn:focus{
+    background-color: #483a9e;
+    color: #fff;
+    border: none;
+}
+
+.remodel-txt-main,
+.remodel-text-sub {
+    text-align: center;
+    color: #ffffff;
+}
+
+.remodel-txt-main {
+    font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 46px;
+    font-weight: bold;
+    line-height: 1.09;
+    letter-spacing: 0.2px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 63px;
+}
+
+.remodel-text-sub {
+    font-family: ProximaNova, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    line-height: 1.44;
+    width: 38%;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+.fc-button-collapsive {
+    max-width: 410px !important;
+}
+
+.fc-webinar-cta {
+    max-width: 332px !important;
+}
+
+.fc-smartae-home-banner {
+    margin: 0px;
+}
+
+.pad-right-10 {
+    padding-right: 10%;
+}
+
+.bg-blue {
+    background-color: #c1f8ff;
+    padding: 2px;
+}
+
+.rebuildBluearrow-center {
+    text-align: center;
+}
+
+.rebuildBluearrow-left {
+    padding-top: 40px;
+    margin-bottom: 30px;
+}
+
+.rebuildBluearrow-center,
+.rebuildBluearrow-left {
+    font-family: ProximaNovaSemiBold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    font-weight: 600;
+    color: #3478f6;
+}
+
+.rebuildBluearrow-center:hover::after,
+.rebuildBluearrow-left:hover::after {
+    -webkit-transform: translateX(4px);
+    transform: translateX(4px);
+}
+
+.rebuildBluearrow-center::after,
+.rebuildBluearrow-left::after {
+    content: "";
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 10px;
+    opacity: 1;
+    -webkit-transition: 0.3s ease;
+    transition: 0.3s ease;
+    background: url(/images/icons/light-blue-arrow.svg) center/contain no-repeat;
+}
+
+.exampleModalCenter{
+    background: rgb(0 0 0 / 0.3);
+}
+
+.blue-pdf-head {
+    font-family: ProximaNovaBold, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 24px;
+    color: #3a2c90;
+}
+
+.fc-product-intro-page .webseries-thumbnail:hover {
+    transform: inherit;
+    transition: inherit;
+}
+
+.fc-product-intro-page .fc-epi-name{
+ color: #000;
+}
+
+.fc-product-intro-page .webseries-thumbnail:hover .fc-epi-desc{
+    opacity: 1;
+    background: transparent;
+    color: #000;
+    -webkit-transform: translateY(0);
+}
+
+.fc-product-intro-page .webseries-thumbnail .fc-epi-desc{
+    opacity: 1;
+    background: transparent;
+    color: #000;
+}
+
+.fc-product-intro-page .webseries-thumbnail .fc-epi-desc{
+    transition-delay: inherit;
+    transition-duration: inherit;
+}
+
+.fc-img-position{
+    position: relative;
+    left: 22px;
+}
+
+.fc-vai-img{
+    position: relative;
+    right: 14px;
+}
+
+.fc-arun-position{
+    position: relative;
+    left: 7px;
+}
+
+.fc-product-intro-page .fc-webinar-series-banner h2{
+  margin-top: 0;
+}
+
+.fc-product-intro-page .fc-webinar-series-banner h1{
+    font-size: 45px;
+    line-height: 45px;
+}   
+
+.fc-product-intro-page .fc-webinar-series-banner h2{
+    font-size: 24px
+}
+
+@media only screen and (max-width: 600px) {
+    .rebuild-head-colored::after {
+        width: 9%;
+        bottom: 66%;
+        left: calc(50% - 4%);
+    }
+
+    .remodel-text-sub {
+        width: 61%;
+    }
+}
+
+@media only screen and (max-width: 470px) {
+    .remodel-txt-main {
+        width: 100%;
+    }
+
+    .remodel-text-sub {
+        width: 84%;
+    }
+
+    .rebuild-head-colored::after {
+        width: 9%;
+        bottom: 63%;
+        left: calc(50% - 6%);
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .max-width707 {
+        max-width: 727px;
+        width: 100%;
+    }
+
+    .toolkit-box {
+        width: 28%;
+        height: auto;
+        padding: 40px;
+    }
+
+    .fc-smartae-cycle-con img {
+        width: auto;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .grey-right-pad {
+        padding-bottom: 27%;
+    }
+
+    .learn-more-txt {
+        text-align: center;
+        margin-top: 80px;
+        margin-bottom: 50px;
+    }
+
+    .command-center-image {
+        margin-top: 20%;
+    }
+
+    .blue-patch {
+        /* background-color:#3c2a98; */
+        display: block;
+    }
+
+    .section-rebuild-wrapper {
+        margin: 60px;
+    }
+
+    .fc-workplace-table-text {
+        text-align: right;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .faq-txt {
+        margin-left: 10px;
+    }
+
+    .max-width707 {
+        text-align: left;
+    }
+
+    .seize-sec {
+        padding: 0px;
+    }
+
+    .w-col-wrapper {
+        padding: 0px;
+    }
+
+    .learn-more-txt {
+        padding: 40px;
+    }
+
+    .w-feature-head-center {
+        text-align: left;
+    }
+
+    .w-feature-wrapper {
+        padding: 10px;
+    }
+
+    .rebuild-list-sec {
+        font-size: 15px;
+        font-weight: 410;
+    }
+
+    .fc-video-txt-rebuild {
+        text-align: left;
+    }
+
+    .wrap-feature-div {
+        width: 100%;
+    }
+
+    .fc-workplace-table-text {
+        font-size: 28px;
+    }
+
+    .toolkit-container {
+        margin: 20px;
+    }
+
+    .toolkit-box {
+        width: 60%;
+        margin: 40px auto;
+    }
+
+    .remodel-txt-main,
+    .fc-workplace-rebuild-head,
+    .blue-pdf-head {
+        font-size: 24px;
+    }
+
+    .fc-workplace-rebuild-subhead {
+        font-size: 26px;
+    }
+
+    .cta-feature-rebuild,
+    .rebuild-testimonial-txt {
+        padding: 20px;
+        font-size: 16px;
+    }
+
+    .rebuild-feature-head,
+    .rebuild-feature-txt {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .pad-right-10 {
+        padding: 20px;
+        margin-left: 0;
+    }
+
+    .testimonial-company,
+    .testimonial-name {
+        padding-left: 20px;
+    }
+    .product-rebuild-banner{
+        margin-top: 0;
+        background: #3b1099 !important;
+    }
+
+    .product-rebuild-banner .rebuild-head-colored::after{
+        display: none;
+    }
+    .fc-build-col-padding{
+        padding-left: 20px;
+    }
+    .fc-rebuild-con{
+        padding-top: 40px;
+    }
+    .product-walkthrough-page .fc-product-walkthrough-main{
+        padding-bottom: 0;
+    }
+    .fc-button-collapsive{
+        text-align: center;
+        margin-top: 50px;
+    }
+    .fc-rebuid-card__container{
+        padding:40px 20px;
+    }
+    
+}
+
+@media only screen and (max-width: 769) {
+    .mobile-only-top-margin {
+        margin-top: -16%;
+    }
+}
+
+@media only screen and (max-width: 760px) and (min-width: 320px) {
+    .toolkit-box {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .w-feature-head-rebuild {
+        font-size: 18px;
+    }
+
+    .w-feature-second-head-rebuid {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 989px) and (min-width: 767px) {
+    .fc-workplace-table-text {
+        text-align: left;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .product-walkthrough-page .remodel-txt-main {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (max-width: 470px) {
+    .product-walkthrough-page .remodel-txt-main {
+        width: 100%;
+    }
+}

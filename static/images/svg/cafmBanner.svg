@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="500">
+  <defs>
+    <path id="a" d="M0 0h1440v500H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <use fill="#E8E4FF" xlink:href="#a"/>
+    <path stroke="#351166" stroke-linecap="square" d="M103 499l.5-66.5h1194l.5-42.5h142" mask="url(#b)" opacity=".3"/>
+    <circle cx="1425" cy="253" r="42" stroke="#42D4EC" stroke-width="10" mask="url(#b)"/>
+    <path fill="#FFF" fill-opacity=".7" d="M255 329h16.6v16.6H255z" mask="url(#b)" transform="rotate(-30 263.3 337.3)"/>
+    <circle cx="1392.779" cy="106.779" r="15.779" fill="#FFF" fill-opacity=".7" mask="url(#b)"/>
+    <path stroke="#A15FFF" stroke-linecap="square" stroke-width="4" d="M33.5 229v71.5m20.5-105v105" mask="url(#b)"/>
+    <g fill="#FFF">
+      <g transform="translate(144 30)">
+        <rect width="7.549" height="7.549" x="112" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="84" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="56" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="28" rx="3.775"/>
+        <rect width="7.549" height="7.549" rx="3.775"/>
+      </g>
+      <g transform="translate(144 86)">
+        <rect width="7.549" height="7.549" x="112" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="84" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="56" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="28" rx="3.775"/>
+        <rect width="7.549" height="7.549" rx="3.775"/>
+      </g>
+      <g transform="translate(144 58)">
+        <rect width="7.549" height="7.549" x="112" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="84" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="56" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="28" rx="3.775"/>
+        <rect width="7.549" height="7.549" rx="3.775"/>
+      </g>
+      <g transform="translate(144 114)">
+        <rect width="7.549" height="7.549" x="112" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="84" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="56" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="28" rx="3.775"/>
+        <rect width="7.549" height="7.549" rx="3.775"/>
+      </g>
+      <g transform="translate(144 142)">
+        <rect width="7.549" height="7.549" x="112" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="84" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="56" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="28" rx="3.775"/>
+        <rect width="7.549" height="7.549" rx="3.775"/>
+      </g>
+      <g transform="translate(144 170)">
+        <rect width="7.549" height="7.549" x="112" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="84" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="56" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="28" rx="3.775"/>
+        <rect width="7.549" height="7.549" rx="3.775"/>
+      </g>
+      <g transform="translate(144 198)">
+        <rect width="7.549" height="7.549" x="112" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="84" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="56" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="28" rx="3.775"/>
+        <rect width="7.549" height="7.549" rx="3.775"/>
+      </g>
+      <g transform="translate(144 226)">
+        <rect width="7.549" height="7.549" x="112" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="84" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="56" rx="3.775"/>
+        <rect width="7.549" height="7.549" x="28" rx="3.775"/>
+        <rect width="7.549" height="7.549" rx="3.775"/>
+      </g>
+    </g>
+  </g>
+</svg>

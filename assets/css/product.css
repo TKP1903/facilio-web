@@ -1,0 +1,347 @@
+@media screen and (max-width: 600px){ 
+  .mailchimp-form{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .pdtBannerCont {
+    margin-top: 100px !important;
+  }
+  .pdtBannerCont .primeHead {
+    font-size: 2.1375rem;
+  }
+  .desc {
+    font-size: 16px !important;
+}
+  .dots-wrap.nav-dots {
+    display: none;
+  }
+  .container > .navbar-header {
+    margin: 0px;
+  }
+  .teamSection, .futureSection {
+    padding: 40px 0 0;
+  }
+  .primeHead {
+    font-size: 1.5rem;
+    line-height:32px !important;
+}
+  .teamSection .dots-wrap {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  } 
+  .desc {
+    margin-top: 40px;
+  }
+  .teamMenuFix {
+    width: 100% !important;
+  }
+
+  .productOpts .dots-wrap {
+    margin: auto;
+    margin-top: 15px;
+  }
+  .managementSection .teamMenu a {
+    /*font-size: 10px;*/
+  }
+  .productOpts {
+    padding: 60px 0;
+  }
+  .energyOpts .primeHead {
+    width: 100% !important;
+  }
+  .energyMenu {
+    margin-right: -15px;
+    margin-left: -15px;
+    display: inline-flex;
+    width: 100%;
+    margin: auto;
+  }
+  .energyMenu > a {
+    width: 33.3%;
+    font-size: 12px;
+  }
+  .mobile-view > .tab-content > .active > img {
+    width: 90%;
+  }
+  .energyOpts .tab-content {
+    min-height: 220px;
+    max-height: 220px;
+}
+/*.managementSection .primeTagHead {
+    margin-top: 70px;
+}*/
+.teamSection1 {
+  padding: 120px 0 0;
+  margin-top: 50%;
+}
+.energyTabContent {
+margin-top: 25px;
+}
+.laptopIma::before {
+   display: none;
+ }
+  .navbar-nav {
+    padding: 10px;
+ }
+.getStart-btn {
+  float: right;
+  padding: 10px !important;
+  font-size: 10px !important;
+}
+.teamSection .nav-tabs {
+  font-size: 11px;
+}
+.desktop {
+  display: none !important;
+}
+.mobile {
+  display: block !important;
+}
+.productOpts-img {
+  margin-top: 0px !important;
+}
+.energyOpts-new {
+  border-bottom: none !important;
+  padding-top: 20px;
+}
+.managementSection-new {
+  padding-top: 50px !important;
+}
+.teamTabContent1 .tab-content {
+  margin-bottom: 0px !important
+}
+/*.screen2 {
+  margin-left: 40px !important;
+}*/
+.screen3 {
+  width: 90% !important;
+}
+}
+
+@media screen and (max-width: 768px) and (min-width: 600px) { 
+  .pdtBannerCont {
+    margin-top: 100px !important;
+  }
+  .pdtBannerCont .primeHead {
+    font-size: 2.1375rem;
+  }
+  .desc {
+    font-size: 1.025rem;
+    padding: 10px;
+  }
+  .pdtBannerIma {
+    margin: 40px auto 50px;
+  }
+  .container > .navbar-header {
+    margin: 0px;
+  }
+  .teamSection, .futureSection {
+    padding: 80px 0 80px;
+  }
+  .primeHead {
+    font-size: 1.6rem;
+  }
+  .teamSection .dots-wrap {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  } 
+  .desc {
+    margin-top: 40px;
+  }
+  .teamMenuFix {
+    width: 100% !important;
+  }
+  .managementSection {
+    padding: 70px 0 0;
+  }
+
+  .productOpts .dots-wrap {
+    margin: auto;
+    margin-top: 15px;
+  }
+  .managementSection .teamMenu a {
+    font-size: 10px;
+  }
+  .productOpts {
+    padding: 60px 0;
+  }
+  .energyOpts .primeHead {
+    width: 90%;
+  }
+  .energyMenu {
+    margin-right: -15px !important;
+    margin-left: -15px !important;
+    width: 100%;
+    margin: auto;
+  }
+  .energyMenu > a {
+    width: 80%;
+    margin-left: 20%;
+    font-size: 12px;
+  }
+  .mobile-view > .tab-content > .active > img {
+    width: 100%;
+    margin-top: 0px !important;
+  }
+  .energyOpts .tab-content {
+    min-height: 220px;
+    max-height: 220px;
+}
+.screen2 {
+/*    margin-left: 50px !important;*/
+    margin-top: 150px;
+}
+/* /* .managementSection-new-2 {
+  padding-top: 0px !important;
+} */
+} 
+.center-block1 {
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 0 0 150px 43px rgba(60,44,86,0.15);
+    -webkit-box-shadow: 0 0 150px 43px rgba(60,44,86,0.15);
+}
+.teamTabContent1 .tab-pane {
+    box-shadow: none !important;
+    border: none !important;
+    -webkit-box-shadow: none !important;
+}
+.img-new {
+  width: 100%;
+  /* margin-top: 120px; */
+  position: relative;
+  top: 30px;
+}
+.teamTabContent1 .tab-content {
+margin-top: 0px !important;
+margin-bottom: -130px;
+}
+.managementSection {
+  padding-top: 170px ;
+}
+.teamTabContent1 {
+  top: 50px !important;
+}
+ul.energyMenu{
+    list-style-type: none !important;
+}
+.energyMenu>li>a p.energyMenuSentence  {
+display: none
+}
+.energyMenu li.active .activecard {
+  box-shadow: 2px 5px 20px 2px rgba(222,222,222,.59);
+  -webkit-box-shadow: 2px 5px 20px 2px rgba(222,222,222,.59);
+  border-left-color: #ff3184 !important;
+}
+.energyMenu>li.active>a p.energyMenuSentence {
+  display: inline-block !important;
+  font-size: 13px;
+  letter-spacing: 0.3px;
+  color: #777;
+  transition: all .2s ease-in; 
+}
+.energyMenuText {
+  letter-spacing: 0.2px;
+}
+.newAutoTrack {
+  box-shadow: none !important;
+}
+.productOpts-new {
+  padding-top: 60px !important;
+}
+.tab-content-new {
+  margin-top: 20px !important;
+}
+.carousel-inner {
+  width: 110% !important;
+}
+.productOpts-img {
+  margin-top: 140px;
+}
+.managementSection-new-2 {
+  padding-top: 100px ;
+}
+.predictSlider .carousel {
+  min-height: auto;
+}
+/*.energyMenuBg {
+  border-left: 2px solid #f5f5f5;
+}*/
+.energyOpts-new  {
+  padding-bottom: 58px;
+}
+.screen2 {
+  margin-left: 60px;
+  margin-top: 30px;
+}
+.overlay {
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+/*  image-rendering: pixelated
+*/}
+
+.mobile-content{
+  margin-top: 7em;
+}
+.desc{
+  margin-top: 25px;
+}
+@media screen and (max-width: 600px) { 
+.mobile-content{
+  margin-top: 3em;
+  margin-bottom: 40px;
+}
+.padding-remove{
+  margin-bottom: 40px !important; 
+}
+.partner-blue-bd, .mobile-padding{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.product-mobile-padding{
+  margin-bottom: 30px;
+}
+.productOpts-new, .managementSection-new-2{
+  padding-top: 0 !important;
+  padding-bottom: 0;
+}
+/* .primeSubHead, .partner-decs2{
+  padding-left: 15px;
+    padding-right: 15px;
+} */
+.partner-feature-row, .product-feature-row{
+  padding-bottom: 0;
+}
+.mobile-padidng {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+}
+.pad
+{
+    margin-left:10px;
+    margin-right:10px;
+    
+}
+.pad1
+{
+    margin-left:5px;
+    margin-right:5px;
+}
+.mailchimp-form{
+  margin-left: auto;
+  max-width: 500px;
+  margin-bottom: 100px;
+  margin-right: auto;
+}
+
+.fc-btn-con{
+  max-width: 265px;
+  margin-left: auto;
+  text-align: center;
+  margin-right: auto;
+}
